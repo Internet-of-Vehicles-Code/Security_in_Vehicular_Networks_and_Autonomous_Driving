@@ -11,3 +11,12 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - IEEE Symposium on Security and Privacy (IEEE S&P)
 - ACM Conference on Computer and Communications Security (CCS)
 - Network and Distributed System Security (NDSS) Symposium
+
+## survey
+- A. Boualouache and T. Engel, "A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 25, no. 2, pp. 1128-1172, Secondquarter 2023, doi: 10.1109/COMST.2023.3236448. [[paper]](https://ieeexplore.ieee.org/document/10015746)
+- S. V. Balkus, H. Wang, B. D. Cornet, C. Mahabal, H. Ngo and H. Fang, "A Survey of Collaborative Machine Learning Using 5G Vehicular Communications," in IEEE Communications Surveys & Tutorials, vol. 24, no. 2, pp. 1280-1303, Secondquarter 2022, doi: 10.1109/COMST.2022.3149714. [[paper]](https://ieeexplore.ieee.org/abstract/document/9706268?signout=success&signout=success)
+
+# Group
+| Web | Affiliation | Github |
+| :---: | :---: | :---: |
+| [CoRE research group](https://core-researchgroup.de/about/) | Hamburg University of Applied Sciences | [Link](https://github.com/CoRE-RG) |

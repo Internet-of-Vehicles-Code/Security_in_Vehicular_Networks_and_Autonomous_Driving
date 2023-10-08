@@ -28,11 +28,21 @@
 ## V2X Communication Security
 - G. Twardokus and H. Rahbari, "Towards Protecting 5G Sidelink Scheduling in C-V2X Against Intelligent DoS Attacks," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3249665. [[paper]](https://ieeexplore.ieee.org/abstract/document/10058928)
 - J. Kamel, M. R. Ansari, J. Petit, A. Kaiser, I. B. Jemaa and P. Urien, "Simulation Framework for Misbehavior Detection in Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 69, no. 6, pp. 6631-6643, June 2020, doi: 10.1109/TVT.2020.2984878. [[paper]](https://ieeexplore.ieee.org/abstract/document/9056489),[[code]](https://github.com/josephkamel/F2MD)
+  - F2MD框架进行不当行为检测，能够开发、测试和比较 不当行为检测（MBD） 算法。        
 - Wang, T., Kim, S., Ji, W., Xie, E., Ge, C., Chen, J., ... & Luo, P. (2023). DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving. arXiv preprint arXiv:2304.01168. [[paper]](https://arxiv.org/pdf/2304.01168.pdf),[[DeepAccident]](https://deepaccident.github.io/index.html),[[code]](https://github.com/tianqi-wang1996/DeepAccident/)
 - Y. Li, X. Tao, X. Zhang, J. Liu and J. Xu, "Privacy-Preserved Federated Learning for Autonomous Driving," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8423-8434, July 2022, doi: 10.1109/TITS.2021.3081560. [[paper]](https://ieeexplore.ieee.org/abstract/document/9457207)
 - M. Li, X. Yang, F. Khan, M. A. Jan, W. Chen and Z. Han, "Improving Physical Layer Security in Vehicles and Pedestrians Networks With Ambient Backscatter Communication," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 9380-9390, July 2022, doi: 10.1109/TITS.2021.3117887. [[paper]](https://ieeexplore.ieee.org/abstract/document/9737362)
+- M. R. Ansari, J. -P. Monteuuis, J. Petit and C. Chen, "V2X Misbehavior and Collective Perception Service: Considerations for Standardization," 2021 IEEE Conference on Standards for Communications and Networking (CSCN), Thessaloniki, Greece, 2021, pp. 1-6, doi: 10.1109/CSCN53733.2021.9686156. [[paper]](https://ieeexplore.ieee.org/document/9686156)
+    - 攻击者可能会发送经过身份验证但错误的数据来发送虚假位置信息、警告不正确的事件或报告危及其他 CAV 安全的虚假对象。当前的标准化工作尚未包括集体感知（CP）等高级 V2X 服务的不当行为规范。这项工作评估了 CP 消息的安全性，并提出了供现有标准考虑的意见。(协同感知消息的安全性)
+- J. -P. Monteuuis, J. Petit, M. R. Ansari, C. Chen and S. Yang, "V2X Misbehavior in Maneuver Sharing and Coordination Service: Considerations for Standardization," 2022 IEEE Conference on Standards for Communications and Networking (CSCN), Thessaloniki, Greece, 2022, pp. 194-199, doi: 10.1109/CSCN57023.2022.10051093. [[paper]](https://ieeexplore.ieee.org/document/10051093)
+    - 意图共享：评估 MSC 消息 (机动共享和协调服务，MSCM) 的安全性。
 
 ## Cooperative perception
 
 - Qingzhao Zhang, Shuowei Jin, Jiachen Sun, Xumiao Zhang, Ruiyang Zhu, Qi Alfred Chen, Z. Morley Mao. On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures. arXiv:2309.12955. [[paper]](https://arxiv.org/pdf/2309.12955.pdf)
 - J. Li et al., "Learning for Vehicle-to-Vehicle Cooperative Perception Under Lossy Communication," in IEEE Transactions on Intelligent Vehicles, vol. 8, no. 4, pp. 2650-2660, April 2023, doi: 10.1109/TIV.2023.3260040. [[paper]](https://ieeexplore.ieee.org/abstract/document/10077757)
+
+
+## dataset
+- VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
+- J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
