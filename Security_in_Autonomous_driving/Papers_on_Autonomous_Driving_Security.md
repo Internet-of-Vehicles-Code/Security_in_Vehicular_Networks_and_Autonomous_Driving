@@ -1,3 +1,6 @@
+# Awesome Page
+- [Autonomous Driving (AD) & Connected Vehicle (CV) Systems Security](https://sites.google.com/view/cav-sec/home)
+
 # Survey
 - C. Gao, G. Wang, W. Shi, Z. Wang and Y. Chen, "Autonomous Driving Security: State of the Art and Challenges," in IEEE Internet of Things Journal, vol. 9, no. 10, pp. 7572-7595, 15 May15, 2022, doi: 10.1109/JIOT.2021.3130054. [[paper]](https://ieeexplore.ieee.org/document/9625017)
 - Y. Deng, T. Zhang, G. Lou, X. Zheng, J. Jin and Q. -L. Han, "Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses," in IEEE Transactions on Industrial Informatics, vol. 17, no. 12, pp. 7897-7912, Dec. 2021, doi: 10.1109/TII.2021.3071405. [[paper]](https://ieeexplore.ieee.org/abstract/document/9397393?signout=success&signout=success)
@@ -5,7 +8,7 @@
 - Cao, H., Zou, W., Wang, Y., Song, T., & Liu, M. (2022). Emerging Threats in Deep Learning-Based Autonomous Driving: A Comprehensive Survey. arXiv preprint arXiv:2210.11237. [[paper]](https://arxiv.org/abs/2210.11237)
 - C. Lai, R. Lu, D. Zheng and X. Shen, "Security and Privacy Challenges in 5G-Enabled Vehicular Networks," in IEEE Network, vol. 34, no. 2, pp. 37-45, March/April 2020, doi: 10.1109/MNET.001.1900220. [[paper]](https://ieeexplore.ieee.org/abstract/document/9055735)
 
-## Sensor security
+## Sensor Security
 - Y. Cao et al., "Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks," 2021 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2021, pp. 176-194, doi: 10.1109/SP40001.2021.00076. [[paper]](https://ieeexplore.ieee.org/abstract/document/9519442?signout=success)
 - Yi Zhu, Chenglin Miao, Tianhang Zheng, Foad Hajiaghajani, Lu Su, and Chunming Qiao. 2021. Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving? In Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS '21). Association for Computing Machinery, New York, NY, USA, 1945–1960. https://doi.org/10.1145/3460120.3485377. [[paper]](https://dl.acm.org/doi/abs/10.1145/3460120.3485377)
 - Wang, N., Luo, Y., Sato, T., Xu, K., & Chen, Q. A. (2023). Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack. arXiv preprint arXiv:2308.11894. [[paper]](https://arxiv.org/abs/2308.11894)
@@ -37,12 +40,12 @@
 - J. -P. Monteuuis, J. Petit, M. R. Ansari, C. Chen and S. Yang, "V2X Misbehavior in Maneuver Sharing and Coordination Service: Considerations for Standardization," 2022 IEEE Conference on Standards for Communications and Networking (CSCN), Thessaloniki, Greece, 2022, pp. 194-199, doi: 10.1109/CSCN57023.2022.10051093. [[paper]](https://ieeexplore.ieee.org/document/10051093)
     - 意图共享：评估 MSC 消息 (机动共享和协调服务，MSCM) 的安全性。
 
-## Cooperative perception
+## Cooperative Perception
 
 - Qingzhao Zhang, Shuowei Jin, Jiachen Sun, Xumiao Zhang, Ruiyang Zhu, Qi Alfred Chen, Z. Morley Mao. On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures. arXiv:2309.12955. [[paper]](https://arxiv.org/pdf/2309.12955.pdf)
 - J. Li et al., "Learning for Vehicle-to-Vehicle Cooperative Perception Under Lossy Communication," in IEEE Transactions on Intelligent Vehicles, vol. 8, no. 4, pp. 2650-2660, April 2023, doi: 10.1109/TIV.2023.3260040. [[paper]](https://ieeexplore.ieee.org/abstract/document/10077757)
 
 
-## dataset
+## Dataset
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
 - J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
