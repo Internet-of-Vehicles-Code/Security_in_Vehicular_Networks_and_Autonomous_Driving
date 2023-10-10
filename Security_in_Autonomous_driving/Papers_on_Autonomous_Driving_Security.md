@@ -7,6 +7,7 @@
 - M. A. Hoque and R. Hasan, "Autonomous Driving Security: A Comprehensive Threat Model of Attacks and Mitigation Strategies," 2022 IEEE 8th World Forum on Internet of Things (WF-IoT), Yokohama, Japan, 2022, pp. 1-6, doi: 10.1109/WF-IoT54382.2022.10152219. [[paper]](https://ieeexplore.ieee.org/abstract/document/10152219?signout=success)
 - Cao, H., Zou, W., Wang, Y., Song, T., & Liu, M. (2022). Emerging Threats in Deep Learning-Based Autonomous Driving: A Comprehensive Survey. arXiv preprint arXiv:2210.11237. [[paper]](https://arxiv.org/abs/2210.11237)
 - C. Lai, R. Lu, D. Zheng and X. Shen, "Security and Privacy Challenges in 5G-Enabled Vehicular Networks," in IEEE Network, vol. 34, no. 2, pp. 37-45, March/April 2020, doi: 10.1109/MNET.001.1900220. [[paper]](https://ieeexplore.ieee.org/abstract/document/9055735)
+- J. Han, Z. Ju, X. Chen, M. Yang, H. Zhang and R. Huai, "Secure Operations of Connected and Autonomous Vehicles," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3304762. [[paper]](https://ieeexplore.ieee.org/abstract/document/10216307)
 
 ## Sensor Security
 - Y. Cao et al., "Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks," 2021 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2021, pp. 176-194, doi: 10.1109/SP40001.2021.00076. [[paper]](https://ieeexplore.ieee.org/abstract/document/9519442?signout=success)
@@ -44,6 +45,8 @@
 
 - Qingzhao Zhang, Shuowei Jin, Jiachen Sun, Xumiao Zhang, Ruiyang Zhu, Qi Alfred Chen, Z. Morley Mao. On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures. arXiv:2309.12955. [[paper]](https://arxiv.org/pdf/2309.12955.pdf)
 - J. Li et al., "Learning for Vehicle-to-Vehicle Cooperative Perception Under Lossy Communication," in IEEE Transactions on Intelligent Vehicles, vol. 8, no. 4, pp. 2650-2660, April 2023, doi: 10.1109/TIV.2023.3260040. [[paper]](https://ieeexplore.ieee.org/abstract/document/10077757)
+- Manabu Tsukada, Shimpei Arii, Hideya Ochiai, and Hiroshi Esaki. 2022. Misbehavior Detection Using Collective Perception under Privacy Considerations. In 2022 IEEE 19th Annual Consumer Communications & Networking Conference (CCNC). IEEE Press, 808–814. https://doi.org/10.1109/CCNC49033.2022.9700564 [[paper]](https://arxiv.org/pdf/2111.03461v1.pdf)
+- Tao, Y., Jiang, Y., Lin, P., Tsukada, M., & Esaki, H. (2023, January). zk-PoT: Zero-Knowledge Proof of Traffic for Privacy Enabled Cooperative Perception. In 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC) (pp. 261-268). IEEE. [[paper]](http://export.arxiv.org/pdf/2211.07875v1) 
 
 
 ## Dataset
