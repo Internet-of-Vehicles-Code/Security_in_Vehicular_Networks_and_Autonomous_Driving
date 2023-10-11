@@ -1,6 +1,6 @@
 # Awesome Page
 - [Autonomous Driving (AD) & Connected Vehicle (CV) Systems Security](https://sites.google.com/view/cav-sec/home)
-- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html)
+- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html),people:[Aaron Wu](https://github.com/Allenpandas)
 - [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security)
 - [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers)
 
