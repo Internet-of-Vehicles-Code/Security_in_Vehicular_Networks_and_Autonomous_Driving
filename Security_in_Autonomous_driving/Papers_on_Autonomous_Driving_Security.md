@@ -19,6 +19,7 @@
 - M. T. Arafin and K. Kornegay, "Attack Detection and Countermeasures for Autonomous Navigation," 2021 55th Annual Conference on Information Sciences and Systems (CISS), Baltimore, MD, USA, 2021, pp. 1-6, doi: 10.1109/CISS50987.2021.9400224. [[paper]](https://ieeexplore.ieee.org/abstract/document/9400224)
 - Cao, Y., Bhupathiraju, S. H., Naghavi, P., Sugawara, T., Mao, Z. M., & Rampazzi, S. (2023). You Can't See Me: Physical Removal Attacks on {LiDAR-based} Autonomous Vehicles Driving Frameworks. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 2993-3010). [[paper]](https://www.usenix.org/system/files/sec23summer_349-cao-prepub.pdf),[[project]](https://cpseclab.github.io/youcantseeme/)
 - J. Zhang et al., "Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems," in IEEE Internet of Things Journal, vol. 8, no. 2, pp. 1140-1153, 15 Jan.15, 2021, doi: 10.1109/JIOT.2020.3011690. [[paper]](https://ieeexplore.ieee.org/abstract/document/9146823)
+- Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, and Tianwei Zhang. 2022. Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. In Proceedings of the 30th ACM International Conference on Multimedia (MM '22). Association for Computing Machinery, New York, NY, USA, 2957–2968. https://doi.org/10.1145/3503161.3548171 [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548171),[[homepage]](https://sites.google.com/view/lane-detection-attack/lda)
 
 
 
