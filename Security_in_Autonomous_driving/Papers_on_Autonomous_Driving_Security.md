@@ -40,6 +40,7 @@
     - 攻击者可能会发送经过身份验证但错误的数据来发送虚假位置信息、警告不正确的事件或报告危及其他 CAV 安全的虚假对象。当前的标准化工作尚未包括集体感知（CP）等高级 V2X 服务的不当行为规范。这项工作评估了 CP 消息的安全性，并提出了供现有标准考虑的意见。(协同感知消息的安全性)
 - J. -P. Monteuuis, J. Petit, M. R. Ansari, C. Chen and S. Yang, "V2X Misbehavior in Maneuver Sharing and Coordination Service: Considerations for Standardization," 2022 IEEE Conference on Standards for Communications and Networking (CSCN), Thessaloniki, Greece, 2022, pp. 194-199, doi: 10.1109/CSCN57023.2022.10051093. [[paper]](https://ieeexplore.ieee.org/document/10051093)
     - 意图共享：评估 MSC 消息 (机动共享和协调服务，MSCM) 的安全性。
+- S. Kavaiya, D. K. Patel, Y. L. Guan, S. Sun, Y. C. Chang and J. M. -Y. Lim, "On Physical Layer Security over α - η -κ -μ Fading for Relay based Vehicular Networks," 2020 International Conference on Signal Processing and Communications (SPCOM), Bangalore, India, 2020, pp. 1-5, doi: 10.1109/SPCOM50965.2020.9179522. [[paper]](https://ieeexplore.ieee.org/abstract/document/9179522),[[code]](https://github.com/Nisargpatel16/Physical-Layer-Security-in-Vehicular-Networks)
 
 ## Cooperative Perception
 
