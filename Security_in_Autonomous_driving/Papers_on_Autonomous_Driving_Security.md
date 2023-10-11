@@ -1,5 +1,8 @@
 # Awesome Page
 - [Autonomous Driving (AD) & Connected Vehicle (CV) Systems Security](https://sites.google.com/view/cav-sec/home)
+- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html)
+- [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security)
+- [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers)
 
 # Survey
 - C. Gao, G. Wang, W. Shi, Z. Wang and Y. Chen, "Autonomous Driving Security: State of the Art and Challenges," in IEEE Internet of Things Journal, vol. 9, no. 10, pp. 7572-7595, 15 May15, 2022, doi: 10.1109/JIOT.2021.3130054. [[paper]](https://ieeexplore.ieee.org/document/9625017)
