@@ -25,6 +25,10 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 # Group
 | Web | Affiliation | Github |
 | :---: | :---: | :---: |
+| [AS^2Guard](https://ics.uci.edu/~alfchen/) | University of California, Irvine | [Link](https://github.com/ASGuard-UCI) |
+| [Ubiquitous System Security Lab](https://usslab.org/) | Zhejiang University | [Link](https://github.com/USSLab) |
 | [CoRE research group](https://core-researchgroup.de/about/) | Hamburg University of Applied Sciences | [Link](https://github.com/CoRE-RG) |
 | [Computer Security and Privacy Laboratory](https://cybersecurity.seas.wustl.edu/index.html) | Washington University in St. Louis | [Link](https://github.com/WUSTL-CSPL) |
 | [PurSec Lab](https://pursec.cs.purdue.edu/) | Purdue University | - |
+| [SYSTEMS SECURITY LAB](https://seclab.cs.ox.ac.uk/index) | University of Oxford | [Link](https://github.com/ssloxford) |
+| [Offensive AI Lab](https://offensive-ai-lab.github.io/) | - | [Yisroel Mirsky](https://github.com/ymirsky?tab=repositories) |
