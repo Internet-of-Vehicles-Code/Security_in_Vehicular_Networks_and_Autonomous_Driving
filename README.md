@@ -26,3 +26,5 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | Web | Affiliation | Github |
 | :---: | :---: | :---: |
 | [CoRE research group](https://core-researchgroup.de/about/) | Hamburg University of Applied Sciences | [Link](https://github.com/CoRE-RG) |
+| [Computer Security and Privacy Laboratory](https://cybersecurity.seas.wustl.edu/index.html) | Washington University in St. Louis | [Link](https://github.com/WUSTL-CSPL) |
+| [PurSec Lab](https://pursec.cs.purdue.edu/) | Purdue University | - |
