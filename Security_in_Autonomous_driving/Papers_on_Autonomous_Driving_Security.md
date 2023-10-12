@@ -54,6 +54,7 @@
 - Tao, Y., Jiang, Y., Lin, P., Tsukada, M., & Esaki, H. (2023, January). zk-PoT: Zero-Knowledge Proof of Traffic for Privacy Enabled Cooperative Perception. In 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC) (pp. 261-268). IEEE. [[paper]](http://export.arxiv.org/pdf/2211.07875v1) 
 - Demo: A Simulator for Cooperative and Automated Driving Security. [[paper]](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23014_paper.pdf),[[video]](https://www.youtube.com/watch?v=JF7R3qVpVZQ).
 - P. Zhou et al., "AICP: Augmented Informative Cooperative Perception," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 22505-22518, Nov. 2022, doi: 10.1109/TITS.2022.3155175. [[paper]](https://ieeexplore.ieee.org/abstract/document/9730800),[[code]](https://github.com/pengyuan-zhou/AICP)
+- Ansari, M. R., Petit, J., Monteuuis, J. P., & Chen, C. VASP: V2X Application Spoofing Platform. [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23071-paper.pdf),[[code]](https://github.com/quic/vasp),[[Qualcomm Innovation Center]](https://quic.github.io/)
 
 
 ## Dataset
