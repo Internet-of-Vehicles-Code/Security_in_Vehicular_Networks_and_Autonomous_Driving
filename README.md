@@ -1,4 +1,4 @@
-# Security_in_Vehicular_Networks_and_Autonomous_Driving
+# Security in Vehicular Networks and Autonomous Driving
 
 This project collects relevant literature on security in vehicular networks and autonomous driving.
 
