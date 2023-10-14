@@ -22,7 +22,6 @@
 - Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, and Tianwei Zhang. 2022. Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. In Proceedings of the 30th ACM International Conference on Multimedia (MM '22). Association for Computing Machinery, New York, NY, USA, 2957–2968. https://doi.org/10.1145/3503161.3548171 [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548171),[[homepage]](https://sites.google.com/view/lane-detection-attack/lda)
 
 
-
 ## Operating System Security
 - Y. Deng, X. Zheng, T. Zhang, C. Chen, G. Lou and M. Kim, "An Analysis of Adversarial Attacks and Defenses on Autonomous Driving Models," 2020 IEEE International Conference on Pervasive Computing and Communications (PerCom), Austin, TX, USA, 2020, pp. 1-10, doi: 10.1109/PerCom45495.2020.9127389. [[paper]](https://ieeexplore.ieee.org/document/9127389), [[code]](https://github.com/ITSEG-MQ/Adv-attack-and-defense-on-driving-model) ,[[ISRG]](https://itseg.org/index.php)
 - X. Han et al., "ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 1, pp. 1039-1051, Jan. 2023, doi: 10.1109/TITS.2021.3122906. [[paper]](https://ieeexplore.ieee.org/document/9690769?denied=&signout=success)
