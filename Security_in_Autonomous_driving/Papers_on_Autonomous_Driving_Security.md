@@ -4,6 +4,93 @@
 - [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security)
 - [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers)
 
+# 会议汇总（来自自动驾驶之心）
+1.IEEE ITSC：International Conference on Intelligent Transportation System
+
+国际智能交通系统会议，ITSC涵盖了交通管理、车辆控制、智能交通系统等方面的研究内容，也包括自动驾驶技术的相关研究和应用。
+
+2.IEEE ICRA：International Conference on Robotics and Automation
+
+国际机器人与自动化会议，机器人学的顶级国际会议，也是自动驾驶领域内最有影响力的顶级会议之一！
+
+3.IEEE IROS: International Conference on Robotics and System
+
+国际机器人与系统会议，机器人学的顶级国际会议
+
+4.RSS--Robotics: Science and Systems
+
+RSS是机器人领域的国际顶级会议之一，自2005年起每年举办一次。该会议由机器人学会（IEEE Robotics and Automation Society）和机器人科学与系统学会（Robotics Society of America）联合主办，旨在促进机器人领域的科学研究和技术应用的发展。
+
+5.IEEE IV: Intelligent Vehicle Symposium
+
+智能车顶级会议，在国外很受认可，侧重于自动驾驶技术、传感器技术、智能车辆控制等方面的研究，旨在讨论与智能交通相关的技术和应用，并分享最新研究结果和经验。
+
+6.ICCV: International Conference on Computer Version
+
+三大顶会之一，两年一次，地位高，不多说啦。
+
+7.IEEE International Conference Vehicular Electronics and Safety（ICVES）
+
+由IEEE智能交通系统协会主办的会议。
+
+8.CVPR: Conference on Computer Vision and Pattern Recognition
+
+每年一次，三大顶会之一，地位极高。
+
+9.NeurIPS: Conference on Neural Information Processing System
+
+NeurIPS是机器学习领域的顶级会议，与ICML，ICLR并称为机器学习领域难度最大，水平最高，影响力最强的会议。是CCF 推荐A类会议。
+
+10.ECCV：European Conference on Computer Version
+
+三大顶会之一，两年一次
+
+11.AAAI：Association for the Advancement of Artificial Intelligence
+
+12.ICLR：International Conference on Learning Represenations
+
+13.ICLR是机器学习领域的顶级会议，与ICML，NeurIPS并称为机器学习领域难度最大，水平最高，影响力最强的会议。
+
+ICCVE：International Conference on Connected Vehicles
+全球首屈一指的互联汽车大会，汇集了所有相关社区。会议期间，来自世界各地的专家、从业者和政策制定者将介绍互联汽车的最新创新和进展，分享经验和见解，预测趋势和机遇，并讨论政策、经济和社会影响；
+
+# 期刊汇总（来自自动驾驶之心）
+1.IJRR：The International Journal of Robotics Research
+
+国际机器人研究期刊是移动机器人运动规划和控制领域的一流同行评议期刊，影响因子（Impact Factor9.2）；
+
+2.JFR：Journal of Field Robotics
+
+注于涵盖机器人在实地环境中的各种应用，年文章数43篇，影响因子8.3；
+
+3.IEEE Transactions on Robotics（TRO）
+
+TRO是顶级的刊物，对比于IJRR，TRO显得比较“亲民”，1-2篇的TRO一作就已经表示该作者在某个领域很有建树，可以往Tenure Tracking的方向去争取了；
+
+4.IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+
+智能交通顶级期刊，中科院大类分区一区，CCF B类期刊，影响因子为9.55；
+
+5.IEEE Transactions on Intelligent Vehicles (T-IV)
+
+新期刊，进步飞速，顶刊候选者；
+
+6.IEEE Transactions on Automatic Control（TAC）
+
+IEEE Transactions on Automatic Control（简称：TAC）是IEEE控制系统学会的旗舰期刊，是一份高水平的同行评审期刊。该期刊专注于控制工程领域的理论、设计和应用，并对论文的理论水平要求极高（影响因子6.8）；
+
+7.IEEE Intelligent Transportation Systems Magazine（ITSM）
+
+中科院分区：2区，影响因子3.6；
+
+8.IEEE Transactions on Vehicular Technology (T-VT)
+
+简称TVT，目前属于中科院二区期刊；
+
+9.IEEE Robotics and Automation Letters（RAL）
+
+简称RAL，影响因子5.2；
+
 # Survey
 - C. Gao, G. Wang, W. Shi, Z. Wang and Y. Chen, "Autonomous Driving Security: State of the Art and Challenges," in IEEE Internet of Things Journal, vol. 9, no. 10, pp. 7572-7595, 15 May15, 2022, doi: 10.1109/JIOT.2021.3130054. [[paper]](https://ieeexplore.ieee.org/document/9625017)
 - Y. Deng, T. Zhang, G. Lou, X. Zheng, J. Jin and Q. -L. Han, "Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses," in IEEE Transactions on Industrial Informatics, vol. 17, no. 12, pp. 7897-7912, Dec. 2021, doi: 10.1109/TII.2021.3071405. [[paper]](https://ieeexplore.ieee.org/abstract/document/9397393?signout=success&signout=success)
