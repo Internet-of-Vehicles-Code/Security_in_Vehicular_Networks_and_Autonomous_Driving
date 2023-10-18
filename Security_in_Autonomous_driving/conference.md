@@ -6,6 +6,7 @@
 
 # IEEE Symposium on Security and Privacy
 - J. Camenisch, M. Drijvers, A. Lehmann, G. Neven and P. Towa, "Zone Encryption with Anonymous Authentication for V2V Communication," 2020 IEEE European Symposium on Security and Privacy (EuroS&P), Genoa, Italy, 2020, pp. 405-424, doi: 10.1109/EuroSP48549.2020.00033. [[paper]](https://ieeexplore.ieee.org/abstract/document/9230364?signout=success&signout=success)
+- Z. Jin, X. Ji, Y. Cheng, B. Yang, C. Yan and W. Xu, "PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle," 2023 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2023, pp. 1822-1839, doi: 10.1109/SP46215.2023.10179458. [[paper]](https://ieeexplore.ieee.org/abstract/document/10179458)
 
 
 
