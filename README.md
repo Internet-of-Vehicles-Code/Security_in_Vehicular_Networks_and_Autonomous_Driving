@@ -27,6 +27,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - R. Sedar, C. Kalalas, F. Vázquez-Gallego, L. Alonso and J. Alonso-Zarate, "A Comprehensive Survey of V2X Cybersecurity Mechanisms and Future Research Paths," in IEEE Open Journal of the Communications Society, vol. 4, pp. 325-391, 2023, doi: 10.1109/OJCOMS.2023.3239115. [[paper]](https://ieeexplore.ieee.org/abstract/document/10026338)
 - E. Moradi-Pari, D. Tian, M. Bahramgiri, S. Rajab and S. Bai, "DSRC Versus LTE-V2X: Empirical Performance Analysis of Direct Vehicular Communication Technologies," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 5, pp. 4889-4903, May 2023, doi: 10.1109/TITS.2023.3247339. [[paper]](https://ieeexplore.ieee.org/abstract/document/10056390?signout=success&signout=success)
 - P. K. Sharma, D. Vohra and S. Rathore, "Security and Privacy in V2X Communications: How Can Collaborative Learning Improve Cybersecurity?," in IEEE Network, vol. 36, no. 3, pp. 32-39, May/June 2022, doi: 10.1109/MNET.003.2100522. [[paper]](https://ieeexplore.ieee.org/abstract/document/9829313)
+- X. Wang, H. Zhu, Z. Ning, L. Guo and Y. Zhang, "Blockchain Intelligence for Internet of Vehicles: Challenges and Solutions," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2023.3305312. [[paper]](https://ieeexplore.ieee.org/abstract/document/10217209?signout=success)
 
 ## IoV security dataset
 - [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
