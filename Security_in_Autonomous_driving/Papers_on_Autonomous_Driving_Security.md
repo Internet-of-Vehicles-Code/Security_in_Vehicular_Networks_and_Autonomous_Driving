@@ -92,6 +92,7 @@ IEEE Transactions on Automatic Control（简称：TAC）是IEEE控制系统学�
 简称RAL，影响因子5.2；
 
 # Survey
+- G. Bendiab, A. Hameurlaine, G. Germanos, N. Kolokotronis and S. Shiaeles, "Autonomous Vehicles Security: Challenges and Solutions Using Blockchain and Artificial Intelligence," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 4, pp. 3614-3637, April 2023, doi: 10.1109/TITS.2023.3236274. [[paper]](https://ieeexplore.ieee.org/abstract/document/10023964)
 - C. Gao, G. Wang, W. Shi, Z. Wang and Y. Chen, "Autonomous Driving Security: State of the Art and Challenges," in IEEE Internet of Things Journal, vol. 9, no. 10, pp. 7572-7595, 15 May15, 2022, doi: 10.1109/JIOT.2021.3130054. [[paper]](https://ieeexplore.ieee.org/document/9625017)
 - Y. Deng, T. Zhang, G. Lou, X. Zheng, J. Jin and Q. -L. Han, "Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses," in IEEE Transactions on Industrial Informatics, vol. 17, no. 12, pp. 7897-7912, Dec. 2021, doi: 10.1109/TII.2021.3071405. [[paper]](https://ieeexplore.ieee.org/abstract/document/9397393?signout=success&signout=success)
 - M. A. Hoque and R. Hasan, "Autonomous Driving Security: A Comprehensive Threat Model of Attacks and Mitigation Strategies," 2022 IEEE 8th World Forum on Internet of Things (WF-IoT), Yokohama, Japan, 2022, pp. 1-6, doi: 10.1109/WF-IoT54382.2022.10152219. [[paper]](https://ieeexplore.ieee.org/abstract/document/10152219?signout=success)
