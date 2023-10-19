@@ -44,6 +44,8 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | WCNC: IEEE Wireless Communications and Networking Conference | 是世界顶级的无线盛会 | CCF-C | [WCNC 2024](https://wcnc2024.ieee-wcnc.org/) | 25 October 2023 -Dubai, United Arab Emirates |
 | VTC(Spring/Fall): IEEE Vehicular Technology Conference | IEEE车辆技术协会半年度旗舰会议 | - | [VTC-Fall]() | - |
 
+通信、网络领域开源的会议论文整理：[Paper with code for communication and network](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network) [By Zheng Xue; Yurong Zhang]
+
 [分区查询：中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Default.aspx)
 
 [中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
