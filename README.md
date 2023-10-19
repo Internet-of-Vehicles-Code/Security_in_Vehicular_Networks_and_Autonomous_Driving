@@ -71,7 +71,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 
 
 ## People
-[Researcher/Group Profiling in IoV / Intelligent Connected Vehicles / Autonomous Driving / Intelligent Transportation Field.](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network/blob/main/researcher_group_profiles.md)
+[Researcher/Group Profiling in IoV / Intelligent Connected Vehicles / Autonomous Driving / Intelligent Transportation Field.](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network/blob/main/researcher_group_profiles.md) [By Zheng Xue]
   
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
