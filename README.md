@@ -6,6 +6,7 @@ This project collects relevant literature on security in vehicular networks and 
 - [IDS in vehicular networks](./IDS_in%20Vehicular_Networks/github.md) [by Lan Luo]
 - [Security in autonomous driving](./Security_in_Autonomous_driving/Papers_on_Autonomous_Driving_Security.md) [by Zheng Xue]
 - [NFSC tracking](./NSFC_tracking/NSFC_tracking.md) [by Hongmin Wei]
+- [Federated_Learning_in_Vehicular_Networks](./Federated_Learning_in_Vehicular_Networks/FLVN.md") [by Jiacheng Xu]
 
 Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - USENIX Security
