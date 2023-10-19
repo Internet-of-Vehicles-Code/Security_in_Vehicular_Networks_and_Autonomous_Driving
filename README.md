@@ -63,6 +63,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | IEEE Transactions on Intelligent Vehicles (T-IV) | 新期刊，进步飞速，顶刊候选者； | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7274857&isnumber=10260249) |
 | IEEE Network | magazine | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=65&isnumber=10242301) |
 | IEEE Transactions on Mobile Computing (TMC) | CCF-A | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7755&isnumber=10269771) |
+| IEEE/ACM Transactions on Networking (ToN) | CCF-A | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=90&isnumber=10286433) |
 | IEEE Transactions on Vehicular Technology (TVT) |  | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=25&isnumber=10287112) |
 | Vehicular Communications |  | Q2 | [Link](https://www.sciencedirect.com/journal/vehicular-communications/issues) |
 | IEEE Wireless Communications Letters (WCL) |  | Q3 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=5962382&isnumber=10273757) |
