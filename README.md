@@ -45,6 +45,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | VTC(Spring/Fall): IEEE Vehicular Technology Conference | IEEE车辆技术协会半年度旗舰会议 | - | [VTC-Fall]() | - |
 
 [分区查询：中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Default.aspx)
+
 [中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
 | journal | Description | Rank | All issues |
 | :---: | :---: | :---: | :---: |
