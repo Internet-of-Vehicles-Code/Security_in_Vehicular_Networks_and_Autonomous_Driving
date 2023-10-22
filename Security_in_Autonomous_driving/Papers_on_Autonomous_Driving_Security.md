@@ -51,7 +51,7 @@
 
 ## Cooperative Perception
 
-- Qingzhao Zhang, Shuowei Jin, Jiachen Sun, Xumiao Zhang, Ruiyang Zhu, Qi Alfred Chen, Z. Morley Mao. On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures. arXiv:2309.12955. [[paper]](https://arxiv.org/pdf/2309.12955.pdf),[[code]](https://github.com/zqzqz/AdvCollaborativePerception),[[people]](https://zqzqz.github.io/)
+- Qingzhao Zhang, Shuowei Jin, Jiachen Sun, Xumiao Zhang, Ruiyang Zhu, Qi Alfred Chen, Z. Morley Mao. On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures. arXiv:2309.12955.(USENIX security 2024) [[paper]](https://arxiv.org/pdf/2309.12955.pdf),[[code]](https://github.com/zqzqz/AdvCollaborativePerception),[[people]](https://zqzqz.github.io/)
 - J. Li et al., "Learning for Vehicle-to-Vehicle Cooperative Perception Under Lossy Communication," in IEEE Transactions on Intelligent Vehicles, vol. 8, no. 4, pp. 2650-2660, April 2023, doi: 10.1109/TIV.2023.3260040. [[paper]](https://ieeexplore.ieee.org/abstract/document/10077757)
 - Manabu Tsukada, Shimpei Arii, Hideya Ochiai, and Hiroshi Esaki. 2022. Misbehavior Detection Using Collective Perception under Privacy Considerations. In 2022 IEEE 19th Annual Consumer Communications & Networking Conference (CCNC). IEEE Press, 808–814. https://doi.org/10.1109/CCNC49033.2022.9700564 [[paper]](https://arxiv.org/pdf/2111.03461v1.pdf)
 - Tao, Y., Jiang, Y., Lin, P., Tsukada, M., & Esaki, H. (2023, January). zk-PoT: Zero-Knowledge Proof of Traffic for Privacy Enabled Cooperative Perception. In 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC) (pp. 261-268). IEEE. [[paper]](http://export.arxiv.org/pdf/2211.07875v1) 
