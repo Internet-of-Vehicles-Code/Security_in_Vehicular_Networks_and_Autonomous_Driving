@@ -3,6 +3,7 @@
 - [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html),people:[Aaron Wu](https://github.com/Allenpandas)
 - [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security)
 - [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers)
+- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 # Survey
 - G. Bendiab, A. Hameurlaine, G. Germanos, N. Kolokotronis and S. Shiaeles, "Autonomous Vehicles Security: Challenges and Solutions Using Blockchain and Artificial Intelligence," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 4, pp. 3614-3637, April 2023, doi: 10.1109/TITS.2023.3236274. [[paper]](https://ieeexplore.ieee.org/abstract/document/10023964)
