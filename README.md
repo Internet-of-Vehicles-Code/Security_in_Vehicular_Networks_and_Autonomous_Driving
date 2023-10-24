@@ -96,10 +96,12 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 ## IDS 
 - S. Anbalagan, G. Raja, S. Gurumoorthy, R. D. Suresh and K. Dev, "IIDS: Intelligent Intrusion Detection System for Sustainable Development in Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3271768. [[paper]](https://ieeexplore.ieee.org/document/10144487?denied=&signout=success)
 - S. Arisdakessian, O. A. Wahab, A. Mourad, H. Otrok and M. Guizani, "A Survey on IoT Intrusion Detection: Federated Learning, Game Theory, Social Psychology, and Explainable AI as Future Directions," in IEEE Internet of Things Journal, vol. 10, no. 5, pp. 4059-4092, 1 March1, 2023, doi: 10.1109/JIOT.2022.3203249. [[paper]](https://ieeexplore.ieee.org/abstract/document/9872110?signout=success&signout=success)
+- Self-reliant misbehavior detection in V2X networks [[paper]](https://open.bu.edu/handle/2144/36073)
 
 ## IoV security dataset
 - [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
 - [Intrusion Detection Evaluation Dataset (CIC-IDS2017)](https://www.unb.ca/cic/datasets/ids-2017.html)
+
 
 # Group
 | Web | Affiliation | Github |
