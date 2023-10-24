@@ -106,6 +106,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 # Group
 | Web | Affiliation | Github |
 | :---: | :---: | :---: |
+| [Wireless and IoT Security & Privacy (WISP) research laboratory](https://www.rit.edu/wisplab/) | Rochester Institute of Technology (RIT) | people:[Geoff Twardokus](https://people.rit.edu/~gdt5762/) [Link](https://github.com/twardokus) |
 | [AS^2Guard](https://ics.uci.edu/~alfchen/) | University of California, Irvine | [Link](https://github.com/ASGuard-UCI) |
 | [Ubiquitous System Security Lab](https://usslab.org/) | Zhejiang University | [Link](https://github.com/USSLab) |
 | [CoRE research group](https://core-researchgroup.de/about/) | Hamburg University of Applied Sciences | [Link](https://github.com/CoRE-RG) |
