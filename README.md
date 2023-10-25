@@ -98,6 +98,15 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - S. Arisdakessian, O. A. Wahab, A. Mourad, H. Otrok and M. Guizani, "A Survey on IoT Intrusion Detection: Federated Learning, Game Theory, Social Psychology, and Explainable AI as Future Directions," in IEEE Internet of Things Journal, vol. 10, no. 5, pp. 4059-4092, 1 March1, 2023, doi: 10.1109/JIOT.2022.3203249. [[paper]](https://ieeexplore.ieee.org/abstract/document/9872110?signout=success&signout=success)
 - Self-reliant misbehavior detection in V2X networks [[paper]](https://open.bu.edu/handle/2144/36073)
 
+## Baseline methods based on the VeReMi dataset
+- F. Dutra, K. Bonfim, C. Siqueira, L. A. Pereira, A. Santos and R. I. Meneguette, "DISMISS-BSM: an Architecture for Detecting Position Spoofing in Basic Safety Messages," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 3381-3386, doi: 10.1109/GLOBECOM48099.2022.10001122. [[paper]](https://ieeexplore.ieee.org/document/10001122),[[code]](https://github.com/c2dc/dismiss-bsm-globecom2022)
+- K. A. Bonfim, F. D. S. Dutra, C. E. T. Siqueira, R. I. Meneguette, A. L. Dos Santos and L. A. P. Júnior, "Federated Learning-based Architecture for Detecting Position Spoofing in Basic Safety Messages," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-5, doi: 10.1109/VTC2023-Spring57618.2023.10199980. [[paper]](https://ieeexplore.ieee.org/document/10199980). [[code]](https://github.com/c2dc/fl-bsm-vtc2023)(coming)
+- C. -K. Tham, L. Yang, A. Khanna and B. Gera, "Federated Learning for Anomaly Detection in Vehicular Networks," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-6, doi: 10.1109/VTC2023-Spring57618.2023.10199870. [[paper]](https://ieeexplore.ieee.org/abstract/document/10199870)
+- S. Ercan, L. Mendiboure, L. Alouache, S. Maaloul, T. Sylla and H. Aniss, "An Enhanced Model for Machine Learning-Based DoS Detection in Vehicular Networks," 2023 IFIP Networking Conference (IFIP Networking), Barcelona, Spain, 2023, pp. 1-9, doi: 10.23919/IFIPNetworking57963.2023.10186390. [[paper]](https://ieeexplore.ieee.org/abstract/document/10186390),[[code]](https://github.com/ercansec/AttackDetectionMachineLearning)
+- Z. Wang and T. Yan, "Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks," 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN), London, United Kingdom, 2023, pp. 1-6, doi: 10.1109/LANMAN58293.2023.10189424. [[paper]](https://ieeexplore.ieee.org/document/10189424),[[FL-TP-code]](https://github.com/CoderTylor/FL-TP)
+- [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
+- [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
+
 ## IoV security dataset
 - [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
 - [Intrusion Detection Evaluation Dataset (CIC-IDS2017)](https://www.unb.ca/cic/datasets/ids-2017.html)
