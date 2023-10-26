@@ -2,7 +2,7 @@
 
 This project collects relevant literature on security in vehicular networks and autonomous driving.
 ***
-- Keywords: "vehicular"; "vehicle"; "vehicular network"; "Internet of Vehicle (IoV)"; "V2X"; "VANET (Vehicular ad-hoc network)"; "security"; "autonomous driving"; "intrusion detection"; "intrusion detection system (IDS)"; "cooperative perception" etc. Combine these keywords in your search to find relevant literature. If you're looking for papers with associated open-source code, be sure to include the keyword "github.com" in your search to locate code links within the papers. These keywords will help you pinpoint the information you need.
+- Keywords: "vehicular"; "vehicle"; "vehicular network"; "Internet of Vehicle (IoV)"; "V2X"; "VANET (Vehicular ad-hoc network)"; "security"; "autonomous driving"; "intrusion detection"; "intrusion detection system (IDS)"; "attack"; "cooperative perception" etc. Combine these keywords in your search to find relevant literature. If you're looking for papers with associated open-source code, be sure to include the keyword "github.com" in your search to locate code links within the papers. These keywords will help you pinpoint the information you need.
 ***
 - [Security in vehicular networks](./Security_in_Vehicular_Networks/Security_in_Vehicular_Networks.md) [by Hongmin Wei]
 - [IDS in vehicular networks](./IDS_in%20Vehicular_Networks/github.md) [by Lan Luo]
