@@ -14,6 +14,7 @@
 - C. Lai, R. Lu, D. Zheng and X. Shen, "Security and Privacy Challenges in 5G-Enabled Vehicular Networks," in IEEE Network, vol. 34, no. 2, pp. 37-45, March/April 2020, doi: 10.1109/MNET.001.1900220. [[paper]](https://ieeexplore.ieee.org/abstract/document/9055735)
 - J. Han, Z. Ju, X. Chen, M. Yang, H. Zhang and R. Huai, "Secure Operations of Connected and Autonomous Vehicles," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3304762. [[paper]](https://ieeexplore.ieee.org/abstract/document/10216307)
 - Mohammed Lamine Bouchouia, Houda Labiod, Ons Jelassi, Jean-Philippe Monteuuis, Wafa Ben Jaballah, Jonathan Petit, Zonghua Zhang, A survey on misbehavior detection for connected and autonomous vehicles, Vehicular Communications. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623000165).
+- Mohammed Lamine Bouchouia, Houda Labiod, Ons Jelassi, Jean-Philippe Monteuuis, Wafa Ben Jaballah, Jonathan Petit, and Zonghua Zhang. 2023. A survey on misbehavior detection for connected and autonomous vehicles. Veh. Commun. 41, C (Jun 2023). [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623000165)
 
 ## Sensor Security
 - Z. Jin, X. Ji, Y. Cheng, B. Yang, C. Yan and W. Xu, "PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle," 2023 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2023, pp. 1822-1839, doi: 10.1109/SP46215.2023.10179458. [[paper]](https://ieeexplore.ieee.org/abstract/document/10179458)
