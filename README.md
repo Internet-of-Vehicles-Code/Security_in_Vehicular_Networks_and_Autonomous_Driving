@@ -123,3 +123,4 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | [PurSec Lab](https://pursec.cs.purdue.edu/) | Purdue University | - |
 | [SYSTEMS SECURITY LAB](https://seclab.cs.ox.ac.uk/index) | University of Oxford | [Link](https://github.com/ssloxford) |
 | [Offensive AI Lab](https://offensive-ai-lab.github.io/) | - | [Yisroel Mirsky](https://github.com/ymirsky?tab=repositories) |
+| [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/) | University of New Brunswick | people: [Ali A. Ghorbani](http://cs.unb.ca/~ghorbani/) |
