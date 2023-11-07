@@ -64,6 +64,7 @@
 - Demo: A Simulator for Cooperative and Automated Driving Security. [[paper]](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23014_paper.pdf),[[video]](https://www.youtube.com/watch?v=JF7R3qVpVZQ).
 - P. Zhou et al., "AICP: Augmented Informative Cooperative Perception," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 22505-22518, Nov. 2022, doi: 10.1109/TITS.2022.3155175. [[paper]](https://ieeexplore.ieee.org/abstract/document/9730800),[[code]](https://github.com/pengyuan-zhou/AICP)
 - Y Zhao, Z Xiang, S Yin, X Pang, S Chen, Y Wang. Malicious Agent Detection for Robust Multi-Agent Collaborative Perception. arXiv preprint arXiv:2310.11901, 2023. [[paper]](https://arxiv.org/pdf/2310.11901.pdf)
+- T. Hardes, I. Turcanu and C. Sommer, "Poster: A Case for Heterogenous Co-Simulation of Cooperative and Autonomous Driving," 2023 IEEE Vehicular Networking Conference (VNC), Istanbul, Turkiye, 2023, pp. 151-152, doi: 10.1109/VNC57357.2023.10136319. [[paper]](https://ieeexplore.ieee.org/abstract/document/10136319), [[code]](https://github.com/veins/veins_carla)
 
 
 
