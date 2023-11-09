@@ -15,6 +15,7 @@
 - J. Han, Z. Ju, X. Chen, M. Yang, H. Zhang and R. Huai, "Secure Operations of Connected and Autonomous Vehicles," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3304762. [[paper]](https://ieeexplore.ieee.org/abstract/document/10216307)
 - Mohammed Lamine Bouchouia, Houda Labiod, Ons Jelassi, Jean-Philippe Monteuuis, Wafa Ben Jaballah, Jonathan Petit, Zonghua Zhang, A survey on misbehavior detection for connected and autonomous vehicles, Vehicular Communications. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623000165).
 - Mohammed Lamine Bouchouia, Houda Labiod, Ons Jelassi, Jean-Philippe Monteuuis, Wafa Ben Jaballah, Jonathan Petit, and Zonghua Zhang. 2023. A survey on misbehavior detection for connected and autonomous vehicles. Veh. Commun. 41, C (Jun 2023). [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623000165)
+- A. Abdo, H. Chen, X. Zhao, G. Wu and Y. Feng, "Cybersecurity on Connected and Automated Transportation Systems: A Survey," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3326736. [[paper]](https://ieeexplore.ieee.org/abstract/document/10292878)
 
 ## Sensor Security
 - Z. Jin, X. Ji, Y. Cheng, B. Yang, C. Yan and W. Xu, "PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle," 2023 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2023, pp. 1822-1839, doi: 10.1109/SP46215.2023.10179458. [[paper]](https://ieeexplore.ieee.org/abstract/document/10179458)
@@ -54,6 +55,9 @@
   - 智能网联汽车安全仿真器。
 - S. Kavaiya, D. K. Patel, Y. L. Guan, S. Sun, Y. C. Chang and J. M. -Y. Lim, "On Physical Layer Security over α - η -κ -μ Fading for Relay based Vehicular Networks," 2020 International Conference on Signal Processing and Communications (SPCOM), Bangalore, India, 2020, pp. 1-5, doi: 10.1109/SPCOM50965.2020.9179522. [[paper]](https://ieeexplore.ieee.org/abstract/document/9179522),[[code]](https://github.com/Nisargpatel16/Physical-Layer-Security-in-Vehicular-Networks)
 - Ansari, M. R., Petit, J., Monteuuis, J. P., & Chen, C. VASP: V2X Application Spoofing Platform. [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23071-paper.pdf),[[code]](https://github.com/quic/vasp),[[Qualcomm Innovation Center]](https://quic.github.io/)
+- M. A. Shahid and A. Jaekel, "Hybrid Approach to Detect Position Forgery Attacks in Connected Vehicles," 2023 14th International Conference on Network of the Future (NoF), Izmir, Turkiye, 2023, pp. 47-51, doi: 10.1109/NoF58724.2023.10302810. [[paper]](https://ieeexplore.ieee.org/abstract/document/10302810)
+  - 位置伪造攻击 
+
 
 ## Cooperative Perception
 
