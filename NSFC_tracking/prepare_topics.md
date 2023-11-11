@@ -139,3 +139,36 @@
 方案：基于VASP构建V2X攻击数据集，搭建V2X攻击检测检测仿真框架，集成多种基准方法并提出针对协同感知失效环境下的车联网攻击检测方案，框架提供自定义攻击及检测方法接口，框架通过OMNeT++、CARLA、VEINS、SUMO等编程和仿真平台构建，搭建不同V2X攻击网络场景，基于研究课题1、2底层认证方案，验证多种检测方案在智能网联驾驶场景中的性能及鲁棒性。
 
 意义：为车联网支撑自动驾驶提供技术支持与参考，丰富和优化了智能网联汽车安全架构，健全车联网研究体系。
+
+
+
+
+## 通感一体化车联网基金调研
+
+| Program | Leader | Affiliation | Google scholar | IEEE | Github |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 面向时延敏感车联网的通感算一体化方法研究（2023-，青年） | 彭海霞 | 西安交通大学 | [Link](https://scholar.google.com/citations?user=zFDFyO4AAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37085607745) | - |
+
+
+
+| Program | Leader | Affiliation | Google scholar | IEEE | Github |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 车联网通感算一体化理论与方法（2022-，重点） | 李长乐 | 西安电子科技大学 | [Link](https://scholar.google.com/citations?user=rTlcIV8AAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/37278179200) | - |
+
+
+| Program | Leader | Affiliation | Google scholar | IEEE | Github |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 面向V2I高动态扩展目标的通感一体化波束跟踪技术（2023-，青年） | 杜振 | 南京信息工程大学 | [Link](https://scholar.google.com/citations?hl=en&user=QeQi7OoAAAAJ&view_op=list_works) | [Link](https://ieeexplore.ieee.org/author/37086512172) | - |
+
+
+
+| Program | Leader | Affiliation | Google scholar | IEEE | Github |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 通感算一体化智能车联网资源管理理论与技术研究（2023-，面上） | 黄联芬 | 厦门大学 | - | [Link](https://ieeexplore.ieee.org/author/37405928400) | - |
+
+
+| Program | Leader | Affiliation | Google scholar | IEEE | Github |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 面向下一代车联网的通信与感知联合优化研究（2022-，青年） | 孙春蕾 | 北京科技大学 | - | [Link](https://ieeexplore.ieee.org/author/37086061825) | - |
+
+
