@@ -80,6 +80,17 @@
 - IEEE：[https://ieeexplore.ieee.org/author/37086696481](https://ieeexplore.ieee.org/author/37086696481)
 
 
+
+## 哈尔滨工业大学
+### 1. 计算机科学与技术学院（威海）王凯科研团队
+- 主要研究方向：网络空间安全、AI 模型的轻量化设计与安全应用。
+- 教师个人主页：[http://homepage.hit.edu.cn/CSwangkai?lang=zh](http://homepage.hit.edu.cn/CSwangkai?lang=zh)
+- 个人主页：[https://wangkai-tech23.github.io/](https://wangkai-tech23.github.io/)
+- IEEE：[https://ieeexplore.ieee.org/author/37085895922](https://ieeexplore.ieee.org/author/37085895922)
+- Google Scholar：[https://scholar.google.com/citations?user=32VD4kwAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=32VD4kwAAAAJ&hl=zh-CN&oi=sra)
+
+
+
 ## 湖南科技大学
 ### 1. 计算机科学与工程学院王晓亮科研团队
 - 主要研究方向：物联网、大数据、网络安全、人工智能和高校智库建设
