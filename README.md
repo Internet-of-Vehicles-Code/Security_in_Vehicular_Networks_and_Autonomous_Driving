@@ -82,6 +82,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | Zhou Su | Xi'an Jiaotong University | [Link](https://scholar.google.com/citations?hl=en&user=KDbnu2cAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37085423294) | - |
 | Jie Cui | Anhui University | [Link](https://scholar.google.com/citations?hl=en&user=KL-Ik_wAAAAJ&view_op=list_works) | [Link](https://ieeexplore.ieee.org/author/37085720777) | - |
 
+
 ## Survey
 - A. Boualouache and T. Engel, "A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 25, no. 2, pp. 1128-1172, Secondquarter 2023, doi: 10.1109/COMST.2023.3236448. [[paper]](https://ieeexplore.ieee.org/document/10015746):star::star::star::star::star:
 - S. V. Balkus, H. Wang, B. D. Cornet, C. Mahabal, H. Ngo and H. Fang, "A Survey of Collaborative Machine Learning Using 5G Vehicular Communications," in IEEE Communications Surveys & Tutorials, vol. 24, no. 2, pp. 1280-1303, Secondquarter 2022, doi: 10.1109/COMST.2022.3149714. [[paper]](https://ieeexplore.ieee.org/abstract/document/9706268?signout=success&signout=success)
@@ -99,6 +100,10 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - S. Arisdakessian, O. A. Wahab, A. Mourad, H. Otrok and M. Guizani, "A Survey on IoT Intrusion Detection: Federated Learning, Game Theory, Social Psychology, and Explainable AI as Future Directions," in IEEE Internet of Things Journal, vol. 10, no. 5, pp. 4059-4092, 1 March1, 2023, doi: 10.1109/JIOT.2022.3203249. [[paper]](https://ieeexplore.ieee.org/abstract/document/9872110?signout=success&signout=success)
 - Self-reliant misbehavior detection in V2X networks [[paper]](https://open.bu.edu/handle/2144/36073)
 - P. Rani et al., "Federated Learning-Based Misbehaviour Detection for the 5G-Enabled Internet of Vehicles," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2023.3328020. [[paper]](https://ieeexplore.ieee.org/abstract/document/10298818)
+
+| Name | Affiliation | Google scholar | IEEE | github |
+| :---: | :---: | :---: | :---: | :---: |
+| [Kai Wang](https://wangkai-tech23.github.io/) | Harbin Institute of Technology | [Link](https://scholar.google.com.hk/citations?hl=zh-CN&user=32VD4kwAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37085895922) | [Link](https://github.com/wangkai-tech23) |
 
 ## Baseline methods based on the VeReMi /& Extension dataset
 - F. Dutra, K. Bonfim, C. Siqueira, L. A. Pereira, A. Santos and R. I. Meneguette, "DISMISS-BSM: an Architecture for Detecting Position Spoofing in Basic Safety Messages," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 3381-3386, doi: 10.1109/GLOBECOM48099.2022.10001122. [[paper]](https://ieeexplore.ieee.org/document/10001122),[[code]](https://github.com/c2dc/dismiss-bsm-globecom2022)
