@@ -1,9 +1,11 @@
 # Survey
 1. T. Alladi, V. Chamola, N. Sahu, V. Venkatesh, A. Goyal and M. Guizani, "A Comprehensive Survey on the Applications of Blockchain for Securing Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 24, no. 2, pp. 1212-1239, Secondquarter 2022, doi: 10.1109/COMST.2022.3160925. [[paper]](https://ieeexplore.ieee.org/document/9738808) 
     - 区块链在车载网络中的应用综述
-    - 
+
 2. X. Wang, H. Zhu, Z. Ning, L. Guo and Y. Zhang, "Blockchain Intelligence for Internet of Vehicles: Challenges and Solutions," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2023.3305312. [[paper]](https://ieeexplore.ieee.org/document/10217209)
 
+3. Qammar, A., Karim, A., Ning, H. et al. Securing federated learning with blockchain: a systematic literature review. Artif Intell Rev 56, 3951–3985 (2023). [[paper]](https://doi.org/10.1007/s10462-022-10271-9)
+    - 区块链与联邦学习综述
 
 ## Authentication
 ### 陕西大学计算机科学学院**周彦伟**副教授团队，主要研究方向：密码学、信息安全。[[Home Page]](https://ccs.snnu.edu.cn/info/1017/8712.htm)
