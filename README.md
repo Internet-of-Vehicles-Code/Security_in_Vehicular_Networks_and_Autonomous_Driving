@@ -25,6 +25,7 @@ BUPT: [Important Conference Directory](https://sice.bupt.edu.cn/kxyj/zyhylb.htm)
 
 Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/); [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM,KR,CV,CG,RO,SP,AP,HCI); [network-communication-conferences](https://github.com/jwwthu/network-communication-conferences)
 [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
+[WikiCFP-Security](http://wikicfp.com/cfp/call?conference=security&skip=1)
 
 | Conference | Description | Rank | Web | Deadline |
 | :---: | :---: | :---: | :---: | :---: |
