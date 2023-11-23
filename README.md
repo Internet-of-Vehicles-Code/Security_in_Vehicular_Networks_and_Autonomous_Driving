@@ -136,3 +136,4 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | [Offensive AI Lab](https://offensive-ai-lab.github.io/) | - | [Yisroel Mirsky](https://github.com/ymirsky?tab=repositories) |
 | [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/) | University of New Brunswick | people: [Ali A. Ghorbani](http://cs.unb.ca/~ghorbani/) |
 | [Data Mining & Security Lab](http://www.dmslab.net/) | Beijing University of Technology | people: [Yingxu Lai](https://scholar.google.com/citations?hl=en&user=1ITLJyoAAAAJ&view_op=list_works&sortby=pubdate) |
+|  Queen's Reliable Software Technology Laboratory | Queen's University | people: [Mohammad Zulkernine](https://research.cs.queensu.ca/home/mzulker/) |
