@@ -137,3 +137,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/) | University of New Brunswick | people: [Ali A. Ghorbani](http://cs.unb.ca/~ghorbani/) |
 | [Data Mining & Security Lab](http://www.dmslab.net/) | Beijing University of Technology | people: [Yingxu Lai](https://scholar.google.com/citations?hl=en&user=1ITLJyoAAAAJ&view_op=list_works&sortby=pubdate) |
 | [Queen's Reliable Software Technology Laboratory](https://research.cs.queensu.ca/home/qrst/) | Queen's University | people: [Mohammad Zulkernine](https://research.cs.queensu.ca/home/mzulker/) |
+| [PKU-Exploit](https://www.pkuexploit.com/#) | Peking University | - |
+| [Cyber Security Laboratory @ CQU](https://csl-cqu.github.io/) | Chongqing University | [Link](https://github.com/csl-cqu) |
+| [CRYPTO-SYSTEM LABORATORY](https://crypto.sjtu.edu.cn/lab/) | Shanghai Jiaotong University | - |
+| [NISL@THU](https://netsec.ccert.edu.cn/chs/) | Tsinghua University | - |
