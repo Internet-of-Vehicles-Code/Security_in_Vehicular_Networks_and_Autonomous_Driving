@@ -115,6 +115,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - Z. Wang and T. Yan, "Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks," 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN), London, United Kingdom, 2023, pp. 1-6, doi: 10.1109/LANMAN58293.2023.10189424. [[paper]](https://ieeexplore.ieee.org/document/10189424),[[FL-TP-code]](https://github.com/CoderTylor/FL-TP)
 - adi Yakan, Ilhem Fajjari, Nadjib Aitsaadi, and Cedric Adjih. 2023. Federated Learning for V2X Misbehavior Detection System in 5G Edge Networks. In Proceedings of the Int'l ACM Conference on Modeling Analysis and Simulation of Wireless and Mobile Systems (MSWiM '23). Association for Computing Machinery, New York, NY, USA, 155–163. [[paper]](https://dl.acm.org/doi/abs/10.1145/3616388.3617533)
 - Mohammed A. Abdelmaguid, Hossam S. Hassanein, and Mohammad Zulkernine. 2023. A VeReMi-based Dataset for Predicting the Effect of Attacks in VANETs. In Proceedings of the Int'l ACM Conference on Modeling Analysis and Simulation of Wireless and Mobile Systems (MSWiM '23). Association for Computing Machinery, New York, NY, USA, 175–179. [[paper]](https://doi.org/10.1145/3616388.3617548) [[Dataset]](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/R09EWA)
+- P. Sharma and H. Liu, "A Machine-Learning-Based Data-Centric Misbehavior Detection Model for Internet of Vehicles," in IEEE Internet of Things Journal, vol. 8, no. 6, pp. 4991-4999, 15 March15, 2021, doi: 10.1109/JIOT.2020.3035035. [[paper]](https://ieeexplore.ieee.org/abstract/document/9245568)
 - [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
 - [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
 
@@ -141,3 +142,4 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | [Cyber Security Laboratory @ CQU](https://csl-cqu.github.io/) | Chongqing University | [Link](https://github.com/csl-cqu) |
 | [CRYPTO-SYSTEM LABORATORY](https://crypto.sjtu.edu.cn/lab/) | Shanghai Jiaotong University | - |
 | [NISL@THU](https://netsec.ccert.edu.cn/chs/) | Tsinghua University | - |
+| [NIS&P Lab](http://nisplab.whu.edu.cn/index.html) | Wuhan University | - |
