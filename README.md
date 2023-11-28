@@ -145,6 +145,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - T. Alladi, B. Gera, A. Agrawal, V. Chamola and F. R. Yu, "DeepADV: A Deep Neural Network Framework for Anomaly Detection in VANETs," in IEEE Transactions on Vehicular Technology, vol. 70, no. 11, pp. 12013-12023, Nov. 2021, doi: 10.1109/TVT.2021.3113807. [[paper]](https://ieeexplore.ieee.org/document/9541028)
 - S. Ercan, M. Ayaida and N. Messai, "Misbehavior Detection for Position Falsification Attacks in VANETs Using Machine Learning," in IEEE Access, vol. 10, pp. 1893-1904, 2022, doi: 10.1109/ACCESS.2021.3136706. [[paper]](https://ieeexplore.ieee.org/document/9656118)
 - A. Sharma and A. Jaekel, "Machine Learning Based Misbehaviour Detection in VANET Using Consecutive BSM Approach," in IEEE Open Journal of Vehicular Technology, vol. 3, pp. 1-14, 2022, doi: 10.1109/OJVT.2021.3138354. [[paper]](https://ieeexplore.ieee.org/document/9662982)
+- P. Sharma and H. Liu, "A Machine-Learning-Based Data-Centric Misbehavior Detection Model for Internet of Vehicles," in IEEE Internet of Things Journal, vol. 8, no. 6, pp. 4991-4999, 15 March15, 2021, doi: 10.1109/JIOT.2020.3035035. [[paper]](https://ieeexplore.ieee.org/abstract/document/9245568)
 - [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
 - [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
 
