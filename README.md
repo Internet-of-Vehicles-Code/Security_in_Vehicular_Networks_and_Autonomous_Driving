@@ -111,12 +111,15 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 
 ### In-vehicle
 - L. Yang and A. Shami, "A Transfer Learning and Optimized CNN Based Intrusion Detection System for Internet of Vehicles," ICC 2022 - IEEE International Conference on Communications, Seoul, Korea, Republic of, 2022, pp. 2774-2779, doi: 10.1109/ICC45855.2022.9838780. [[paper]](https://ieeexplore.ieee.org/abstract/document/9838780),[[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning)
-- Intrusion-Detection-System-Using-Machine-Learning [[code]]()
+- Intrusion-Detection-System-Using-Machine-Learning [[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)
   - L. Yang, A. Moubayed, I. Hamieh and A. Shami, "Tree-Based Intelligent Intrusion Detection System in Internet of Vehicles," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013892. [[paper]](https://ieeexplore.ieee.org/document/9013892)
   - L. Yang, A. Moubayed and A. Shami, "MTH-IDS: A Multitiered Hybrid Intrusion Detection System for Internet of Vehicles," in IEEE Internet of Things Journal, vol. 9, no. 1, pp. 616-632, 1 Jan.1, 2022, doi: 10.1109/JIOT.2021.3084796. [[paper]](https://ieeexplore.ieee.org/document/9443234)
   - L. Yang, A. Shami, G. Stevens and S. de Rusett, "LCCDE: A Decision-Based Ensemble Framework for Intrusion Detection in The Internet of Vehicles," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 3545-3550, doi: 10.1109/GLOBECOM48099.2022.10001280. [[paper]](https://ieeexplore.ieee.org/document/10001280)
+  - Yang, Li, and Abdallah Shami. "IDS-ML: An open source code for Intrusion Detection System development using Machine Learning." Software Impacts 14 (2022): 100446. [[paper]](https://www.sciencedirect.com/science/article/pii/S2665963822001300),[[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)
 - K. Agrawal, T. Alladi, A. Agrawal, V. Chamola and A. Benslimane, "NovelADS: A Novel Anomaly Detection System for Intra-Vehicular Networks," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 22596-22606, Nov. 2022, doi: 10.1109/TITS.2022.3146024. [[paper]](https://ieeexplore.ieee.org/abstract/document/9706416),[[code]](https://github.com/kushagra-2503/Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles)
 - Dwivedi A K. Anomaly detection in intra-vehicle networks[J]. arXiv preprint arXiv:2205.03537, 2022. [[paper]](https://arxiv.org/abs/2205.03537)
+- Song, Hyun Min, Jiyoung Woo, and Huy Kang Kim. "In-vehicle network intrusion detection using deep convolutional neural network." Vehicular Communications 21 (2020): 100198. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209619302451)
+- Seo, Eunbi, Hyun Min Song, and Huy Kang Kim. "GIDS: GAN based intrusion detection system for in-vehicle network." 2018 16th Annual Conference on Privacy, Security and Trust (PST). IEEE, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8514157)
 
 ### IoV security dataset
 - [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
