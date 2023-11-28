@@ -120,6 +120,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - Dwivedi A K. Anomaly detection in intra-vehicle networks[J]. arXiv preprint arXiv:2205.03537, 2022. [[paper]](https://arxiv.org/abs/2205.03537)
 - Song, Hyun Min, Jiyoung Woo, and Huy Kang Kim. "In-vehicle network intrusion detection using deep convolutional neural network." Vehicular Communications 21 (2020): 100198. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209619302451)
 - Seo, Eunbi, Hyun Min Song, and Huy Kang Kim. "GIDS: GAN based intrusion detection system for in-vehicle network." 2018 16th Annual Conference on Privacy, Security and Trust (PST). IEEE, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8514157)
+- Korium, Mohamed Selim, et al. "Intrusion detection system for cyberattacks in the Internet of Vehicles environment." Ad Hoc Networks 153 (2024): 103330. [[paper]](https://www.sciencedirect.com/science/article/pii/S1570870523002500)
 
 ### IoV security dataset
 - [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
@@ -136,6 +137,9 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - P. Sharma and H. Liu, "A Machine-Learning-Based Data-Centric Misbehavior Detection Model for Internet of Vehicles," in IEEE Internet of Things Journal, vol. 8, no. 6, pp. 4991-4999, 15 March15, 2021, doi: 10.1109/JIOT.2020.3035035. [[paper]](https://ieeexplore.ieee.org/abstract/document/9245568)
 - A. Sharma and A. Jaekel, "Machine Learning Based Misbehaviour Detection in VANET Using Consecutive BSM Approach," in IEEE Open Journal of Vehicular Technology, vol. 3, pp. 1-14, 2022, doi: 10.1109/OJVT.2021.3138354. [[paper]](https://ieeexplore.ieee.org/document/9662982)
 - J. Huang, J. Lv, Z. Zhou, S. Gyawali and Y. Qian, "A Multi-objective Model for Misbehavior Detection in IoV," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 4395-4400, doi: 10.1109/GLOBECOM48099.2022.10000959. [[paper]](https://ieeexplore.ieee.org/abstract/document/10000959)
+- Z. Liu, H. Xu, Y. Kuang and F. Li, "SVMDformer: A Semi-Supervised Vehicular Misbehavior Detection Framework Based on Transformer in IoV," 2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS), Hong Kong, Hong Kong, 2023, pp. 887-897, doi: 10.1109/ICDCS57875.2023.00035. [[paper]](https://ieeexplore.ieee.org/document/10272465)
+- R. Sedar, C. Kalalas, F. Vázquez-Gallego and J. Alonso-Zarate, "Reinforcement Learning Based Misbehavior Detection in Vehicular Networks," ICC 2022 - IEEE International Conference on Communications, Seoul, Korea, Republic of, 2022, pp. 3550-3555, doi: 10.1109/ICC45855.2022.9838796. [[paper]](https://ieeexplore.ieee.org/document/9838796)
+- T. Alladi, B. Gera, A. Agrawal, V. Chamola and F. R. Yu, "DeepADV: A Deep Neural Network Framework for Anomaly Detection in VANETs," in IEEE Transactions on Vehicular Technology, vol. 70, no. 11, pp. 12013-12023, Nov. 2021, doi: 10.1109/TVT.2021.3113807. [[paper]](https://ieeexplore.ieee.org/document/9541028)
 - [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
 - [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
 
