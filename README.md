@@ -99,6 +99,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - A. Boualouache and T. Engel, "A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 25, no. 2, pp. 1128-1172, Secondquarter 2023, doi: 10.1109/COMST.2023.3236448. [[paper]](https://ieeexplore.ieee.org/document/10015746)
 
 ## IDS 
+### V2X
 - S. Anbalagan, G. Raja, S. Gurumoorthy, R. D. Suresh and K. Dev, "IIDS: Intelligent Intrusion Detection System for Sustainable Development in Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3271768. [[paper]](https://ieeexplore.ieee.org/document/10144487?denied=&signout=success)
 - S. Arisdakessian, O. A. Wahab, A. Mourad, H. Otrok and M. Guizani, "A Survey on IoT Intrusion Detection: Federated Learning, Game Theory, Social Psychology, and Explainable AI as Future Directions," in IEEE Internet of Things Journal, vol. 10, no. 5, pp. 4059-4092, 1 March1, 2023, doi: 10.1109/JIOT.2022.3203249. [[paper]](https://ieeexplore.ieee.org/abstract/document/9872110?signout=success&signout=success)
 - Self-reliant misbehavior detection in V2X networks [[paper]](https://open.bu.edu/handle/2144/36073)
@@ -107,6 +108,19 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
 | [Kai Wang](https://wangkai-tech23.github.io/) | Harbin Institute of Technology | [Link](https://scholar.google.com.hk/citations?hl=zh-CN&user=32VD4kwAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37085895922) | [Link](https://github.com/wangkai-tech23) |
+
+### In-vehicle
+- L. Yang and A. Shami, "A Transfer Learning and Optimized CNN Based Intrusion Detection System for Internet of Vehicles," ICC 2022 - IEEE International Conference on Communications, Seoul, Korea, Republic of, 2022, pp. 2774-2779, doi: 10.1109/ICC45855.2022.9838780. [[paper]](https://ieeexplore.ieee.org/abstract/document/9838780),[[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning)
+- Intrusion-Detection-System-Using-Machine-Learning [[code]]()
+  - L. Yang, A. Moubayed, I. Hamieh and A. Shami, "Tree-Based Intelligent Intrusion Detection System in Internet of Vehicles," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013892. [[paper]](https://ieeexplore.ieee.org/document/9013892)
+  - L. Yang, A. Moubayed and A. Shami, "MTH-IDS: A Multitiered Hybrid Intrusion Detection System for Internet of Vehicles," in IEEE Internet of Things Journal, vol. 9, no. 1, pp. 616-632, 1 Jan.1, 2022, doi: 10.1109/JIOT.2021.3084796. [[paper]](https://ieeexplore.ieee.org/document/9443234)
+  - L. Yang, A. Shami, G. Stevens and S. de Rusett, "LCCDE: A Decision-Based Ensemble Framework for Intrusion Detection in The Internet of Vehicles," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 3545-3550, doi: 10.1109/GLOBECOM48099.2022.10001280. [[paper]](https://ieeexplore.ieee.org/document/10001280)
+- K. Agrawal, T. Alladi, A. Agrawal, V. Chamola and A. Benslimane, "NovelADS: A Novel Anomaly Detection System for Intra-Vehicular Networks," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 22596-22606, Nov. 2022, doi: 10.1109/TITS.2022.3146024. [[paper]](https://ieeexplore.ieee.org/abstract/document/9706416),[[code]](https://github.com/kushagra-2503/Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles)
+- Dwivedi A K. Anomaly detection in intra-vehicle networks[J]. arXiv preprint arXiv:2205.03537, 2022. [[paper]](https://arxiv.org/abs/2205.03537)
+
+### IoV security dataset
+- [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
+- [Intrusion Detection Evaluation Dataset (CIC-IDS2017)](https://www.unb.ca/cic/datasets/ids-2017.html)
 
 ## Baseline methods based on the VeReMi /& Extension dataset
 - F. Dutra, K. Bonfim, C. Siqueira, L. A. Pereira, A. Santos and R. I. Meneguette, "DISMISS-BSM: an Architecture for Detecting Position Spoofing in Basic Safety Messages," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 3381-3386, doi: 10.1109/GLOBECOM48099.2022.10001122. [[paper]](https://ieeexplore.ieee.org/document/10001122),[[code]](https://github.com/c2dc/dismiss-bsm-globecom2022)
@@ -122,9 +136,10 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
 - [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
 
-## IoV security dataset
-- [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
-- [Intrusion Detection Evaluation Dataset (CIC-IDS2017)](https://www.unb.ca/cic/datasets/ids-2017.html)
+### Dataset
+- VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
+- J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
+
 
 
 # Group
