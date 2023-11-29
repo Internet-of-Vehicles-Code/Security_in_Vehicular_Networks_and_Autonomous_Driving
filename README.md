@@ -148,6 +148,8 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - P. Sharma and H. Liu, "A Machine-Learning-Based Data-Centric Misbehavior Detection Model for Internet of Vehicles," in IEEE Internet of Things Journal, vol. 8, no. 6, pp. 4991-4999, 15 March15, 2021, doi: 10.1109/JIOT.2020.3035035. [[paper]](https://ieeexplore.ieee.org/abstract/document/9245568)
 - [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
 - [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
+- [code: Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles](https://github.com/kushagra-2503/Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles)
+  - CNN LSTM 
 
 ### Dataset
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
