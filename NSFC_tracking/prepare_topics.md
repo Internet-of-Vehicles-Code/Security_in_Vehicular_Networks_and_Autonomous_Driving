@@ -303,4 +303,5 @@
 - Yu, C., Ye, Z., He, Y., Gao, M., Luo, H., & Yu, G. (2023). Cooperative localisation for multi-RSU vehicular networks based on predictive beamforming. Annals of Telecommunications, 1-16. [[paper]](https://link.springer.com/article/10.1007/s12243-023-00974-7)
   - 大多数现有工作都是基于单个基站或单个路边单元（RSU），并且一些多基站协作策略的文献没有考虑DFRC技术[18 , 19 ]。为了实现更准确的雷达参数估计并提高本文所述的定位性能，我们将单个 RSU 车载网络扩展为具有协作定位能力的多 RSU DFRC V2I 网络。如何进一步提高多RSU系统中角度估计的精度？如何导出多 RSU V2I 系统的 Cramer–Rao 界限 (CRB)？如何优化不同车辆、不同时段之间的功率分配，以最小化CRB？如何利用多个 RSU 的信息来进一步提高定位精度？
   - 我们提出了一种基于 DFRC 技术的多 RSU 车载网络系统的新颖框架，可提高定位精度并减少通信开销。我们利用 LSTM 从信号回波中提取参数，与传统方法（例如多信号分类（MUSIC）算法）相比，提高了参数估计精度。我们提出了一种新颖的功率分配方案，在 RSU 功率和车辆通信速率的约束下最小化 sum-CRB。与平均功率分配方法相比，所提出的功率分配方案提高了参数估计性能。我们提出了一种新颖的距离加权方法，根据 RSU 和车辆之间的距离在多个 RSU 之间分配不同的权重。与平均加权方法相比，距离加权方法大大提高了多RSU定位的精度。
+- Alaneed, Mohammad. "Enabling Joint Sensing And Communication For Vehicle-to-everything Networks." PhD diss., Cleveland State University, 2023. [[paper]](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=csu1687382542070936&disposition=inline)
 
