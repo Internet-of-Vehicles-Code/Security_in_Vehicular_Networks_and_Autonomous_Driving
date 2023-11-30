@@ -294,3 +294,8 @@
 除了与技术相关的挑战外，通感一体化的一个关键成功因素与法规相关。通感一体化系统扩展了最初专门分配给感知或智能交通系统（Intelligent Transportation System，ITS）通信的频段和用于移动/V2N 通信网络的许可频段的用途，在这些频段上同时实现通信和感知功能可能面临合规问题。而且，一旦需要重新分配用于通信或感知的频谱，车载的通感一体化设备也需要升级，这会影响车载通感一体化设备的生命周期。此外，由于无线测距设备传感是安全关键功能，因此通感一体化的解决方案需要满足汽车安全等级（Automotive Safety Integrity Level，ASIL）的要求。
 
 同时，通感一体化系统需要支持不同厂商的网络和终端设备，使其能够无缝参与和集成到感知服务中。车联网的场景要求来自多个制造商的通感一体化设备能够相互协作，特别是在干扰管理方面。因此，不同通感实体的功能和接口的标准化对其未来的广泛部署至关重要。
+
+
+## related papers
+- C. Zhao, G. Wu and W. Xiong, "Decentralized Multiagent Reinforcement Learning-based Cooperative Perception with Dual-functional Radar-Communication V2V Links," 2023 IEEE International Conference on Communications Workshops (ICC Workshops), Rome, Italy, 2023, pp. 1100-1105, doi: 10.1109/ICCWorkshops57953.2023.10283653. [[paper]](https://ieeexplore.ieee.org/abstract/document/10283653),[[code]](https://github.com/chowen1/DMCP)(coming)
+- X. Cheng, D. Duan, S. Gao and L. Yang, "Integrated Sensing and Communications (ISAC) for Vehicular Communication Networks (VCN)," in IEEE Internet of Things Journal, vol. 9, no. 23, pp. 23441-23451, 1 Dec.1, 2022, doi: 10.1109/JIOT.2022.3191386. [[paper]](https://ieeexplore.ieee.org/abstract/document/9830717?signout=success&signout=success)

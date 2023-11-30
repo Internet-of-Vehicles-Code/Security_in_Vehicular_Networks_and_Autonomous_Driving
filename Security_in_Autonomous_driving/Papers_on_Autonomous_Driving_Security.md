@@ -74,6 +74,7 @@
 - Y Zhao, Z Xiang, S Yin, X Pang, S Chen, Y Wang. Malicious Agent Detection for Robust Multi-Agent Collaborative Perception. arXiv preprint arXiv:2310.11901, 2023. [[paper]](https://arxiv.org/pdf/2310.11901.pdf)
 - T. Hardes, I. Turcanu and C. Sommer, "Poster: A Case for Heterogenous Co-Simulation of Cooperative and Autonomous Driving," 2023 IEEE Vehicular Networking Conference (VNC), Istanbul, Turkiye, 2023, pp. 151-152, doi: 10.1109/VNC57357.2023.10136319. [[paper]](https://ieeexplore.ieee.org/abstract/document/10136319), [[code]](https://github.com/veins/veins_carla)
 - Wei, Sizhe, et al. "Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow." Thirty-seventh Conference on Neural Information Processing Systems. 2023. [[paper]](https://arxiv.org/abs/2309.16940)，[[code]](https://github.com/MediaBrain-SJTU/CoBEVFlow)
+- G. Thandavarayan, M. Sepulcre and J. Gozalvez, "Generation of Cooperative Perception Messages for Connected and Automated Vehicles," in IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 16336-16341, Dec. 2020, doi: 10.1109/TVT.2020.3036165. [[paper]](https://ieeexplore.ieee.org/document/9250667)
 
 
 
