@@ -298,4 +298,9 @@
 
 ## related papers
 - C. Zhao, G. Wu and W. Xiong, "Decentralized Multiagent Reinforcement Learning-based Cooperative Perception with Dual-functional Radar-Communication V2V Links," 2023 IEEE International Conference on Communications Workshops (ICC Workshops), Rome, Italy, 2023, pp. 1100-1105, doi: 10.1109/ICCWorkshops57953.2023.10283653. [[paper]](https://ieeexplore.ieee.org/abstract/document/10283653),[[code]](https://github.com/chowen1/DMCP)(coming)
+  - 本文设计了一个 DRL 框架，并利用 77 GHz 的 ISAC 技术来赋能传统的 V2V 链路，共同最大化目标感知率并最小化每辆车的信息年龄（AoI），而无需任何现有的 V2X所需的资源或中心节点。针对 DFRC 链路的波束形成方向选择和功率分配制定了优化问题，以最大化目标感知率。我们将这个问题表述为马尔可夫决策过程（MDP）。在每个CAV上设计了一个状态表来维护其感知信息，并提出了一种微妙的合并和更新策略。然后，进一步设计DFRC链路上承载的信标信号来广播感知信息。提出了一种新颖的完全分散的深度强化学习方案来优化重新表述的部分观测马尔可夫决策过程（POMDP），其中每辆车的先验知识和部分观测得到改进，并且收敛得到协调。
 - X. Cheng, D. Duan, S. Gao and L. Yang, "Integrated Sensing and Communications (ISAC) for Vehicular Communication Networks (VCN)," in IEEE Internet of Things Journal, vol. 9, no. 23, pp. 23441-23451, 1 Dec.1, 2022, doi: 10.1109/JIOT.2022.3191386. [[paper]](https://ieeexplore.ieee.org/abstract/document/9830717?signout=success&signout=success)
+- Yu, C., Ye, Z., He, Y., Gao, M., Luo, H., & Yu, G. (2023). Cooperative localisation for multi-RSU vehicular networks based on predictive beamforming. Annals of Telecommunications, 1-16. [[paper]](https://link.springer.com/article/10.1007/s12243-023-00974-7)
+  - 大多数现有工作都是基于单个基站或单个路边单元（RSU），并且一些多基站协作策略的文献没有考虑DFRC技术[18 , 19 ]。为了实现更准确的雷达参数估计并提高本文所述的定位性能，我们将单个 RSU 车载网络扩展为具有协作定位能力的多 RSU DFRC V2I 网络。如何进一步提高多RSU系统中角度估计的精度？如何导出多 RSU V2I 系统的 Cramer–Rao 界限 (CRB)？如何优化不同车辆、不同时段之间的功率分配，以最小化CRB？如何利用多个 RSU 的信息来进一步提高定位精度？
+  - 我们提出了一种基于 DFRC 技术的多 RSU 车载网络系统的新颖框架，可提高定位精度并减少通信开销。我们利用 LSTM 从信号回波中提取参数，与传统方法（例如多信号分类（MUSIC）算法）相比，提高了参数估计精度。我们提出了一种新颖的功率分配方案，在 RSU 功率和车辆通信速率的约束下最小化 sum-CRB。与平均功率分配方法相比，所提出的功率分配方案提高了参数估计性能。我们提出了一种新颖的距离加权方法，根据 RSU 和车辆之间的距离在多个 RSU 之间分配不同的权重。与平均加权方法相比，距离加权方法大大提高了多RSU定位的精度。
+
