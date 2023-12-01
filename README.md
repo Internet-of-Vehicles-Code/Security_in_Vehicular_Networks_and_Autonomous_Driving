@@ -122,6 +122,7 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 - Seo, Eunbi, Hyun Min Song, and Huy Kang Kim. "GIDS: GAN based intrusion detection system for in-vehicle network." 2018 16th Annual Conference on Privacy, Security and Trust (PST). IEEE, 2018. [[paper]](https://ieeexplore.ieee.org/abstract/document/8514157)
 - Korium, Mohamed Selim, et al. "Intrusion detection system for cyberattacks in the Internet of Vehicles environment." Ad Hoc Networks 153 (2024): 103330. [[paper]](https://www.sciencedirect.com/science/article/pii/S1570870523002500)
 - L. Zhang, Y. Wang, M. Wu, Y. Wang and Y. Zheng, "Network Intrusion Detection Based on Graph Neural Network and Ensemble Learning," 2023 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS), Yibin, China, 2023, pp. 1-6, doi: 10.1109/SAFEPROCESS58597.2023.10295926. [[paper]](https://ieeexplore.ieee.org/abstract/document/10295926)
+- Sebastian, Abhishek. "Enhancing Intrusion Detection In Internet Of Vehicles Through Federated Learning." arXiv preprint arXiv:2311.13800 (2023). [[paper]](https://arxiv.org/abs/2311.13800),[[code]](https://github.com/abby1712/Federated_Learning_IDS_On_IOV)
 
 ### IoV security dataset
 - [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
