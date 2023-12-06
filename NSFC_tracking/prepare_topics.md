@@ -187,6 +187,16 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 面向下一代车联网的通信与感知联合优化研究（2022-，青年） | 孙春蕾 | 北京科技大学 | - | [Link](https://ieeexplore.ieee.org/author/37086061825) | - |
 
+## ISAC科普
+
+- [到底什么是“通感一体化”？](https://zhuanlan.zhihu.com/p/626573511)
+- [通信感知一体化（ISAC）：从入门到入坑](https://zhuanlan.zhihu.com/p/537067898)
+- [通感一体化到底如何实现“一体化”？](https://zhuanlan.zhihu.com/p/614392533)
+
+
+## 数据集
+- [Sensiverse: A dataset for ISAC study](https://sensiverse.github.io/)
+  - Luo, Jiajin, Baojian Zhou, Yang Yu, Ping Zhang, Xiaohui Peng, Jianglei Ma, Peiying Zhu, Jianmin Lu, and Wen Tong. "Sensiverse: A dataset for ISAC study." arXiv preprint arXiv:2308.13789 (2023). [[paper]](https://arxiv.org/abs/2308.13789) 
 
 ## 白皮书
 
