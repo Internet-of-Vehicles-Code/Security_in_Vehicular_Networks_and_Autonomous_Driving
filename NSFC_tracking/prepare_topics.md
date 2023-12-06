@@ -192,7 +192,8 @@
 - [到底什么是“通感一体化”？](https://zhuanlan.zhihu.com/p/626573511)
 - [通信感知一体化（ISAC）：从入门到入坑](https://zhuanlan.zhihu.com/p/537067898)
 - [通感一体化到底如何实现“一体化”？](https://zhuanlan.zhihu.com/p/614392533)
-
+- [雷达通信一体化和通信感知一体化的关系是什么呀？](https://www.zhihu.com/question/489989393)
+- video:[通感一体化那些事儿](https://tv.sohu.com/v/dXMvMzM1OTQyMzQ2LzQwMzU4ODc0Ni5zaHRtbA==.html)
 
 ## 数据集
 - [Sensiverse: A dataset for ISAC study](https://sensiverse.github.io/)
