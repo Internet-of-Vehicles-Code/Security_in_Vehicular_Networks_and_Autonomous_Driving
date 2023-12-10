@@ -1,5 +1,7 @@
 ## 标准体系&白皮书&研究报告合集
 
+![](../IoV_policy/figure/国家车联网产业标准体系进展情况_时间轴.png)
+
 ### 科普
 - [一文详解车联网标准组织和技术标准进展](https://mp.weixin.qq.com/s/2zhdVxE39iXQXzSSXT9cRw)
 

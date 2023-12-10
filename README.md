@@ -221,4 +221,4 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 
 
 ---
-如有遗漏欢迎分享、补充，请在页面右上角点个Star:star:支持一下，谢谢！
+如有遗漏欢迎分享、补充，请在页面右上角点个Star :star: 支持一下，谢谢！
