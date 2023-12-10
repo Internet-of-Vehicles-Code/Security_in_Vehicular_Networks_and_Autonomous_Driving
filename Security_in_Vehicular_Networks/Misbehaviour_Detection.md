@@ -18,7 +18,7 @@
     - LSTM 架构的性能明显优于 Transformer，因为 Transformer 通常需要大量相对复杂的数据才能正确学习其注意力机制。
     - CNN 模型可以使用 16 个给定特征来区分非攻击车辆和攻击车辆，准确率为 72%，精度为 81%。
 
-- Z. Wang and T. Yan, "Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks," 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN), London, United Kingdom, 2023, pp. 1-6, doi: 10.1109/LANMAN58293.2023.10189424. [[paper]](https://ieeexplore.ieee.org/document/10189424)
+- Z. Wang and T. Yan, "Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks," 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN), London, United Kingdom, 2023, pp. 1-6, doi: 10.1109/LANMAN58293.2023.10189424. [[paper]](https://ieeexplore.ieee.org/document/10189424) [[code]](https://github.com/CoderTylor/FL-TP)
     - **FL-TP** 方案：基于 VeReMi 数据集，结合 FL 和 LSTM 提出了一种基于联邦学习的针对网络攻击的车辆轨迹预测算法，检测 VeReMi 中的攻击。
 
 - M. A. Shahid and A. Jaekel, "Hybrid Approach to Detect Position Forgery Attacks in Connected Vehicles," 2023 14th International Conference on Network of the Future (NoF), Izmir, Turkiye, 2023, pp. 47-51, doi: 10.1109/NoF58724.2023.10302810. [[paper]](https://ieeexplore.ieee.org/abstract/document/10302810)
@@ -43,3 +43,8 @@
     - 在每个场景中，都可以找到大约 500 辆接收车辆的 JSON 文件形式的日志。 每个文件都保存单个车辆（相同 ID）在整个旅程中从相邻车辆（300 米范围）接收到的 BSM 记录。 第一个要求是构建发送者-接收者对，定义单个发送者的完整旅程。 在一个场景中，所有 JSON 文件都被转换为 CSV 格式，然后连接在一起。 名为“攻击者类型”和“接收者 ID”的附加属性已添加到创建的串联 CSV 文件中。
 
 - J. Kamel, M. R. Ansari, J. Petit, A. Kaiser, I. B. Jemaa and P. Urien, "Simulation Framework for Misbehavior Detection in Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 69, no. 6, pp. 6631-6643, June 2020, doi: 10.1109/TVT.2020.2984878. [[F2MD-paper]](https://ieeexplore.ieee.org/document/9056489) [[F2MD-code]](https://github.com/josephkamel/F2MD)
+
+
+## 非机器学习方案
+- Q. Hu, X. Fan, A. Shan and Z. Wang, "Sybil Attack Detection Method based on Timestamp-Chain in Internet of Vehicles," 2021 IEEE International Conference on Smart Internet of Things (SmartIoT), Jeju, Korea, Republic of, 2021, pp. 174-178, doi: 10.1109/SmartIoT52359.2021.00035. [[paper]](https://ieeexplore.ieee.org/document/9556187)
+    - 时戳链、邻居列表、RSSI。
