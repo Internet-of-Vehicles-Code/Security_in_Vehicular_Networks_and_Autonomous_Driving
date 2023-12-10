@@ -186,3 +186,39 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | [NISL@THU](https://netsec.ccert.edu.cn/chs/) | Tsinghua University | - |
 | [NIS&P Lab](http://nisplab.whu.edu.cn/index.html) | Wuhan University | - |
 | [The Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/index.html) | Zhejiang University | people: [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html) |
+
+
+# Others
+
+- [安全学术圈](https://secdr.org/)
+  - 安全学术圈(SecQuan)公众号成立于2018年1月5日，主要专注安全学术领域的论文征稿、论文笔记、人才招募、基金申请等相关方面的资讯分享，通过该公众号聚集国内外专注安全学术的青年才俊，以此共同交流和进步。
+  - Github：[SecDr](https://github.com/secdr)
+- [SecWiKi](https://www.sec-wiki.com/index.php)
+  - 汇聚国内外优秀安全咨询、工具和网站，只做高质量聚合和评论。 
+  - Github：[SecWiki](https://github.com/SecWiki)
+- [ctfiot](https://www.ctfiot.com/)
+  - 安全相关聚合网址
+
+## 公众号
+
+**通信**：IMT2030推进组；ISAC通信感知一体化；从1G到6G；电信科学；通信百科；通信学报；网络与通信；网络智能研究中心NIRC；网优雇佣军；未来移动通信论坛；无线深海；鲜枣课堂；新基建5G产业研究；信息通信技术与政策；中国信通院CAICT；中兴文档；5G；5G通信学堂；5G推进组；5G行业应用；6G公众号；6G研究苑；JCIN
+
+**自动驾驶**：Apollo智能驾驶；汽车自动驾驶技术；焉知汽车；智车科技；智驾社；智驾最前沿；自动驾驶测试验证技术创新论坛；自动驾驶之心；自动驾驶专栏；北京市高级别自动驾驶示范区；智能车情报局；BigTrans；StrongerTang；
+
+**计算机视觉&人工智能**：CVer;CVHub;达摩院DAMO；机器之心；计算机视觉工坊；计算机视觉life；计算机视觉研究院；智源研究院；中大HCP实验室；3D视觉工坊；colalab
+
+**车联网**：长沙智能驾驶研究院；车联界；车联网；车联新生态；车路漫漫；车路协同自动驾驶；ITS智能交通；腾讯智慧交通；有辕有辙；粤车联；粤车联网联盟；佐思汽车研究；5G智联车；港科大广州|物联网学域
+
+**车联网安全**：工业互联网和车联网安全中心；IoVSecurity；安全学术圈；CCF计算机安全专委会；隐私计算研习社；COMPASS Lab；Crypto Lab；HuangLab；控安51fusa安全社区；零信任攻防实验室；汽车电子与软件；汽车信息安全；数缘信安社区；UbiP Lab；信息安全最新论文技术交流
+
+**产业&联盟**：CICV创新中心；中国汽车百人会；黄大年茶思屋科技网站；星闪联盟；智能汽车与智慧城市协同发展联盟；智能网联汽车产业创新联盟；边缘计算产业联盟；边缘计算中文社区
+
+**学会**：中国电子学会；中国公路学会；中国计算机学会；中国机械工程学会；中国汽车工程学会；中国汽车工业协会；中国人工智能学会；中国通信学会；中国自动化学会；电动汽车百人会
+
+**实验室**：阿波罗智路实验室AIR Lab；ATT带你玩转车联网；北邮GAMMA Lab；重庆无线通信技术实验室；ISN全国重点实验室；Jun ZHANG HKUST；交通数字孪生研究组；诺亚实验室；OpenDriveLab；OpenV2X；清华大学智能产业研究院；群智感知与计算研究小组；上海人工智能实验室；The CAR Lab；THU宽带通信与信号处理；同济智能汽车研究所；轩辕实验室；智能感知与计算研究中心；智能运载装备研究所；智能自主无人系统课题组；中国科大智能网络与系统课题组；中国科学院自动化研究所；紫金山实验室；北交CJSRC；FSM Lab；INTO Lab；MIRA Lab；清华大学电子工程系；清华大学-中国移动联合研究院；Tdata LAB；THU宽带通信与信号处理；
+
+**投稿**：CS Conference；泛在智能通信前沿；期刊分区表；爱科会易CS
+
+
+---
+如有遗漏欢迎分享、补充，请在页面右上角点个Star:star:支持一下，谢谢！
