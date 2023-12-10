@@ -18,64 +18,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [Network and Distributed System Security (NDSS) Symposium](https://www.ndss-symposium.org/):[[(VehicleSec) 2023 Program]](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/)
 
 ## Journal and Conference
-CCF: [Recommended Publications by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-
-THU: [Important Conference Directory](https://www.sist.tsinghua.edu.cn/__local/0/E3/67/303DEC8D1B54395036E70EECAF6_AD515DFB_5643C0.pdf?e=.pdf)
-
-BUPT: [Important Conference Directory](https://sice.bupt.edu.cn/kxyj/zyhylb.htm)
-
-Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/); [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM,KR,CV,CG,RO,SP,AP,HCI); [network-communication-conferences](https://github.com/jwwthu/network-communication-conferences)
-[Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
-[WikiCFP-Security](http://wikicfp.com/cfp/call?conference=security&skip=1)
-
-| Conference | Description | Rank | Web | Deadline |
-| :---: | :---: | :---: | :---: | :---: |
-| IEEE ITSC：International Conference on Intelligent Transportation System | 国际智能交通系统会议，ITSC涵盖了交通管理、车辆控制、智能交通系统等方面的研究内容，也包括自动驾驶技术的相关研究和应用。 | - | [ITSC 2024](https://ieee-itsc.org/2024/) | July 31, 2024 - Edmonton, Canada |
-| IEEE ICRA：International Conference on Robotics and Automation | 国际机器人与自动化会议，机器人学的顶级国际会议，也是自动驾驶领域内最有影响力的顶级会议之一！ |  | [ICRA 2024](https://2024.ieee-icra.org/) | 15 September 2023 -Yokohama, Japan |
-| IEEE IROS: International Conference on Robotics and System | 国际机器人与系统会议，机器人学的顶级国际会议 |  | [IROS]() | - |
-| RSS--Robotics: Science and Systems | RSS是机器人领域的国际顶级会议之一，自2005年起每年举办一次。该会议由机器人学会（IEEE Robotics and Automation Society）和机器人科学与系统学会（Robotics Society of America）联合主办，旨在促进机器人领域的科学研究和技术应用的发展。 |  | [RSS]() | - |
-| IEEE IV: Intelligent Vehicle Symposium | 智能车顶级会议，在国外很受认可，侧重于自动驾驶技术、传感器技术、智能车辆控制等方面的研究，旨在讨论与智能交通相关的技术和应用，并分享最新研究结果和经验。 |  | [IV 2024](https://ieee-iv.org/2024/) | February 01, 2024 -Jeju Island, Korea |
-| ICCV: International Conference on Computer Version | 三大顶会之一，两年一次，地位高。 | CCF-A | [ICCV]() | - |
-| CVPR: Conference on Computer Vision and Pattern Recognition | 每年一次，三大顶会之一，地位极高。 | CCF-A | [CVPR]() | - |
-| NeurIPS: Conference on Neural Information Processing System | 机器学习领域的顶级会议，与ICML，ICLR并称为机器学习领域难度最大，水平最高，影响力最强的会议。 | CCF-A | [NeurIPS]() | - |
-| ECCV：European Conference on Computer Version | 三大顶会之一，两年一次 | CCF-B | [ECCV 2024](https://eccv2024.ecva.net/) | Thursday, March 14, 2024 -MiCo Milano |
-| ICLR：International Conference on Learning Represenations | ICLR是机器学习领域的顶级会议，与ICML，NeurIPS并称为机器学习领域难度最大，水平最高，影响力最强的会议。 |  | [ICLR]() | - |
-| ACM CCS: ACM Conference on Computer and Communications Security | 国际公认的信息安全领域旗舰会议，信息安全领域出名的四大顶级会议之一。均偏工程。 | CCF-A | [CCS 2023](https://www.sigsac.org/ccs/CCS2023/) | - |
-| NDSS: Network and Distributed System Security Symposium | 信息安全领域出名的四大顶级会议之一。 | CCF-A | [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) | - |
-| Oakland S&P: IEEE Symposium on Security & Privacy | 信息安全领域出名的四大顶级会议之一。 | CCF-A | [S&P 2024](https://www.ieee-security.org/TC/SP2024/) | - |
-| USENIX Security: USENIX Security Symposium | 信息安全领域出名的四大顶级会议之一。 | CCF-A | [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) | October 17, 2023 -PHILADELPHIA, PA, USA |
-| INFOCOM: IEEE International Conference on Computer Communications | 是网络研究领域的顶级会议 | CCF-A | [INFOCOM 2024]() | - |
-| ICC: IEEE International Conference on Communications | IEEE 通信协会的两个旗舰会议（ICC 和 Globecom）之一。 | CCF-C | [ICC 2024](https://icc2024.ieee-icc.org/) | 25 October 2023-Denver, CO, USA |
-| GLOBECOM: IEEE Global Communications Conference | IEEE 通信协会的两个旗舰会议（ICC 和 Globecom）之一。 | CCF-C | [GLOBECOM 2024]() | - |
-| WCNC: IEEE Wireless Communications and Networking Conference | 是世界顶级的无线盛会 | CCF-C | [WCNC 2024](https://wcnc2024.ieee-wcnc.org/) | 25 October 2023 -Dubai, United Arab Emirates |
-| VTC(Spring/Fall): IEEE Vehicular Technology Conference | IEEE车辆技术协会半年度旗舰会议 | - | [VTC-Fall]() | - |
-
-通信、网络领域开源的会议论文整理：[Paper with code for communication and network](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network) [By Zheng Xue; Yurong Zhang]
-
-[分区查询：中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Default.aspx)
-
-[中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
-| journal | Description | Rank | All issues |
-| :---: | :---: | :---: | :---: |
-| IEEE Journal on Selected Areas in Communications (JSAC) | 通信领域顶级期刊;CCF-A | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=49&isnumber=10224761) |
-| IEEE Transactions on Intelligent Transportation Systems (T-ITS) | 智能交通顶级期刊，中科院大类分区一区，CCF B类期刊，影响因子为9.55； | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=6979&isnumber=10271405) |   
-| IEEE Wireless Communications | 通信领域知名期刊 | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7742&isnumber=10251842) |
-| IEEE Transactions on Wireless Communications (TWC) | 通信领域知名期刊;CCF-B | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7693&isnumber=10275776) |
-| IEEE Transactions on Communications (TC) | 通信领域知名期刊;CCF-B | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=26&isnumber=10286985) |
-| IEEE Transactions on Information Forensics and Security (TIFS) | 信息安全领域最具影响力的国际顶级刊物之一，中国计算机学会（CCF）推荐A类期刊，中国密码学会（CACR）推荐A类期刊 | Q1| [Link]() |
-| IEEE Transactions on Robotics (TR) | 机器人领域旗舰;CCF-B | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=8860&isnumber=10271771) |
-| IEEE Internet of Things Journal (IoTJ) | 物联网领域顶级期刊;CCF-C | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=6488907&isnumber=10269651) |
-| IEEE Transactions on Intelligent Vehicles (T-IV) | 新期刊，进步飞速，顶刊候选者； | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7274857&isnumber=10260249) |
-| IEEE Network | magazine | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=65&isnumber=10242301) |
-| IEEE Transactions on Mobile Computing (TMC) | CCF-A | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7755&isnumber=10269771) |
-| IEEE/ACM Transactions on Networking (ToN) | CCF-A | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=90&isnumber=10286433) |
-| IEEE Transactions on Vehicular Technology (TVT) |  | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=25&isnumber=10287112) |
-| Vehicular Communications |  | Q2 | [Link](https://www.sciencedirect.com/journal/vehicular-communications/issues) |
-| IEEE Wireless Communications Letters (WCL) |  | Q3 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=5962382&isnumber=10273757) |
-| IEEE Communications Letters (CL) |  | Q3 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=4234&isnumber=10275739) |
-
-更多会议、期刊关注CCF推荐列表（人工智能、计算机网络、网络与信息安全）、中科院分区表（电信学、机器人、交通等）
-
+- [Recommended list](./Journal_and_conference/journal_and_conference.md)
 
 ## People
 [Researcher/Group Profiling in IoV / Intelligent Connected Vehicles / Autonomous Driving / Intelligent Transportation Field.](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network/blob/main/researcher_group_profiles.md) [By Zheng Xue]
@@ -186,3 +129,39 @@ Conference Deadlines: [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
 | [NISL@THU](https://netsec.ccert.edu.cn/chs/) | Tsinghua University | - |
 | [NIS&P Lab](http://nisplab.whu.edu.cn/index.html) | Wuhan University | - |
 | [The Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/index.html) | Zhejiang University | people: [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html) |
+
+
+# Others
+- [learn_how_to_research](https://github.com/Xuezhenggdut/learn_how_to_research)
+- [安全学术圈](https://secdr.org/)
+  - 安全学术圈(SecQuan)公众号成立于2018年1月5日，主要专注安全学术领域的论文征稿、论文笔记、人才招募、基金申请等相关方面的资讯分享，通过该公众号聚集国内外专注安全学术的青年才俊，以此共同交流和进步。
+  - Github：[SecDr](https://github.com/secdr)
+- [SecWiKi](https://www.sec-wiki.com/index.php)
+  - 汇聚国内外优秀安全咨询、工具和网站，只做高质量聚合和评论。 
+  - Github：[SecWiki](https://github.com/SecWiki)
+- [ctfiot](https://www.ctfiot.com/)
+  - 安全相关聚合网址
+
+## 公众号
+
+**通信**：IMT2030推进组；ISAC通信感知一体化；从1G到6G；电信科学；通信百科；通信学报；网络与通信；网络智能研究中心NIRC；网优雇佣军；未来移动通信论坛；无线深海；鲜枣课堂；新基建5G产业研究；信息通信技术与政策；中国信通院CAICT；中兴文档；5G；5G通信学堂；5G推进组；5G行业应用；6G公众号；6G研究苑；JCIN
+
+**自动驾驶**：Apollo智能驾驶；汽车自动驾驶技术；焉知汽车；智车科技；智驾社；智驾最前沿；自动驾驶测试验证技术创新论坛；自动驾驶之心；自动驾驶专栏；北京市高级别自动驾驶示范区；智能车情报局；BigTrans；StrongerTang；
+
+**计算机视觉&人工智能**：CVer;CVHub;达摩院DAMO；机器之心；计算机视觉工坊；计算机视觉life；计算机视觉研究院；智源研究院；中大HCP实验室；3D视觉工坊；colalab
+
+**车联网**：长沙智能驾驶研究院；车联界；车联网；车联新生态；车路漫漫；车路协同自动驾驶；ITS智能交通；腾讯智慧交通；有辕有辙；粤车联；粤车联网联盟；佐思汽车研究；5G智联车；港科大广州|物联网学域
+
+**车联网安全**：工业互联网和车联网安全中心；IoVSecurity；安全学术圈；CCF计算机安全专委会；隐私计算研习社；COMPASS Lab；Crypto Lab；HuangLab；控安51fusa安全社区；零信任攻防实验室；汽车电子与软件；汽车信息安全；数缘信安社区；UbiP Lab；信息安全最新论文技术交流
+
+**产业&联盟**：CICV创新中心；中国汽车百人会；黄大年茶思屋科技网站；星闪联盟；智能汽车与智慧城市协同发展联盟；智能网联汽车产业创新联盟；边缘计算产业联盟；边缘计算中文社区
+
+**学会**：中国电子学会；中国公路学会；中国计算机学会；中国机械工程学会；中国汽车工程学会；中国汽车工业协会；中国人工智能学会；中国通信学会；中国自动化学会；电动汽车百人会
+
+**实验室**：阿波罗智路实验室AIR Lab；ATT带你玩转车联网；北邮GAMMA Lab；重庆无线通信技术实验室；ISN全国重点实验室；Jun ZHANG HKUST；交通数字孪生研究组；诺亚实验室；OpenDriveLab；OpenV2X；清华大学智能产业研究院；群智感知与计算研究小组；上海人工智能实验室；The CAR Lab；THU宽带通信与信号处理；同济智能汽车研究所；轩辕实验室；智能感知与计算研究中心；智能运载装备研究所；智能自主无人系统课题组；中国科大智能网络与系统课题组；中国科学院自动化研究所；紫金山实验室；北交CJSRC；FSM Lab；INTO Lab；MIRA Lab；清华大学电子工程系；清华大学-中国移动联合研究院；Tdata LAB；THU宽带通信与信号处理；
+
+**投稿**：CS Conference；泛在智能通信前沿；期刊分区表；爱科会易CS
+
+
+---
+如有遗漏欢迎分享、补充，请在页面右上角点个Star :star: 支持一下，谢谢！

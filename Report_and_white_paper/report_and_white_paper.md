@@ -1,5 +1,10 @@
 ## 标准体系&白皮书&研究报告合集
 
+![](../IoV_policy/figure/国家车联网产业标准体系进展情况_时间轴.png)
+
+### 科普
+- [一文详解车联网标准组织和技术标准进展](https://mp.weixin.qq.com/s/2zhdVxE39iXQXzSSXT9cRw)
+
 ### 国家标准体系
 - [国家车联网产业标准体系建设指南（智能网联汽车）（2023 版）](https://www.gov.cn/zhengce/zhengceku/202307/P020230727459713380334.pdf)
 - [国家车联网产业标准体系建设指南（总体要求）(2018)](https://www.gov.cn/zhengce/zhengceku/2018-12/31/5440205/files/414a8e6aceee46828b47b801a68f8ee0.pdf)
