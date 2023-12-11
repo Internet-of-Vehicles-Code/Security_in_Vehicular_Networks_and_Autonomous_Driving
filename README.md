@@ -19,6 +19,9 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ## Journal and Conference
 - [Recommended list](./Journal_and_conference/journal_and_conference.md)
+- [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
+- [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
+- [WikiCFP-Security](http://wikicfp.com/cfp/call?conference=security&skip=1)
 
 ## People
 [Researcher/Group Profiling in IoV / Intelligent Connected Vehicles / Autonomous Driving / Intelligent Transportation Field.](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network/blob/main/researcher_group_profiles.md) [By Zheng Xue]
