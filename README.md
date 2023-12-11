@@ -144,6 +144,11 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
   - Github：[SecWiki](https://github.com/SecWiki)
 - [ctfiot](https://www.ctfiot.com/)
   - 安全相关聚合网址
+- [Autonomous Driving (AD) & Connected Vehicle (CV) Systems Security](https://sites.google.com/view/cav-sec/home)
+- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html),people:[Aaron Wu](https://github.com/Allenpandas)
+- [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security)
+- [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers)
+- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## 公众号
 
