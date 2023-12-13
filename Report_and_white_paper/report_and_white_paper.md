@@ -12,6 +12,7 @@
 
 ### 车联网信息安全
 - [工信重点实验室：智能网联汽车安全渗透白皮书（2022.12）](https://www.cstc.org.cn/zhinengwanglianqicheanquanshentoubaipishu2022.pdf)
+- [工信部：车联网（智能网联汽车）密码支撑标准体系建设指南（2022.11）](https://ambchina.com/zfc/uploads/1669357047460.pdf)
 - [中汽研-智能网联汽车信息安全发展报告（2021）](http://www.caeribeijing.com/files/20211215/f9b29fd1b6652774e287e9b36df8d4e8.pdf)
 - [中汽研-2021智能网联汽车信息安全发展报告-精华版](http://www.caeribeijing.com/files/20211210/86a9787a41e99db0d18d3cbb8475f94d.pdf)
 - [工信安全发展研究中心：自动驾驶数据安全白皮书（2020）](http://www.impcia.net/Uploads/report/2020-04-28/5ea7dba33e4e7.pdf)
