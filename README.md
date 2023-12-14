@@ -10,6 +10,7 @@ This project collects relevant literature on security in vehicular networks and 
 - [NFSC tracking](./NSFC_tracking/NSFC_tracking.md) [by Hongmin Wei]
 - [Federated_Learning_in_Vehicular_Networks](./Federated_Learning_in_Vehicular_Networks/FLVN.md) [by Jiacheng Xu]
 - [Reports and white paper](./Report_and_white_paper/report_and_white_paper.md) [by Zheng Xue]
+- [IoV Policy](./IoV_policy/国家车联网产业标准体系进展情况_资料收集.md) [By Hongmin Wei]
 
 Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - USENIX Security
