@@ -29,6 +29,7 @@
 - J. Zhang et al., "Detecting and Identifying Optical Signal Attacks on Autonomous Driving Systems," in IEEE Internet of Things Journal, vol. 8, no. 2, pp. 1140-1153, 15 Jan.15, 2021, doi: 10.1109/JIOT.2020.3011690. [[paper]](https://ieeexplore.ieee.org/abstract/document/9146823)
 - Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, and Tianwei Zhang. 2022. Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. In Proceedings of the 30th ACM International Conference on Multimedia (MM '22). Association for Computing Machinery, New York, NY, USA, 2957–2968. https://doi.org/10.1145/3503161.3548171 [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548171),[[homepage]](https://sites.google.com/view/lane-detection-attack/lda)
 - S. Filippou et al., "A Machine Learning Approach for Detecting GPS Location Spoofing Attacks in Autonomous Vehicles," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-7, doi: 10.1109/VTC2023-Spring57618.2023.10200857. [[paper]](https://ieeexplore.ieee.org/abstract/document/10200857)
+- Abrar, Murad Mehrab, and Salim Hariri. "An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception." arXiv preprint arXiv:2310.05041 (2023). [[paper]](https://arxiv.org/abs/2310.05041)
 
 
 ## Operating System Security
@@ -76,6 +77,7 @@
 - T. Hardes, I. Turcanu and C. Sommer, "Poster: A Case for Heterogenous Co-Simulation of Cooperative and Autonomous Driving," 2023 IEEE Vehicular Networking Conference (VNC), Istanbul, Turkiye, 2023, pp. 151-152, doi: 10.1109/VNC57357.2023.10136319. [[paper]](https://ieeexplore.ieee.org/abstract/document/10136319), [[code]](https://github.com/veins/veins_carla)
 - Wei, Sizhe, et al. "Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow." Thirty-seventh Conference on Neural Information Processing Systems. 2023. [[paper]](https://arxiv.org/abs/2309.16940)，[[code]](https://github.com/MediaBrain-SJTU/CoBEVFlow)
 - G. Thandavarayan, M. Sepulcre and J. Gozalvez, "Generation of Cooperative Perception Messages for Connected and Automated Vehicles," in IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 16336-16341, Dec. 2020, doi: 10.1109/TVT.2020.3036165. [[paper]](https://ieeexplore.ieee.org/document/9250667)
+- Qu, D., Chen, Q., Bai, T., Qin, A., Lu, H., Fan, H., ... & Yang, Q. (2023). SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles. arXiv preprint arXiv:2312.04822. [[paper]](https://arxiv.org/abs/2312.04822)
 
 
 
