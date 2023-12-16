@@ -30,6 +30,7 @@
 - Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, and Tianwei Zhang. 2022. Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. In Proceedings of the 30th ACM International Conference on Multimedia (MM '22). Association for Computing Machinery, New York, NY, USA, 2957–2968. https://doi.org/10.1145/3503161.3548171 [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548171),[[homepage]](https://sites.google.com/view/lane-detection-attack/lda)
 - S. Filippou et al., "A Machine Learning Approach for Detecting GPS Location Spoofing Attacks in Autonomous Vehicles," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-7, doi: 10.1109/VTC2023-Spring57618.2023.10200857. [[paper]](https://ieeexplore.ieee.org/abstract/document/10200857)
 - Abrar, Murad Mehrab, and Salim Hariri. "An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception." arXiv preprint arXiv:2310.05041 (2023). [[paper]](https://arxiv.org/abs/2310.05041)
+- M. Begum, G. Raja and M. Guizani, "AI-based Sensor Attack Detection and Classification for Autonomous Vehicles in 6G-V2X Environment," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3334257.[[paper]](https://ieeexplore.ieee.org/abstract/document/10323101)
 
 
 ## Operating System Security
