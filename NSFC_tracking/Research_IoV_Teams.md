@@ -25,6 +25,7 @@
 ### 1. 计算机学院沈蒙科研团队
 - 主要研究方向：网络流量大数据分析（深度学习技术分析网络流量特别是加密流量等）、数据安全（数据安全共享技术、机器学习数据隐私保护机制等）、区块链安全（数字货币的异常交易识别及溯源技术等）、人工智能安全（深度学习、联邦学习等）。
 - 教师个人主页：[https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy_/sm/index.htm](https://cs.bit.edu.cn/szdw/jsml/wlkjaqxy_/sm/index.htm)
+- IEEE：[https://ieeexplore.ieee.org/author/37085393066](https://ieeexplore.ieee.org/author/37085393066)
 - Google Scholar：[https://scholar.google.com/citations?user=XN0n2rEAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=XN0n2rEAAAAJ&hl=zh-CN&oi=sra)
 
 
@@ -138,6 +139,12 @@
 - 主要研究方向：4G、5G、6G网络、天地一体化网络、车联网、无人机网络等方面：包括无线网络安全性分析、终端接入认证及切换认证协议的设计以及群组认证协议的设计与分析等。
 - 教师个人主页：[https://faculty.xidian.edu.cn/MARUHUI/zh_CN/index/423554/list/index.htm](https://faculty.xidian.edu.cn/MARUHUI/zh_CN/index/423554/list/index.htm) 
 - IEEE：[https://ieeexplore.ieee.org/author/37087883244](https://ieeexplore.ieee.org/author/37087883244)
+
+
+### 2. 通信工程学院刘景伟科研团队
+- 主要研究方向：大数据安全与隐私保护、区块链应用安全及测评、物联网（IoT）与移动互联网安全、云-边计算安全。
+- 教师个人主页：[https://web.xidian.edu.cn/jwliu/](https://web.xidian.edu.cn/jwliu/) 
+- IEEE：[https://ieeexplore.ieee.org/author/37537686000](https://ieeexplore.ieee.org/author/37537686000)
 
 
 
