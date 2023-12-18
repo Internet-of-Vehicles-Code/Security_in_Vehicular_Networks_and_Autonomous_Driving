@@ -76,6 +76,10 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - 高舒. 基于GAN的样本不完备条件下车联网入侵检测方法研究[D]. 陕西:长安大学,2022. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMzAwMjkzMhoIejFiamJkN2s%3D)
 - 梁巧媛. 基于GNN的车联网入侵检测系统研究[D].杭州电子科技大学,2023.DOI:10.27075/d.cnki.ghzdc.2023.001213. [paper](https://kns.cnki.net/kcms2/article/abstract?v=jeDOxXNM7l5t8XuE4-cH_Jx1yPKwNSbipqlN4ed08bVtHxDEXxTnOF-Gslg-sQnXBS8enAAlqaTiBnBVmTTnYPRubyL8uR3Ev6jz4tOJSoMXF3H9FrEBOzxNUNCLR64qIMMCb8EK-4PcMJFp3rKMgA==&uniplatform=NZKPT&language=CHS)
 
+| Name | Affiliation | Google scholar | IEEE | github |
+| :---: | :---: | :---: | :---: | :---: |
+| [Wufei Wu](https://teacher.ncu.edu.cn/publish/wuwufei/) | Nanchang University | [Link](https://scholar.google.com/citations?hl=en&user=sbyqW8kAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37086451302) | - |
+
 ### IoV security dataset
 - [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset)
 - [Intrusion Detection Evaluation Dataset (CIC-IDS2017)](https://www.unb.ca/cic/datasets/ids-2017.html)
