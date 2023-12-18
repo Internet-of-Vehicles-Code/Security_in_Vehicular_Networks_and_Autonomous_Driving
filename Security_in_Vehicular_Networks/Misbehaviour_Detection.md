@@ -46,5 +46,17 @@
 
 
 ## 非机器学习方案
+- A. Paranjothi and M. S. Khan, "Enhancing Security in VANETs with Sybil Attack Detection using Fog Computing," 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong, Hong Kong, 2023, pp. 1-6, doi: 10.1109/VTC2023-Fall60731.2023.10333491. [[paper]](https://ieeexplore.ieee.org/document/10333491)
+    - 提出了一种基于雾计算的VANET女巫攻击检测（FSDV），它利用该地区所有车辆的车载单元（OBU）来创建动态雾，使用统计技术进行流氓节点检测。我们的目标是减少数据处理延迟、开销和 FPR，以检测在高车辆密度下导致女巫攻击的流氓节点。我们的框架的性能是通过使用OMNET++和SUMO模拟器进行模拟来实现的。
+    - 保护节点利用所有车辆的 OBU 动态创建雾，以检测该区域广播较低速度值的流氓节点。部署雾层后，守卫节点开始将相邻车辆添加到邻居列表中，这是第一次遇到的情况。否则，它会更新相邻车辆的时间戳。当信标消息在区域中广播时（即每 100 毫秒），邻居列表会持续更新。然后，通过对比和分析信标消息中广播的速度值来实现对恶意节点的检测。如果速度差大于动态阈值，则检测到女巫攻击。
+    - Greenshields 模型认为道路的最佳密度为固定值，与道路限速无关。
+    - **缺点**：纯靠V2V通信，如果Sybil车辆速度与动态雾车辆速度相当，检测效果将会很差，加入精度高的定位传感器，可以解决这一问题。
+
+- M. S. Ali and P. Merdrignac, "Distributed Misbehavior Detection based on Vehicle Perception Model and CPM Data Collection," 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong, Hong Kong, 2023, pp. 1-5, doi: 10.1109/VTC2023-Fall60731.2023.10333637. [[paper]](https://ieeexplore.ieee.org/document/10333637)
+    - 本文介绍了一种创新的不当行为检测（MBD）算法，该算法旨在使用集体感知消息（CPM）识别协作智能交通系统（C-ITS）中的错误**突然停车**信息。该算法集成了车辆感知模型和来自相邻车辆的 CPM 数据。通过使用 Omnet++、SUMO 和 Veins 进行的综合模拟，我们探索了该算法在各种感知范围内的性能。
+    - 基于感知和分布式算法的开发：我们设计了两种 MBD 算法，LCPMBDA 和 LP-MBDA，它们利用感知模型来验证接收到 CPM 中的信息。这些算法以分布式方式运行，因为所有车辆都使用相同的感知模型，从而能够对 CPM 信息进行分布式验证。
+    - 性能评估：通过在真实场景中的大量模拟，对所提出的算法进行了严格的评估。通过专注于以数据为中心的方法并利用本地和接收到的信息，我们的算法展示了抵御不断变化的威胁和攻击的鲁棒性。仿真使用SUMO实现道路网络和感知模型，使用Veins进行V2X通信，使用OmNet进行整体仿真。
+
 - Q. Hu, X. Fan, A. Shan and Z. Wang, "Sybil Attack Detection Method based on Timestamp-Chain in Internet of Vehicles," 2021 IEEE International Conference on Smart Internet of Things (SmartIoT), Jeju, Korea, Republic of, 2021, pp. 174-178, doi: 10.1109/SmartIoT52359.2021.00035. [[paper]](https://ieeexplore.ieee.org/document/9556187)
     - 时戳链、邻居列表、RSSI。
+
