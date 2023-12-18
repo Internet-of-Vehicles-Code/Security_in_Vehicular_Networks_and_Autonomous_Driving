@@ -5,7 +5,7 @@
 ### 科普
 - [一文详解车联网标准组织和技术标准进展](https://mp.weixin.qq.com/s/2zhdVxE39iXQXzSSXT9cRw)
 
-### 国家标准体系
+### 国家标准体系、政策
 - [国家车联网产业标准体系建设指南（智能网联汽车）（2023 版）](https://www.gov.cn/zhengce/zhengceku/202307/P020230727459713380334.pdf)
 - [国家车联网产业标准体系建设指南（总体要求）(2018)](https://www.gov.cn/zhengce/zhengceku/2018-12/31/5440205/files/414a8e6aceee46828b47b801a68f8ee0.pdf)
 
@@ -36,6 +36,7 @@
 
 
 ### 通信技术（5G、6G）
+- [工信部：“十四五”信息通信行业发展规划](https://www.gov.cn/zhengce/zhengceku/2021-11/16/5651262/files/96989dadf83a4302895cd17cbeec6600.pdf)
 - [IMT-2020(5G)推进组-成果发布合集](https://www.imt2020.org.cn/html/default/zh/chengguofabu/baipishu/index.html?index=3)
 - [IMT-2030(6G)推进组-成果发布合集](https://www.imt2030.org.cn/html/default/zhongwen/chengguofabu/index.html?index=2)
 
