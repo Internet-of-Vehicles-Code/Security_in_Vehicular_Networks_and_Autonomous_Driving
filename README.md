@@ -143,6 +143,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | [NIS&P Lab](http://nisplab.whu.edu.cn/index.html) | Wuhan University | - |
 | [The Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/index.html) | Zhejiang University | people: [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html) |
 | [SUCCESS Lab](https://success.cse.tamu.edu/) | Texas A&M University | people: [Guofei Gu](https://people.engr.tamu.edu/guofei/index.html) |
+| [SPEED Lab](https://speedlab.network/) | Southern Illinois University | [Ahmed Imteaj](https://sites.google.com/view/ahmedimteaj) |
 
 
 # Others
