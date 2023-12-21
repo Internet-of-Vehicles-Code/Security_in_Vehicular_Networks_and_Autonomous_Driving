@@ -145,6 +145,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | [The Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/index.html) | Zhejiang University | people: [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html) |
 | [SUCCESS Lab](https://success.cse.tamu.edu/) | Texas A&M University | people: [Guofei Gu](https://people.engr.tamu.edu/guofei/index.html) |
 | [SPEED Lab](https://speedlab.network/) | Southern Illinois University | [Ahmed Imteaj](https://sites.google.com/view/ahmedimteaj) |
+| [Research group COSIC](https://www.esat.kuleuven.be/cosic/people/takahito-yoshizawa/) | KU Leuven | [Google scholar: Takahito Yoshizawa](https://scholar.google.com/citations?hl=en&user=crWH4wQAAAAJ&view_op=list_works&sortby=pubdate) |
 
 
 # Others
