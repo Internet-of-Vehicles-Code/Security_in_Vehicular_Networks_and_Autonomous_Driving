@@ -80,6 +80,7 @@
 - Wei, Sizhe, et al. "Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow." Thirty-seventh Conference on Neural Information Processing Systems. 2023. [[paper]](https://arxiv.org/abs/2309.16940)，[[code]](https://github.com/MediaBrain-SJTU/CoBEVFlow)
 - G. Thandavarayan, M. Sepulcre and J. Gozalvez, "Generation of Cooperative Perception Messages for Connected and Automated Vehicles," in IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 16336-16341, Dec. 2020, doi: 10.1109/TVT.2020.3036165. [[paper]](https://ieeexplore.ieee.org/document/9250667)
 - Qu, D., Chen, Q., Bai, T., Qin, A., Lu, H., Fan, H., ... & Yang, Q. (2023). SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles. arXiv preprint arXiv:2312.04822. [[paper]](https://arxiv.org/abs/2312.04822)
+- X. Ye, K. Qu, W. Zhuang and X. Shen, "Accuracy-Aware Cooperative Sensing and Computing for Connected Autonomous Vehicles," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3343709. [[paper]](https://ieeexplore.ieee.org/document/10363435?dld=bWFpbDIuZ2R1dC5lZHUuY24%3D&source=SEARCHALERT)
 
 
 
