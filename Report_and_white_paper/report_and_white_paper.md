@@ -22,6 +22,7 @@
 
 ### 车联网、车路协同、智能网联、自动驾驶
 
+- [中国联通：基于5G+MEC+C-V2X融合的车路云一体化解决方案白皮书2.0（2023.11）](https://mp.weixin.qq.com/s/PR1sRdx48bjYYUp1txIE8Q)
 - [中国信通院：车联网白皮书（2023）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231221344824574866.pdf)
 - [中国移动：车路协同算力网络白皮书（2023）](https://aimg8.dlssyht.cn/u/551001/ueditor/file/276/551001/1698108678560886.pdf)
 - [IMT-2020(5G)：C-V2X与单车智能融合功能及应用白皮书（2023.10）](https://file.mobileai-dataset.com:10050/web-5g/f1/ba/96/f3/30/1e/34/42/86/cb/ee/1e/b3/3a/86/8f/10216913?response-content-disposition=inline%3Bfilename%3DC-V2X%25E4%25B8%258E%25E5%258D%2595%25E8%25BD%25A6%25E6%2599%25BA%25E8%2583%25BD%25E8%259E%258D%25E5%2590%2588%25E5%258A%259F%25E8%2583%25BD%25E5%258F%258A%25E5%25BA%2594%25E7%2594%25A8%25E7%2599%25BD%25E7%259A%25AE%25E4%25B9%25A6.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231208T070636Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=minioadmin%2F20231208%2F%2Fs3%2Faws4_request&X-Amz-Signature=1328c5e74e938bdf5930fe0bc861c9e8c5dfeb2e3d75ba892910bbeaca653926)
