@@ -40,6 +40,7 @@
 ### 通信技术（5G、6G）
 - [工信部：“十四五”信息通信行业发展规划](https://www.gov.cn/zhengce/zhengceku/2021-11/16/5651262/files/96989dadf83a4302895cd17cbeec6600.pdf)
 - [IMT-2020(5G)推进组-成果发布合集](https://www.imt2020.org.cn/html/default/zh/chengguofabu/baipishu/index.html?index=3)
+- [IMT-2020 C-V2X工作组成果展示合集](http://v2x.caict.ac.cn/index.html)
 - [IMT-2030(6G)推进组-成果发布合集](https://www.imt2030.org.cn/html/default/zhongwen/chengguofabu/index.html?index=2)
 
 
