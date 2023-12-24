@@ -35,6 +35,7 @@
 - [清华、百度：面向自动驾驶的车路协同关键技术与展望2.0（2022）](https://apollo-new.cdn.bcebos.com/means/document/air/%E3%80%8A%E9%9D%A2%E5%90%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BD%A6%E8%B7%AF%E5%8D%8F%E5%90%8C%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B1%95%E6%9C%9B2.0%E3%80%8B.pdf)
 - [清华、百度：面向自动驾驶的车路协同关键技术与展望1.0（2021）](https://ambchina.com/data/upload/image/20211124/%E9%9D%A2%E5%90%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BD%A6%E8%B7%AF%E5%8D%8F%E5%90%8C%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
 - [中国联通：5G+MEC+V2X车联网解决方案白皮书（2021）](https://ambchina.com/data/upload/image/20220216/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%EF%BC%9A5G+MEC+V2X%E8%BD%A6%E8%81%94%E7%BD%91%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E7%99%BD%E7%9A%AE%E4%B9%A6-%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A.pdf)
+- [中国联通：新基建、新动能5G车路协同白皮书](https://view.ckcest.cn/AllFiles/ZKBG/Pages/641/%E6%96%B0%E5%9F%BA%E5%BB%BA%E3%80%81%E6%96%B0%E5%8A%A8%E8%83%BD%EF%BC%9A5G%E8%BD%A6%E8%B7%AF%E5%8D%8F%E5%90%8C%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 #### PPT
 - [中国汽车工程学会：中国智能汽车产业发展与展望（2023）](https://jcpage.jp/jcevent/file/event/upload/file/301/02_automobile_03_caicv_gong_C.pptx.pdf)
@@ -45,6 +46,9 @@
 - [IMT-2020(5G)推进组-成果发布合集](https://www.imt2020.org.cn/html/default/zh/chengguofabu/baipishu/index.html?index=3)
 - [IMT-2020 C-V2X工作组成果展示合集](http://v2x.caict.ac.cn/index.html)
 - [IMT-2030(6G)推进组-成果发布合集](https://www.imt2030.org.cn/html/default/zhongwen/chengguofabu/index.html?index=2)
+
+#### 其他机构
+- [北京电信技术发展产业协会：全球 5G/6G 产业发展报告（2023）](https://www.tdia.cn/Uploads/Editor/2023-03-21/64195c5ba93a5.pdf)
 
 
 ### 其他
