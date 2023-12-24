@@ -36,6 +36,9 @@
 - [清华、百度：面向自动驾驶的车路协同关键技术与展望1.0（2021）](https://ambchina.com/data/upload/image/20211124/%E9%9D%A2%E5%90%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BD%A6%E8%B7%AF%E5%8D%8F%E5%90%8C%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
 - [中国联通：5G+MEC+V2X车联网解决方案白皮书（2021）](https://ambchina.com/data/upload/image/20220216/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%EF%BC%9A5G+MEC+V2X%E8%BD%A6%E8%81%94%E7%BD%91%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E7%99%BD%E7%9A%AE%E4%B9%A6-%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A.pdf)
 
+#### PPT
+- [中国汽车工程学会：中国智能汽车产业发展与展望（2023）](https://jcpage.jp/jcevent/file/event/upload/file/301/02_automobile_03_caicv_gong_C.pptx.pdf)
+
 
 ### 通信技术（5G、6G）
 - [工信部：“十四五”信息通信行业发展规划](https://www.gov.cn/zhengce/zhengceku/2021-11/16/5651262/files/96989dadf83a4302895cd17cbeec6600.pdf)
