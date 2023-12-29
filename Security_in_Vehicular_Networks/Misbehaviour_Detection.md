@@ -3,6 +3,8 @@
 ## 综述
 - S. Dong, H. Su, Y. Xia, F. Zhu, X. Hu and B. Wang, "A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3297527. [[paper]](https://ieeexplore.ieee.org/abstract/document/10201386)
   - 现有的Sybil攻击检测方案可以大致分为五类：基于身份验证、基于位置验证、基于轨迹验证、基于资源测试（工作负载证明）和基于邻居列表。
+- A. Boualouache and T. Engel, "A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 25, no. 2, pp. 1128-1172, Secondquarter 2023, doi: 10.1109/COMST.2023.3236448. [[paper]](https://ieeexplore.ieee.org/document/10015746) 
+
 
 
 ## 机器学习方案
@@ -60,3 +62,12 @@
 - Q. Hu, X. Fan, A. Shan and Z. Wang, "Sybil Attack Detection Method based on Timestamp-Chain in Internet of Vehicles," 2021 IEEE International Conference on Smart Internet of Things (SmartIoT), Jeju, Korea, Republic of, 2021, pp. 174-178, doi: 10.1109/SmartIoT52359.2021.00035. [[paper]](https://ieeexplore.ieee.org/document/9556187)
     - 时戳链、邻居列表、RSSI。
 
+## 2023.12.27
+- L. N. Balico, A. A. F. Loureiro, E. F. Nakamura, R. S. Barreto, R. W. Pazzi and H. A. B. F. Oliveira, "Localization Prediction in Vehicular Ad Hoc Networks," in IEEE Communications Surveys & Tutorials, vol. 20, no. 4, pp. 2784-2803, Fourthquarter 2018, doi: 10.1109/COMST.2018.2841901. [[paper]](https://ieeexplore.ieee.org/document/8368199)
+    - 车载自组网定位预测
+- A. Balaram and S. Pushpa, “Sybil attack resistant location privacy in VANET,” Int. J. Inf. Commun. Technol., vol. 13, no. 4, pp. 389–406, 2018. [[paper]](https://dl.acm.org/doi/abs/10.5555/3292823.3292824)
+
+- K. Rabieh, M. M. E. A. Mahmoud, T. N. Guo, and M. Younis, “Cross-layer scheme for detecting large-scale colluding Sybil attack in VANETs,” in Proc. IEEE Int. Conf. Commun. (ICC), Jun. 2015, pp. 7298–7303. [[paper]](https://ieeexplore.ieee.org/abstract/document/7249492)
+    - **提出了一种跨层方案，使RSU能够识别这种女巫车辆。**。当可疑车辆经过RSU时，RSU询问位置坐标和当前速度。然后，RSU 计算车辆的下一个位置 A，并使用定向天线向该方向发送查询消息。该车辆应在地点A回复查询消息。否则，RSU怀疑该车辆不在所声称的地点，并确定其可能是Sybil车辆，并将报告给TA进行进一步调查。
+- M. Baza et al., “Detecting Sybil attacks using proofs of work and location in VANETs,” IEEE Trans. Dependable Secure Comput., vol. 19, no. 1, pp. 39–53, Jan. 2022. [[paper]](https://ieeexplore.ieee.org/document/9091099)
+    - 提出了一种使用工作和位置证明的女巫攻击检测方案。这个想法是，每个路边单元 （RSU） 都会发出一个带有签名的时间戳标签，作为车辆匿名位置的证明。**从多个连续的 RSU 发送的证明用于创建用作车辆匿名身份的轨迹。** 此外，一个 RSU 的贡献不足以创建轨迹，而是需要多个 RSU 的贡献。通过这种方式，攻击者需要破坏不可行的 RSU 数量来创建虚假轨迹。此外，在收到来自 RSU 的位置证明后，车辆应通过运行工作量证明 （PoW） 算法来解决计算难题。

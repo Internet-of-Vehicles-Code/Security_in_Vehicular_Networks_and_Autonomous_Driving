@@ -166,3 +166,9 @@
 
 
 
+## 周口师范学院
+### 1. 计算机科学与技术学院董仕科研团队
+- 主要研究方向：网络安全、模式识别、深度学习、区块链、物联网、边缘计算，具体包括网络测量、网络行为特征分析、网络流量识别等，深度学习在网络安全领域的应用等，以及边缘计算的隐私保护等。
+- 个人主页：[https://njbsok.github.io/indexchinese.html](https://njbsok.github.io/indexchinese.html)
+- Google Scholar：[https://scholar.google.com/citations?user=yE4WT_0AAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=yE4WT_0AAAAJ&hl=zh-CN&oi=sra)
+
