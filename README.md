@@ -46,6 +46,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - S. Dong, H. Su, Y. Xia, F. Zhu, X. Hu and B. Wang, "A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3297527. [[paper]](https://ieeexplore.ieee.org/document/10201386)
 - A. Boualouache and T. Engel, "A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 25, no. 2, pp. 1128-1172, Secondquarter 2023, doi: 10.1109/COMST.2023.3236448. [[paper]](https://ieeexplore.ieee.org/document/10015746)
 - Meziane, H., Ouerdi, N. A survey on performance evaluation of artificial intelligence algorithms for improving IoT security systems. Sci Rep 13, 21255 (2023). https://doi.org/10.1038/s41598-023-46640-9 [[paper]](https://www.nature.com/articles/s41598-023-46640-9#citeas)
+- A. Mehta et al., "Securing the Future: A Comprehensive Review of Security Challenges and Solutions in Advanced Driver Assistance Systems," in IEEE Access, doi: 10.1109/ACCESS.2023.3347200. [[paper]](https://ieeexplore.ieee.org/document/10373843)
 
 ## IDS 
 ### V2X
