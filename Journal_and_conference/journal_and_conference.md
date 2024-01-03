@@ -47,7 +47,7 @@ Guofei Gu: [Computer Security Conference Ranking and Statistic](https://people.e
 | IEEE Transactions on Information Forensics and Security (TIFS) | 信息安全领域最具影响力的国际顶级刊物之一，中国计算机学会（CCF）推荐A类期刊，中国密码学会（CACR）推荐A类期刊 | Q1| [Link]() |
 | IEEE Transactions on Robotics (TR) | 机器人领域旗舰;CCF-B | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=8860&isnumber=10271771) |
 | IEEE Internet of Things Journal (IoTJ) | 物联网领域顶级期刊;CCF-C | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=6488907&isnumber=10269651) |
-| IEEE Transactions on Intelligent Vehicles (T-IV) | 新期刊，进步飞速，顶刊候选者； | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7274857&isnumber=10260249) |
+| IEEE Transactions on Intelligent Vehicles (T-IV) | 新期刊，进步飞速，顶刊候选者； | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7274857&isnumber=10260249) |
 | IEEE Network | magazine | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=65&isnumber=10242301) |
 | IEEE Transactions on Mobile Computing (TMC) | CCF-A | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=7755&isnumber=10269771) |
 | IEEE/ACM Transactions on Networking (ToN) | CCF-A | Q2 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=90&isnumber=10286433) |
