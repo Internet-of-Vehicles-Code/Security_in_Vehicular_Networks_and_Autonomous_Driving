@@ -124,6 +124,14 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Drissi, Maroua. "A state-of-the-art on federated learning for vehicular communications." Vehicular Communications (2023): 100709. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623001390)
 
 
+### Others
+- [Veins](https://github.com/SpereShelde/Veins)
+  - Veins相关排坑指南以及相应的代码
+- [DDoS-attacks-dataset-in-VANETs](https://github.com/YangFanAHU/DDoS-attacks-dataset-in-VANETs)
+- P. I. Siqueira Nepomuceno, K. Ullah, K. R. Braghetto and D. Macêdo Batista, "A Pothole Warning System using Vehicular Ad-hoc Networks (VANETs)," 2022 International Conference on Frontiers of Information Technology (FIT), Islamabad, Pakistan, 2022, pp. 147-152, doi: 10.1109/FIT57066.2022.00036. [[paper]](https://ieeexplore.ieee.org/document/10043092),[[code]](https://github.com/pisn/veins_pothole_detection)
+- Otte, Pim, Martijn de Vos, and Johan Pouwelse. "TrustChain: A Sybil-resistant scalable blockchain." Future Generation Computer Systems 107 (2020): 770-780. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X17318988?__cf_chl_tk=yHt9tFRIKXOWvcpDN51ZeCBzug5uybRSILO1qYEdkYg-1704338060-0-gaNycGzNEWU), [[code]](https://github.com/Tribler/trustchain-simulator)
+
+
 # Group
 | Web | Affiliation | Github |
 | :---: | :---: | :---: |
