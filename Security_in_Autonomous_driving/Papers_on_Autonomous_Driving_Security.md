@@ -84,6 +84,9 @@
 - Qu, D., Chen, Q., Bai, T., Qin, A., Lu, H., Fan, H., ... & Yang, Q. (2023). SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles. arXiv preprint arXiv:2312.04822. [[paper]](https://arxiv.org/abs/2312.04822)
 - X. Ye, K. Qu, W. Zhuang and X. Shen, "Accuracy-Aware Cooperative Sensing and Computing for Connected Autonomous Vehicles," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3343709. [[paper]](https://ieeexplore.ieee.org/document/10363435?dld=bWFpbDIuZ2R1dC5lZHUuY24%3D&source=SEARCHALERT)
 
+### chinese
+- 许皓玮. 蜂窝车联网场景中的协同感知技术研究[D].南京邮电大学,2023.[[paper]](https://kns.cnki.net/kcms2/article/abstract?v=VoBN4ANGQ4dfs7-C6TzmUgzS3IyEBHThkn7ANlKyi9NQ0tA3IrFVj4cOSoe_M4oITZot8Yxg-5TPJt4Ya-lG-yysi9K43n_2woRD6zY7grrqeE_Teeiu9_un2uAuQNllnXHDN3JLv4xWFcC-DNtFzw==&uniplatform=NZKPT&language=CHS)
+
 
 
 ## Dataset

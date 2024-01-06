@@ -46,6 +46,10 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - S. Dong, H. Su, Y. Xia, F. Zhu, X. Hu and B. Wang, "A Comprehensive Survey on Authentication and Attack Detection Schemes That Threaten It in Vehicular Ad-Hoc Networks," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3297527. [[paper]](https://ieeexplore.ieee.org/document/10201386)
 - A. Boualouache and T. Engel, "A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 25, no. 2, pp. 1128-1172, Secondquarter 2023, doi: 10.1109/COMST.2023.3236448. [[paper]](https://ieeexplore.ieee.org/document/10015746)
 - Meziane, H., Ouerdi, N. A survey on performance evaluation of artificial intelligence algorithms for improving IoT security systems. Sci Rep 13, 21255 (2023). https://doi.org/10.1038/s41598-023-46640-9 [[paper]](https://www.nature.com/articles/s41598-023-46640-9#citeas)
+- A. Mehta et al., "Securing the Future: A Comprehensive Review of Security Challenges and Solutions in Advanced Driver Assistance Systems," in IEEE Access, doi: 10.1109/ACCESS.2023.3347200. [[paper]](https://ieeexplore.ieee.org/document/10373843)
+
+### Chinese
+-  况博裕,李雨泽,顾芳铭,等. 车联网安全研究综述:威胁、对策与未来展望[J]. 计算机研究与发展,2023,60(10):2304-2321. DOI:10.7544/issn1000-1239.202330464. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2p5anlmejIwMjMxMDAwORoId3A5ZXByNmQ%3D)
 
 ## IDS 
 ### V2X
@@ -90,7 +94,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ## Baseline methods based on the VeReMi /& Extension dataset
 - F. Dutra, K. Bonfim, C. Siqueira, L. A. Pereira, A. Santos and R. I. Meneguette, "DISMISS-BSM: an Architecture for Detecting Position Spoofing in Basic Safety Messages," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 3381-3386, doi: 10.1109/GLOBECOM48099.2022.10001122. [[paper]](https://ieeexplore.ieee.org/document/10001122),[[code]](https://github.com/c2dc/dismiss-bsm-globecom2022)
-- K. A. Bonfim, F. D. S. Dutra, C. E. T. Siqueira, R. I. Meneguette, A. L. Dos Santos and L. A. P. Júnior, "Federated Learning-based Architecture for Detecting Position Spoofing in Basic Safety Messages," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-5, doi: 10.1109/VTC2023-Spring57618.2023.10199980. [[paper]](https://ieeexplore.ieee.org/document/10199980). [[code]](https://github.com/c2dc/fl-bsm-vtc2023)(coming)
+- K. A. Bonfim, F. D. S. Dutra, C. E. T. Siqueira, R. I. Meneguette, A. L. Dos Santos and L. A. P. Júnior, "Federated Learning-based Architecture for Detecting Position Spoofing in Basic Safety Messages," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-5, doi: 10.1109/VTC2023-Spring57618.2023.10199980. [[paper]](https://ieeexplore.ieee.org/document/10199980). [[code]](https://github.com/c2dc/fl-ieee-vtc2023)
 - C. -K. Tham, L. Yang, A. Khanna and B. Gera, "Federated Learning for Anomaly Detection in Vehicular Networks," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-6, doi: 10.1109/VTC2023-Spring57618.2023.10199870. [[paper]](https://ieeexplore.ieee.org/abstract/document/10199870)
 - S. Ercan, L. Mendiboure, L. Alouache, S. Maaloul, T. Sylla and H. Aniss, "An Enhanced Model for Machine Learning-Based DoS Detection in Vehicular Networks," 2023 IFIP Networking Conference (IFIP Networking), Barcelona, Spain, 2023, pp. 1-9, doi: 10.23919/IFIPNetworking57963.2023.10186390. [[paper]](https://ieeexplore.ieee.org/abstract/document/10186390),[[code]](https://github.com/ercansec/AttackDetectionMachineLearning)
 - Z. Wang and T. Yan, "Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks," 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN), London, United Kingdom, 2023, pp. 1-6, doi: 10.1109/LANMAN58293.2023.10189424. [[paper]](https://ieeexplore.ieee.org/document/10189424),[[FL-TP-code]](https://github.com/CoderTylor/FL-TP)
@@ -118,9 +122,26 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
 - J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
 
+### V2X Misbehavior Simulation platform
+- [VeReMi](https://github.com/VeReMi-dataset/veins)
+- [F2MD](https://github.com/josephkamel/F2MD)
+- [V2X Application Spoofing Platform (VASP)](https://github.com/quic/vasp)
+- [CarlaSumoArtery-CoSimulation](https://github.com/mohammedLamine/CarlaSumoArtery-CoSimulation)
+- [A4MD](https://github.com/ibr-cm/a4md)
+
 
 ## Federated learning
 - Drissi, Maroua. "A state-of-the-art on federated learning for vehicular communications." Vehicular Communications (2023): 100709. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623001390)
+
+
+### Others
+- [Veins](https://github.com/SpereShelde/Veins)
+  - Veins相关排坑指南以及相应的代码
+- [DDoS-attacks-dataset-in-VANETs](https://github.com/YangFanAHU/DDoS-attacks-dataset-in-VANETs)
+- P. I. Siqueira Nepomuceno, K. Ullah, K. R. Braghetto and D. Macêdo Batista, "A Pothole Warning System using Vehicular Ad-hoc Networks (VANETs)," 2022 International Conference on Frontiers of Information Technology (FIT), Islamabad, Pakistan, 2022, pp. 147-152, doi: 10.1109/FIT57066.2022.00036. [[paper]](https://ieeexplore.ieee.org/document/10043092),[[code]](https://github.com/pisn/veins_pothole_detection)
+- Otte, Pim, Martijn de Vos, and Johan Pouwelse. "TrustChain: A Sybil-resistant scalable blockchain." Future Generation Computer Systems 107 (2020): 770-780. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X17318988?__cf_chl_tk=yHt9tFRIKXOWvcpDN51ZeCBzug5uybRSILO1qYEdkYg-1704338060-0-gaNycGzNEWU), [[code]](https://github.com/Tribler/trustchain-simulator)
+- He, Yi (2022). An investigation of APT attacks and countermeasures for edge-based VANET. Macquarie University. Thesis. https://doi.org/10.25949/21569958.v1 [[paper]](https://figshare.mq.edu.au/articles/thesis/An_investigation_of_APT_attacks_and_countermeasures_for_edge-based_VANET/21569958/1)
+- E. Limouchi and F. Chan, "Optimized Machine Learning-Based Intrusion Detection System for Internet of Vehicles," 2023 IEEE Symposium Series on Computational Intelligence (SSCI), Mexico City, Mexico, 2023, pp. 1151-1157, doi: 10.1109/SSCI52147.2023.10371867. [[paper]](https://ieeexplore.ieee.org/abstract/document/10371867) 
 
 
 # Group
@@ -159,10 +180,10 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [ctfiot](https://www.ctfiot.com/)
   - 安全相关聚合网址
 - [Autonomous Driving (AD) & Connected Vehicle (CV) Systems Security](https://sites.google.com/view/cav-sec/home)
-- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html),people:[Aaron Wu](https://github.com/Allenpandas)
-- [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security)
-- [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers)
-- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html)|,people:[Aaron Wu](https://github.com/Allenpandas)
+- [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) | [![Stars](https://img.shields.io/github/stars/ideasplus/Awesome-Autonomous-Driving-Security.svg?color=orange)](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/ideasplus/Awesome-Autonomous-Driving-Security?label=&message=Commit) |
+- [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers) | [![Stars](https://img.shields.io/github/stars/Allenpandas/Autonomous-Driving-Security-Papers.svg?color=orange)](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/Allenpandas/Autonomous-Driving-Security-Papers?label=&message=Commit) |
+- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security#readme) | [![Stars](https://img.shields.io/github/stars/jaredthecoder/awesome-vehicle-security#readme.svg?color=orange)](https://github.com/jaredthecoder/awesome-vehicle-security#readme/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/jaredthecoder/awesome-vehicle-security#readme?label=&message=Commit) |
 
 ## 公众号
 
@@ -170,7 +191,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 **自动驾驶**：Apollo智能驾驶；汽车自动驾驶技术；焉知汽车；智车科技；智驾社；智驾最前沿；自动驾驶测试验证技术创新论坛；自动驾驶之心；自动驾驶专栏；北京市高级别自动驾驶示范区；智能车情报局；BigTrans；StrongerTang；
 
-**计算机视觉&人工智能**：CVer;CVHub;达摩院DAMO；机器之心；计算机视觉工坊；计算机视觉life；计算机视觉研究院；智源研究院；中大HCP实验室；3D视觉工坊；colalab
+**计算机视觉&人工智能**：CVer;CVHub;达摩院DAMO；机器之心；计算机视觉工坊；计算机视觉life；计算机视觉研究院；智源研究院；中大HCP实验室；3D视觉工坊；colalab；CV技术指南
 
 **车联网**：长沙智能驾驶研究院；车联界；车联网；车联新生态；车路漫漫；车路协同自动驾驶；ITS智能交通；腾讯智慧交通；有辕有辙；粤车联；粤车联网联盟；佐思汽车研究；5G智联车；港科大广州|物联网学域
 
