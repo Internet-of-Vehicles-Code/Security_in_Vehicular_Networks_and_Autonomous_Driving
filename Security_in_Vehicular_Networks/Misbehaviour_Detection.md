@@ -8,6 +8,9 @@
 
 
 ## 机器学习方案
+- K. A. Bonfim, F. D. S. Dutra, C. E. T. Siqueira, R. I. Meneguette, A. L. Dos Santos and L. A. P. Júnior, "Federated Learning-based Architecture for Detecting Position Spoofing in Basic Safety Messages," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-5, doi: 10.1109/VTC2023-Spring57618.2023.10199980. [[paper]](https://ieeexplore.ieee.org/document/10199980) [[code]](https://github.com/c2dc/fl-ieee-vtc2023/tree/master) [[Dataset]](https://mega.nz/folder/5Bp2QCSY#TxAiyrJOmt9itJ12K6Lxlw)
+    - 最小工作节点数量：2。
+
 - Mohammed A. Abdelmaguid, Hossam S. Hassanein, and Mohammad Zulkernine. 2023. A VeReMi-based Dataset for Predicting the Effect of Attacks in VANETs. In Proceedings of the Int'l ACM Conference on Modeling Analysis and Simulation of Wireless and Mobile Systems (MSWiM '23). Association for Computing Machinery, New York, NY, USA, 175–179. [[paper]](https://doi.org/10.1145/3616388.3617548) [[Dataset]](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/R09EWA)
     - 本文提出了一个基于 VeReMi 的数据集，名为 VeReMi for Attack Prediction (VeReMiAP)。由不当行为检测框架 (F2MD) 开发。 VeReMiAP 包含三个关键要素：合作意识消息 (CAM)、一种称为虚假报告攻击的新型攻击，以及对该攻击影响的评估（在本例中表现为道路危险）。
     - 加入了车辆的移动方向（车载传感器类型信息的示例）等信息以及车道索引和当前道路最大减速度（RSU 接收的信息类型的示例）等详细信息，提高了模拟场景的真实性和真实性。
