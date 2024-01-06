@@ -48,6 +48,9 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Meziane, H., Ouerdi, N. A survey on performance evaluation of artificial intelligence algorithms for improving IoT security systems. Sci Rep 13, 21255 (2023). https://doi.org/10.1038/s41598-023-46640-9 [[paper]](https://www.nature.com/articles/s41598-023-46640-9#citeas)
 - A. Mehta et al., "Securing the Future: A Comprehensive Review of Security Challenges and Solutions in Advanced Driver Assistance Systems," in IEEE Access, doi: 10.1109/ACCESS.2023.3347200. [[paper]](https://ieeexplore.ieee.org/document/10373843)
 
+### Chinese
+-  况博裕,李雨泽,顾芳铭,等. 车联网安全研究综述:威胁、对策与未来展望[J]. 计算机研究与发展,2023,60(10):2304-2321. DOI:10.7544/issn1000-1239.202330464. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2p5anlmejIwMjMxMDAwORoId3A5ZXByNmQ%3D)
+
 ## IDS 
 ### V2X
 - S. Anbalagan, G. Raja, S. Gurumoorthy, R. D. Suresh and K. Dev, "IIDS: Intelligent Intrusion Detection System for Sustainable Development in Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3271768. [[paper]](https://ieeexplore.ieee.org/document/10144487?denied=&signout=success)
@@ -118,6 +121,13 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 ### Dataset
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
 - J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
+
+### V2X Misbehavior Simulation platform
+- [VeReMi](https://github.com/VeReMi-dataset/veins)
+- [F2MD](https://github.com/josephkamel/F2MD)
+- [V2X Application Spoofing Platform (VASP)](https://github.com/quic/vasp)
+- [CarlaSumoArtery-CoSimulation](https://github.com/mohammedLamine/CarlaSumoArtery-CoSimulation)
+- [A4MD](https://github.com/ibr-cm/a4md)
 
 
 ## Federated learning
