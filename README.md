@@ -91,7 +91,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ## Baseline methods based on the VeReMi /& Extension dataset
 - F. Dutra, K. Bonfim, C. Siqueira, L. A. Pereira, A. Santos and R. I. Meneguette, "DISMISS-BSM: an Architecture for Detecting Position Spoofing in Basic Safety Messages," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 3381-3386, doi: 10.1109/GLOBECOM48099.2022.10001122. [[paper]](https://ieeexplore.ieee.org/document/10001122),[[code]](https://github.com/c2dc/dismiss-bsm-globecom2022)
-- K. A. Bonfim, F. D. S. Dutra, C. E. T. Siqueira, R. I. Meneguette, A. L. Dos Santos and L. A. P. Júnior, "Federated Learning-based Architecture for Detecting Position Spoofing in Basic Safety Messages," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-5, doi: 10.1109/VTC2023-Spring57618.2023.10199980. [[paper]](https://ieeexplore.ieee.org/document/10199980). [[code]](https://github.com/c2dc/fl-bsm-vtc2023)(coming)
+- K. A. Bonfim, F. D. S. Dutra, C. E. T. Siqueira, R. I. Meneguette, A. L. Dos Santos and L. A. P. Júnior, "Federated Learning-based Architecture for Detecting Position Spoofing in Basic Safety Messages," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-5, doi: 10.1109/VTC2023-Spring57618.2023.10199980. [[paper]](https://ieeexplore.ieee.org/document/10199980). [[code]](https://github.com/c2dc/fl-ieee-vtc2023)
 - C. -K. Tham, L. Yang, A. Khanna and B. Gera, "Federated Learning for Anomaly Detection in Vehicular Networks," 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-6, doi: 10.1109/VTC2023-Spring57618.2023.10199870. [[paper]](https://ieeexplore.ieee.org/abstract/document/10199870)
 - S. Ercan, L. Mendiboure, L. Alouache, S. Maaloul, T. Sylla and H. Aniss, "An Enhanced Model for Machine Learning-Based DoS Detection in Vehicular Networks," 2023 IFIP Networking Conference (IFIP Networking), Barcelona, Spain, 2023, pp. 1-9, doi: 10.23919/IFIPNetworking57963.2023.10186390. [[paper]](https://ieeexplore.ieee.org/abstract/document/10186390),[[code]](https://github.com/ercansec/AttackDetectionMachineLearning)
 - Z. Wang and T. Yan, "Federated Learning-based Vehicle Trajectory Prediction against Cyberattacks," 2023 IEEE 29th International Symposium on Local and Metropolitan Area Networks (LANMAN), London, United Kingdom, 2023, pp. 1-6, doi: 10.1109/LANMAN58293.2023.10189424. [[paper]](https://ieeexplore.ieee.org/document/10189424),[[FL-TP-code]](https://github.com/CoderTylor/FL-TP)
@@ -130,6 +130,8 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [DDoS-attacks-dataset-in-VANETs](https://github.com/YangFanAHU/DDoS-attacks-dataset-in-VANETs)
 - P. I. Siqueira Nepomuceno, K. Ullah, K. R. Braghetto and D. Macêdo Batista, "A Pothole Warning System using Vehicular Ad-hoc Networks (VANETs)," 2022 International Conference on Frontiers of Information Technology (FIT), Islamabad, Pakistan, 2022, pp. 147-152, doi: 10.1109/FIT57066.2022.00036. [[paper]](https://ieeexplore.ieee.org/document/10043092),[[code]](https://github.com/pisn/veins_pothole_detection)
 - Otte, Pim, Martijn de Vos, and Johan Pouwelse. "TrustChain: A Sybil-resistant scalable blockchain." Future Generation Computer Systems 107 (2020): 770-780. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X17318988?__cf_chl_tk=yHt9tFRIKXOWvcpDN51ZeCBzug5uybRSILO1qYEdkYg-1704338060-0-gaNycGzNEWU), [[code]](https://github.com/Tribler/trustchain-simulator)
+- He, Yi (2022). An investigation of APT attacks and countermeasures for edge-based VANET. Macquarie University. Thesis. https://doi.org/10.25949/21569958.v1 [[paper]](https://figshare.mq.edu.au/articles/thesis/An_investigation_of_APT_attacks_and_countermeasures_for_edge-based_VANET/21569958/1)
+- E. Limouchi and F. Chan, "Optimized Machine Learning-Based Intrusion Detection System for Internet of Vehicles," 2023 IEEE Symposium Series on Computational Intelligence (SSCI), Mexico City, Mexico, 2023, pp. 1151-1157, doi: 10.1109/SSCI52147.2023.10371867. [[paper]](https://ieeexplore.ieee.org/abstract/document/10371867) 
 
 
 # Group
@@ -168,10 +170,10 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [ctfiot](https://www.ctfiot.com/)
   - 安全相关聚合网址
 - [Autonomous Driving (AD) & Connected Vehicle (CV) Systems Security](https://sites.google.com/view/cav-sec/home)
-- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html),people:[Aaron Wu](https://github.com/Allenpandas)
-- [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security)
-- [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers)
-- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [ADSecurity Documentation](https://adsec.readthedocs.io/en/latest/index.html)|,people:[Aaron Wu](https://github.com/Allenpandas)
+- [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) | [![Stars](https://img.shields.io/github/stars/ideasplus/Awesome-Autonomous-Driving-Security.svg?color=orange)](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/ideasplus/Awesome-Autonomous-Driving-Security?label=&message=Commit) |
+- [Autonomous-Driving-Security-Papers](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers) | [![Stars](https://img.shields.io/github/stars/Allenpandas/Autonomous-Driving-Security-Papers.svg?color=orange)](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/Allenpandas/Autonomous-Driving-Security-Papers?label=&message=Commit) |
+- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security#readme) | [![Stars](https://img.shields.io/github/stars/jaredthecoder/awesome-vehicle-security#readme.svg?color=orange)](https://github.com/jaredthecoder/awesome-vehicle-security#readme/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/jaredthecoder/awesome-vehicle-security#readme?label=&message=Commit) |
 
 ## 公众号
 
