@@ -7,7 +7,13 @@
 
 ### 国家标准体系、政策
 - [国家车联网产业标准体系建设指南（智能网联汽车）（2023 版）](https://www.gov.cn/zhengce/zhengceku/202307/P020230727459713380334.pdf)
+- [车联网网络安全和数据安全标准体系建设指南（2022）](https://www.gov.cn/zhengce/zhengceku/2022-03/07/5677676/files/86bf96e577cb4af7bd8c2fea745d63e1.pdf)
+- [国家车联网产业标准体系建设指南（智能交通相关）(2020)](https://www.gov.cn/xinwen/2020-07/31/5531642/files/f54d1068cec64b198daca52ff89f3a91.pdf)
 - [国家车联网产业标准体系建设指南（总体要求）(2018)](https://www.gov.cn/zhengce/zhengceku/2018-12/31/5440205/files/414a8e6aceee46828b47b801a68f8ee0.pdf)
+- [国家车联网产业标准体系建设指南（智能网联汽车）（2018 版）](https://service.caict.ac.cn/zcfg/202012/P020201207649579427250.pdf)
+- [国家车联网产业标准体系建设指南（信息通信）(2018)](https://www.gov.cn/zhengce/zhengceku/2018-12/31/5440205/files/ede22f1fb2a847b7a3e7cfbf8156c736.pdf)
+- [国家车联网产业标准体系建设指南（电子产品与服务）(2018)](https://www.gov.cn/zhengce/zhengceku/2018-12/31/5440205/files/8e58c543f2314673b32c52c149f97e56.pdf)
+- [车联网（智能网联汽车）直连通信无线电设备技术要求（2018）](https://www.gov.cn/zhengce/zhengceku/2018-12/31/5442658/files/ef9690456e2e468a80235fc15e86f1a2.pdf)
 
 
 ### 车联网信息安全
