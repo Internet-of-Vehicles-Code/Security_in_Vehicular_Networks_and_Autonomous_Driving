@@ -118,6 +118,11 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [code: Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles](https://github.com/kushagra-2503/Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles)
   - CNN LSTM 
 
+
+## Thesis
+- Lioy, Antonio, and Erasmo Notaro. "Simulating Malicious Attacks on VANETs for Connected and Autonomous Vehicles." (2023). [[thesis]](https://webthesis.biblio.polito.it/29324/1/tesi.pdf)
+
+
 ### Dataset
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
 - J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
