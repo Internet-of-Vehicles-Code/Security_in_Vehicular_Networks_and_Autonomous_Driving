@@ -81,6 +81,9 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - 马浩宇. 边缘计算场景下的车联网入侵检测方法研究[D]. 重庆:重庆交通大学,2023. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMzA4MzYyOBoIejFiamJkN2s%3D)
 - 高舒. 基于GAN的样本不完备条件下车联网入侵检测方法研究[D]. 陕西:长安大学,2022. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMzAwMjkzMhoIejFiamJkN2s%3D)
 - 梁巧媛. 基于GNN的车联网入侵检测系统研究[D].杭州电子科技大学,2023.DOI:10.27075/d.cnki.ghzdc.2023.001213. [paper](https://kns.cnki.net/kcms2/article/abstract?v=jeDOxXNM7l5t8XuE4-cH_Jx1yPKwNSbipqlN4ed08bVtHxDEXxTnOF-Gslg-sQnXBS8enAAlqaTiBnBVmTTnYPRubyL8uR3Ev6jz4tOJSoMXF3H9FrEBOzxNUNCLR64qIMMCb8EK-4PcMJFp3rKMgA==&uniplatform=NZKPT&language=CHS)
+- J. Xiao, H. Chen and F. Zhong, "A Novel Feature Extraction Framework Using Graph Node Attention Network for In-Vehicle Networks Intrusion Detection," in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3337091. [[paper]](https://ieeexplore.ieee.org/abstract/document/10382957)
+
+
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
