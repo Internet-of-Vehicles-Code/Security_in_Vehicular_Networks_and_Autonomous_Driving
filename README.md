@@ -84,6 +84,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - J. Xiao, H. Chen and F. Zhong, "A Novel Feature Extraction Framework Using Graph Node Attention Network for In-Vehicle Networks Intrusion Detection," in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3337091. [[paper]](https://ieeexplore.ieee.org/abstract/document/10382957)
 - He, Yi. "An investigation of APT attacks and countermeasures for edge-based VANET." PhD diss., Macquarie University, 2022. [[paper]](https://figshare.mq.edu.au/articles/thesis/An_investigation_of_APT_attacks_and_countermeasures_for_edge-based_VANET/21569958/1)
 - M. He, X. Wang, P. Wei, L. Yang, Y. Teng and R. Lyu, "Reinforcement Learning Meets Network Intrusion Detection: A Transferable and Adaptable Framework for Anomaly Behavior Identification," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2024.3352586.[[paper]](https://ieeexplore.ieee.org/document/10399344),[[code]](https://github.com/HE0413/TA-NIDS)
+- Khan, Muneeb Hassan, Abdul Rehman Javed, Zafar Iqbal, Muhammad Asim, and Ali Ismail Awad. "DivaCAN: Detecting in-vehicle intrusion attacks on a controller area network using ensemble learning." Computers & Security (2024): 103712. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167404824000130?ref=pdf_download&fr=RR-2&rr=8473a191da416e4f)
 
 
 
