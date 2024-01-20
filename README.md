@@ -85,6 +85,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - He, Yi. "An investigation of APT attacks and countermeasures for edge-based VANET." PhD diss., Macquarie University, 2022. [[paper]](https://figshare.mq.edu.au/articles/thesis/An_investigation_of_APT_attacks_and_countermeasures_for_edge-based_VANET/21569958/1)
 - M. He, X. Wang, P. Wei, L. Yang, Y. Teng and R. Lyu, "Reinforcement Learning Meets Network Intrusion Detection: A Transferable and Adaptable Framework for Anomaly Behavior Identification," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2024.3352586.[[paper]](https://ieeexplore.ieee.org/document/10399344),[[code]](https://github.com/HE0413/TA-NIDS)
 - Khan, Muneeb Hassan, Abdul Rehman Javed, Zafar Iqbal, Muhammad Asim, and Ali Ismail Awad. "DivaCAN: Detecting in-vehicle intrusion attacks on a controller area network using ensemble learning." Computers & Security (2024): 103712. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167404824000130?ref=pdf_download&fr=RR-2&rr=8473a191da416e4f)
+- Baharlouei, Hamideh, Adetokunbo Makanju, and Nur Zincir-Heywood. "ADVENT: Attack/Anomaly Detection in VANETs." arXiv preprint arXiv:2401.08564 (2024). [[paper]](https://arxiv.org/pdf/2401.08564.pdf)
 
 
 
@@ -120,10 +121,12 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Ahsan, Shakil Ibne, Phil Legg, and S. M. Alam. "A stacked ensemble learning IDS model for Software-defined VANET." arXiv preprint arXiv:2312.04956 (2023). [[paper]](https://arxiv.org/abs/2312.04956)
 - A. E. Attar et al., "Analysis of Machine Learning Algorithms for DDoS Attack Detection in Connected Cars Environment," 2023 Eighth International Conference On Mobile And Secure Services (MobiSecServ), Miami Beach, FL, USA, 2023, pp. 1-7, doi: 10.1109/MobiSecServ58080.2023.10329152. [[paper]](https://ieeexplore.ieee.org/abstract/document/10329152)
 - J. Kamel, M. R. Ansari, J. Petit, A. Kaiser, I. B. Jemaa and P. Urien, "Simulation Framework for Misbehavior Detection in Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 69, no. 6, pp. 6631-6643, June 2020, doi: 10.1109/TVT.2020.2984878. [[paper]](https://ieeexplore.ieee.org/abstract/document/9056489),[[code]](https://github.com/josephkamel/F2MD)
+- Ahsan, Shakil Ibne, Phil Legg, and S. M. Alam. "Privacy-Preserving Intrusion Detection in Software-defined VANET using Federated Learning with BERT." arXiv preprint arXiv:2401.07343 (2024). [[paper]](https://arxiv.org/pdf/2401.07343.pdf)
 - [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
 - [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
 - [code: Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles](https://github.com/kushagra-2503/Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles)
   - CNN LSTM 
+
 
 
 ## Thesis
@@ -134,7 +137,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
 - J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
 
-### V2X Misbehavior Simulation platform
+### V2X Misbehavior Simulation Platform
 - [VeReMi](https://github.com/VeReMi-dataset/veins)
 - [F2MD](https://github.com/josephkamel/F2MD)
 - [V2X Application Spoofing Platform (VASP)](https://github.com/quic/vasp)
