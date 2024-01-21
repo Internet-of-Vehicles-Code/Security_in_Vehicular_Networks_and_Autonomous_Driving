@@ -349,3 +349,6 @@
 ## chinese paper
 - 张千坤,陈任翔,钟志刚,等. 基于5G通感一体化的车辆成像跟踪方法[J]. 邮电设计技术,2023(10):33-39. DOI:10.12045/j.issn.1007-3043.2023.10.007. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg95ZHNqanMyMDIzMTAwMDgaCDQxaWhxb2tu)
 - 林粤伟,王溢,张奇勋,等. 面向6G的通信感知一体化车联网研究综述[J]. 信号处理,2023,39(6):963-974. DOI:10.16798/j.issn.1003-0530.2023.06.002. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg14aGNsMjAyMzA2MDAyGghoemtiMnN5Yg%3D%3D)
+
+## 公众号推文（大概率来自论文）
+- [通信感知一体化在车联网领域的关键技术与应用](https://mp.weixin.qq.com/s/4U7QGoMQs3bvbWxRH89T9Q)
