@@ -85,6 +85,7 @@
 - X. Ye, K. Qu, W. Zhuang and X. Shen, "Accuracy-Aware Cooperative Sensing and Computing for Connected Autonomous Vehicles," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3343709. [[paper]](https://ieeexplore.ieee.org/document/10363435?dld=bWFpbDIuZ2R1dC5lZHUuY24%3D&source=SEARCHALERT)
 - Hallyburton, R. Spencer, David Hunt, Shaocheng Luo, and Miroslav Pajic. "A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion." arXiv preprint arXiv:2401.09387 (2024). [[paper]](https://arxiv.org/pdf/2401.09387.pdf)
 - K. Qu and W. Zhuang, "Scalable and Dynamic Cooperative Perception: A Data/Model Co-Driven Framework," in IEEE Network, doi: 10.1109/MNET.2024.3354209. [[paper]](https://ieeexplore.ieee.org/abstract/document/10400178),[[code]](https://github.com/kaigequ/Matlab-autonomous-driving-simulation)
+- Qu, Kaige, Weihua Zhuang, Qiang Ye, Wen Wu, and Xuemin Shen. "Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles." arXiv preprint arXiv:2401.10156 (2024). [[paper]](https://arxiv.org/abs/2401.10156)
 
 ### chinese
 - 许皓玮. 蜂窝车联网场景中的协同感知技术研究[D].南京邮电大学,2023.[[paper]](https://kns.cnki.net/kcms2/article/abstract?v=VoBN4ANGQ4dfs7-C6TzmUgzS3IyEBHThkn7ANlKyi9NQ0tA3IrFVj4cOSoe_M4oITZot8Yxg-5TPJt4Ya-lG-yysi9K43n_2woRD6zY7grrqeE_Teeiu9_un2uAuQNllnXHDN3JLv4xWFcC-DNtFzw==&uniplatform=NZKPT&language=CHS)
