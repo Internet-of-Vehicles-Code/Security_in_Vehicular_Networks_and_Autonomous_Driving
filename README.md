@@ -57,6 +57,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - S. Arisdakessian, O. A. Wahab, A. Mourad, H. Otrok and M. Guizani, "A Survey on IoT Intrusion Detection: Federated Learning, Game Theory, Social Psychology, and Explainable AI as Future Directions," in IEEE Internet of Things Journal, vol. 10, no. 5, pp. 4059-4092, 1 March1, 2023, doi: 10.1109/JIOT.2022.3203249. [[paper]](https://ieeexplore.ieee.org/abstract/document/9872110?signout=success&signout=success)
 - Self-reliant misbehavior detection in V2X networks [[paper]](https://open.bu.edu/handle/2144/36073)
 - P. Rani et al., "Federated Learning-Based Misbehaviour Detection for the 5G-Enabled Internet of Vehicles," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2023.3328020. [[paper]](https://ieeexplore.ieee.org/abstract/document/10298818)
+- Sadaf, Memoona, et al. "A Novel Framework for Detection and Prevention of Denial of Service Attacks on Autonomous Vehicles using Fuzzy Logic." Vehicular Communications (2024): 100741.[[paper]](https://www.sciencedirect.com/science/article/pii/S2214209624000160)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
