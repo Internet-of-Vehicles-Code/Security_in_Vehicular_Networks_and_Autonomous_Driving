@@ -21,6 +21,25 @@
 
 
 
+## 北京大学
+### 1. 电子学院程翔科研团队
+- 主要研究方向：基于数据驱动的智慧网络和网联智能研究，侧重智慧交通和物流场景，包括无线通信信道建模和应用、通信感知一体化技术、B5G/6G智能车联网、和多智能体协同理论和技术研究。
+- 教师个人主页：[https://ele.pku.edu.cn/info/1121/1397.htm](https://ele.pku.edu.cn/info/1121/1397.htm)**（国家杰青）**
+- 个人主页/北京大学泛在连接与网联智能实验室主页：[http://pcni.pku.edu.cn/](http://pcni.pku.edu.cn/)
+- IEEE：[https://ieeexplore.ieee.org/author/37399092900](https://ieeexplore.ieee.org/author/37399092900)
+- Google Scholar：[https://scholar.google.com/citations?user=RSLHBzgAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=RSLHBzgAAAAJ&hl=zh-CN&oi=sra)
+
+
+
+## 北京航天航空大学
+### 1. 交通科学与工程学院田大新科研团队
+- 主要研究方向：智能交通、立体交通、车联网、自动驾驶、群体智能、车路协同、空地协同方向的研究。
+- 教师个人主页：[https://shi.buaa.edu.cn/09138/zh_CN/index.htm](https://shi.buaa.edu.cn/09138/zh_CN/index.htm)**（国家优青）**
+- IEEE：[https://ieeexplore.ieee.org/author/37406931400](https://ieeexplore.ieee.org/author/37406931400)
+- Google Scholar：[https://scholar.google.com/citations?user=Dz3E33gAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=Dz3E33gAAAAJ&hl=zh-CN&oi=sra)
+
+
+
 ## 北京理工大学
 ### 1. 计算机学院沈蒙科研团队
 - 主要研究方向：网络流量大数据分析（深度学习技术分析网络流量特别是加密流量等）、数据安全（数据安全共享技术、机器学习数据隐私保护机制等）、区块链安全（数字货币的异常交易识别及溯源技术等）、人工智能安全（深度学习、联邦学习等）。
@@ -109,6 +128,16 @@
 
 
 
+## 清华大学
+### 1. 车辆与运载学院王建强科研团队
+- 主要研究方向：汽车智能安全、智能车辆感知、决策与控制、驾驶员行为特性分析与建模、
+人-车-路协同与车联网技术。
+- 教师个人主页：[http://www.svm.tsinghua.edu.cn/essay/80/1824.html](http://www.svm.tsinghua.edu.cn/essay/80/1824.html)**（国家杰青）**
+- Google Scholar：[https://scholar.google.com/citations?user=5mUoFN0AAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=5mUoFN0AAAAJ&hl=zh-CN&oi=sra)
+- IEEE：[https://ieeexplore.ieee.org/author/37406468700](https://ieeexplore.ieee.org/author/37406468700)
+
+
+
 ## 青岛科技大学
 ### 1. 信息科学技术学院王玲玲科研团队
 - 主要研究方向：人工智能安全，联邦学习，网络空间安全、密码学。
@@ -147,6 +176,14 @@
 - IEEE：[https://ieeexplore.ieee.org/author/37537686000](https://ieeexplore.ieee.org/author/37537686000)
 
 
+### 3. 电子工程学院陈晨科研团队
+- 主要研究方向：无线移动通信、无线近距离通信、数字家庭网络、车辆通信网络等。
+- 教师个人主页：[https://web.xidian.edu.cn/cchen/index.html](https://web.xidian.edu.cn/cchen/index.html) 
+- 实验室主页：[https://mec.xidian.edu.cn](https://mec.xidian.edu.cn)
+- Google Scholar：[https://scholar.google.com/citations?user=kRGTxBcAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=kRGTxBcAAAAJ&hl=zh-CN&oi=sra)
+- IEEE：[https://ieeexplore.ieee.org/author/37280736400](https://ieeexplore.ieee.org/author/37280736400)
+  
+
 
 ## 西安邮电大学
 ### 1. 研究生院赖成喆科研团队
@@ -154,6 +191,13 @@
 - 教师个人主页：[http://gr.xupt.edu.cn/info/1101/3882.htm](http://gr.xupt.edu.cn/info/1101/3882.htm)
 - Google Scholar：[https://scholar.google.com/citations?user=uWE_2UcAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=uWE_2UcAAAAJ&hl=zh-CN&oi=sra)
 - IEEE：[https://ieeexplore.ieee.org/author/37085644080](https://ieeexplore.ieee.org/author/37085644080)
+
+
+### 2. 研究生院张应辉科研团队
+- 主要研究方向：新型公钥密码方案的设计与分析、前沿应用基础研究（云存储安全、无线网络安全、区块链和机器学习中的安全与隐私保护等）
+- 教师个人主页：[https://gr.xupt.edu.cn/info/1187/6621.htm](https://gr.xupt.edu.cn/info/1187/6621.htm)
+- IEEE：[https://ieeexplore.ieee.org/author/37076947900](https://ieeexplore.ieee.org/author/37076947900)
+
 
 
 
