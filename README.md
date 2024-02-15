@@ -158,6 +158,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Otte, Pim, Martijn de Vos, and Johan Pouwelse. "TrustChain: A Sybil-resistant scalable blockchain." Future Generation Computer Systems 107 (2020): 770-780. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X17318988?__cf_chl_tk=yHt9tFRIKXOWvcpDN51ZeCBzug5uybRSILO1qYEdkYg-1704338060-0-gaNycGzNEWU), [[code]](https://github.com/Tribler/trustchain-simulator)
 - He, Yi (2022). An investigation of APT attacks and countermeasures for edge-based VANET. Macquarie University. Thesis. https://doi.org/10.25949/21569958.v1 [[paper]](https://figshare.mq.edu.au/articles/thesis/An_investigation_of_APT_attacks_and_countermeasures_for_edge-based_VANET/21569958/1)
 - E. Limouchi and F. Chan, "Optimized Machine Learning-Based Intrusion Detection System for Internet of Vehicles," 2023 IEEE Symposium Series on Computational Intelligence (SSCI), Mexico City, Mexico, 2023, pp. 1151-1157, doi: 10.1109/SSCI52147.2023.10371867. [[paper]](https://ieeexplore.ieee.org/abstract/document/10371867) 
+- Su, Runbo, Yujun Jin, and Ye-Qiong Song. "A cooperative trust model addressing CAM-and CPM-based Ghost Vehicles in IoV." (2024).[[paper]](https://hal.science/hal-04453209/document)
 
 
 # Group
