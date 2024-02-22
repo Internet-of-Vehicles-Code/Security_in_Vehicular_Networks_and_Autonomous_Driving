@@ -58,6 +58,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Self-reliant misbehavior detection in V2X networks [[paper]](https://open.bu.edu/handle/2144/36073)
 - P. Rani et al., "Federated Learning-Based Misbehaviour Detection for the 5G-Enabled Internet of Vehicles," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2023.3328020. [[paper]](https://ieeexplore.ieee.org/abstract/document/10298818)
 - Sadaf, Memoona, et al. "A Novel Framework for Detection and Prevention of Denial of Service Attacks on Autonomous Vehicles using Fuzzy Logic." Vehicular Communications (2024): 100741.[[paper]](https://www.sciencedirect.com/science/article/pii/S2214209624000160)
+- Setitra, Mohamed Ali, and Mingyu Fan. "Detection of DDoS attacks in SDN-based VANET using optimized TabNet." Computer Standards & Interfaces (2024): 103845. [[paper]](https://www.sciencedirect.com/science/article/pii/S2542660524000696),[[code]](https://github.com/theacademicresearch/OptTabNet)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
