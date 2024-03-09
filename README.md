@@ -13,8 +13,8 @@ This project collects relevant literature on security in vehicular networks and 
 - [IoV Policy](./IoV_policy/国家车联网产业标准体系进展情况_资料收集.md) [By Hongmin Wei]
 
 Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
-- USENIX Security
-- IEEE Symposium on Security and Privacy (IEEE S&P)
+- USENIX Security:[[USENIX Security '23 Fall Accepted Papers]](https://www.usenix.org/conference/usenixsecurity23/fall-accepted-papers)
+- IEEE Symposium on Security and Privacy (IEEE S&P):[[2023 Accepted Papers]](https://sp2023.ieee-security.org/program-papers.html);[[2024 Accepted Papers]](https://sp2024.ieee-security.org/accepted-papers.html)
 - ACM Conference on Computer and Communications Security (CCS)
 - [Network and Distributed System Security (NDSS) Symposium](https://www.ndss-symposium.org/):[[(VehicleSec) 2023 Program]](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/);[[(VehicleSec) 2024 Accepted Papers, Demo Papers, Posters]](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/accepted-demo-papers-and-posters/)
 
