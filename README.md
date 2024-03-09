@@ -16,7 +16,8 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - USENIX Security
 - IEEE Symposium on Security and Privacy (IEEE S&P)
 - ACM Conference on Computer and Communications Security (CCS)
-- [Network and Distributed System Security (NDSS) Symposium](https://www.ndss-symposium.org/):[[(VehicleSec) 2023 Program]](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/)
+- [Network and Distributed System Security (NDSS) Symposium](https://www.ndss-symposium.org/):[[(VehicleSec) 2023 Program]](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/);[[(VehicleSec) 2024 Accepted Papers, Demo Papers, Posters]](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/accepted-demo-papers-and-posters/)
+
 
 ## Journal and Conference
 - [Recommended list](./Journal_and_conference/journal_and_conference.md)
