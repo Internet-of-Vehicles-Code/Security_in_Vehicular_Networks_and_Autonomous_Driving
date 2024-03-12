@@ -60,6 +60,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - P. Rani et al., "Federated Learning-Based Misbehaviour Detection for the 5G-Enabled Internet of Vehicles," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2023.3328020. [[paper]](https://ieeexplore.ieee.org/abstract/document/10298818)
 - Sadaf, Memoona, et al. "A Novel Framework for Detection and Prevention of Denial of Service Attacks on Autonomous Vehicles using Fuzzy Logic." Vehicular Communications (2024): 100741.[[paper]](https://www.sciencedirect.com/science/article/pii/S2214209624000160)
 - Setitra, Mohamed Ali, and Mingyu Fan. "Detection of DDoS attacks in SDN-based VANET using optimized TabNet." Computer Standards & Interfaces (2024): 103845. [[paper]](https://www.sciencedirect.com/science/article/pii/S2542660524000696),[[code]](https://github.com/theacademicresearch/OptTabNet)
+- Ying, Jun, Yiheng Feng, Qi Alfred Chen, and Z. Morley Mao. "WIP: Modeling and Detecting Falsified Vehicle Trajectories Under Data Spoofing Attacks." [[paper]](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-35-paper.pdf)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
@@ -90,6 +91,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Khan, Muneeb Hassan, Abdul Rehman Javed, Zafar Iqbal, Muhammad Asim, and Ali Ismail Awad. "DivaCAN: Detecting in-vehicle intrusion attacks on a controller area network using ensemble learning." Computers & Security (2024): 103712. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167404824000130?ref=pdf_download&fr=RR-2&rr=8473a191da416e4f)
 - Baharlouei, Hamideh, Adetokunbo Makanju, and Nur Zincir-Heywood. "ADVENT: Attack/Anomaly Detection in VANETs." arXiv preprint arXiv:2401.08564 (2024). [[paper]](https://arxiv.org/pdf/2401.08564.pdf)
 - Wang, Hong-Quan, Jin Li, Dong-Hua Huang, and Yao-Dong Tao. "Meta-IDS: Meta-Learning Automotive Intrusion Detection Systems with Adaptive and Learnable." (2024). [[paper]](https://assets.researchsquare.com/files/rs-3999020/v1_covered_050f41e2-4876-4edd-8d05-8da0278b7639.pdf?c=1709911730),[[code]](https://github.com/335659554/Meta-IDS)
+- Cheng, Pengzhou, Zongru Wu, and Gongshen Liu. "MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive." arXiv preprint arXiv:2403.04293 (2024). [[paper]](https://arxiv.org/html/2403.04293v1)
 
 
 
