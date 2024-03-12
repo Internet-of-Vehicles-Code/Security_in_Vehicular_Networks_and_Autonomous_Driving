@@ -89,6 +89,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - M. He, X. Wang, P. Wei, L. Yang, Y. Teng and R. Lyu, "Reinforcement Learning Meets Network Intrusion Detection: A Transferable and Adaptable Framework for Anomaly Behavior Identification," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2024.3352586.[[paper]](https://ieeexplore.ieee.org/document/10399344),[[code]](https://github.com/HE0413/TA-NIDS)
 - Khan, Muneeb Hassan, Abdul Rehman Javed, Zafar Iqbal, Muhammad Asim, and Ali Ismail Awad. "DivaCAN: Detecting in-vehicle intrusion attacks on a controller area network using ensemble learning." Computers & Security (2024): 103712. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167404824000130?ref=pdf_download&fr=RR-2&rr=8473a191da416e4f)
 - Baharlouei, Hamideh, Adetokunbo Makanju, and Nur Zincir-Heywood. "ADVENT: Attack/Anomaly Detection in VANETs." arXiv preprint arXiv:2401.08564 (2024). [[paper]](https://arxiv.org/pdf/2401.08564.pdf)
+- Wang, Hong-Quan, Jin Li, Dong-Hua Huang, and Yao-Dong Tao. "Meta-IDS: Meta-Learning Automotive Intrusion Detection Systems with Adaptive and Learnable." (2024). [[paper]](https://assets.researchsquare.com/files/rs-3999020/v1_covered_050f41e2-4876-4edd-8d05-8da0278b7639.pdf?c=1709911730),[[code]](https://github.com/335659554/Meta-IDS)
 
 
 
