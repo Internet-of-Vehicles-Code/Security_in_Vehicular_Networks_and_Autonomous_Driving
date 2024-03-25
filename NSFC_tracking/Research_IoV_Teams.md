@@ -163,6 +163,13 @@
 - IEEE：[https://ieeexplore.ieee.org/author/37085938738](https://ieeexplore.ieee.org/author/37085938738)
 
 
+## 陕西师范大学
+### 1. 计算机科学学院禹勇科研团队
+- 主要研究方向：公钥密码学，云计算安全，大数据隐私，密码货币。
+- 教师个人主页：[https://ccs.snnu.edu.cn/info/1016/2301.htm](https://ccs.snnu.edu.cn/info/1016/2301.htm)
+- IEEE：[https://ieeexplore.ieee.org/author/37085876485](https://ieeexplore.ieee.org/author/37085876485)
+- Google Scholar：[https://scholar.google.com/citations?user=oiFDiRYAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=oiFDiRYAAAAJ&hl=zh-CN&oi=sra)
+
 ## 西安电子科技大学
 ### 1. 网络与信息安全学院马如慧科研团队 
 - 主要研究方向：4G、5G、6G网络、天地一体化网络、车联网、无人机网络等方面：包括无线网络安全性分析、终端接入认证及切换认证协议的设计以及群组认证协议的设计与分析等。
