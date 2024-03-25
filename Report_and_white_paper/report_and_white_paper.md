@@ -17,6 +17,7 @@
 
 
 ### 车联网信息安全
+- [鹏城实验室x为辰信安：智能网联汽车网络安全年度报告（2023）](https://mp.weixin.qq.com/s/UOv4G5V4qn8odOyPNh4f2Q)
 - [中国通信标准化协会：车联网安全标准化白皮书（2023.11）](https://www.ccsa.org.cn/detail/?id=54205&title=%E8%BD%A6%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%8C%96%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%882023%E5%B9%B4%EF%BC%89)【下载联系我】
 - [工信重点实验室：智能网联汽车安全渗透白皮书3.0（2023.3）](https://cstc.org.cn/info/1081/247157.htm)
 - [工信重点实验室：智能网联汽车安全渗透白皮书（2022.12）](https://www.cstc.org.cn/zhinengwanglianqicheanquanshentoubaipishu2022.pdf)
