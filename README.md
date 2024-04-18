@@ -48,6 +48,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - A. Boualouache and T. Engel, "A Survey on Machine Learning-Based Misbehavior Detection Systems for 5G and Beyond Vehicular Networks," in IEEE Communications Surveys & Tutorials, vol. 25, no. 2, pp. 1128-1172, Secondquarter 2023, doi: 10.1109/COMST.2023.3236448. [[paper]](https://ieeexplore.ieee.org/document/10015746)
 - Meziane, H., Ouerdi, N. A survey on performance evaluation of artificial intelligence algorithms for improving IoT security systems. Sci Rep 13, 21255 (2023). https://doi.org/10.1038/s41598-023-46640-9 [[paper]](https://www.nature.com/articles/s41598-023-46640-9#citeas)
 - A. Mehta et al., "Securing the Future: A Comprehensive Review of Security Challenges and Solutions in Advanced Driver Assistance Systems," in IEEE Access, doi: 10.1109/ACCESS.2023.3347200. [[paper]](https://ieeexplore.ieee.org/document/10373843)
+- Mwanje, M.D., Kaiwartya, O., Aljaidi, M., Cao, Y., Kumar, S., Jha, D.N., Naser, A. and Lloret, J., 2024. Cyber security analysis of connected vehicles. IET Intelligent Transport Systems. [[paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12504)
 
 ### Chinese
 -  况博裕,李雨泽,顾芳铭,等. 车联网安全研究综述:威胁、对策与未来展望[J]. 计算机研究与发展,2023,60(10):2304-2321. DOI:10.7544/issn1000-1239.202330464. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2p5anlmejIwMjMxMDAwORoId3A5ZXByNmQ%3D)
