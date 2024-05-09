@@ -4,6 +4,7 @@
 
 ### 科普
 - [一文详解车联网标准组织和技术标准进展](https://mp.weixin.qq.com/s/2zhdVxE39iXQXzSSXT9cRw)
+- [140页PPT详解“车联网赋能智慧交通和自动驾驶”](https://mp.weixin.qq.com/s/2egiVoRpr7xYFblqFbnrWg)
 
 ### 国家标准体系、政策
 - [国家车联网产业标准体系建设指南（智能网联汽车）（2023 版）](https://www.gov.cn/zhengce/zhengceku/202307/P020230727459713380334.pdf)
