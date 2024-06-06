@@ -160,6 +160,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ## Federated learning
 - Drissi, Maroua. "A state-of-the-art on federated learning for vehicular communications." Vehicular Communications (2023): 100709. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623001390)
+- Chen, Rui, Xiaoyu Chen, and Jing Zhao. "Private and utility enhanced intrusion detection based on attack behavior analysis with local differential privacy on IoV." Computer Networks (2024): 110560. [[paper]](https://www.sciencedirect.com/science/article/pii/S138912862400392X)
 
 
 ### Others
