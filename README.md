@@ -66,6 +66,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Mehrab Abrar, M., Islam, R., Satam, S., Shao, S., Hariri, S. and Satam, P., 2024. GPS-IDS: An Anomaly-based GPS Spoofing Attack Detection Framework for Autonomous Vehicles. arXiv e-prints, pp.arXiv-2405. [[paper]](https://arxiv.org/pdf/2405.08359),[[dataset]](https://github.com/mehrab-abrar/AV-GPS-Dataset/)
 - Abdullahi, Abdullahi Modibbo, and Wassila Lalouani. "Distributed Misbehavior Detection System for Cooperative Driving Networks." [[paper]](https://www.researchgate.net/profile/Abdullahi-Abdullahi-7/publication/379869558_Distributed_Misbehavior_Detection_System_for_Cooperative_Driving_Networks/links/66482b50bc86444c72e82765/Distributed-Misbehavior-Detection-System-for-Cooperative-Driving-Networks.pdf)
 - H. B. Tulay and C. E. Koksal, "Sybil Attack Detection based on Signal Clustering in Vehicular Networks," in IEEE Transactions on Machine Learning in Communications and Networking, doi: 10.1109/TMLCN.2024.3410208. [[paper]](https://ieeexplore.ieee.org/abstract/document/10550012)
+- Z. Qu and Z. Cai, "FEDSA-ResnetV2: An Efficient Intrusion Detection System for Vehicle Road Cooperation Based on Federated Learning," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3410871. [[paper]](https://ieeexplore.ieee.org/document/10551406)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
