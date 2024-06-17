@@ -32,6 +32,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | :---: | :---: | :---: | :---: | :---: |
 | Zhou Su | Xi'an Jiaotong University | [Link](https://scholar.google.com/citations?hl=en&user=KDbnu2cAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37085423294) | - |
 | Jie Cui | Anhui University | [Link](https://scholar.google.com/citations?hl=en&user=KL-Ik_wAAAAJ&view_op=list_works) | [Link](https://ieeexplore.ieee.org/author/37085720777) | - |
+| [Zhiquan Liu](https://www.zqliu.com/) | Jinan University | [Link](https://scholar.google.com/citations?hl=en&user=bx9xr70AAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37085443945) | - |
 
 
 ## Survey
