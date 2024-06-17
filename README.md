@@ -72,6 +72,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | :---: | :---: | :---: | :---: | :---: |
 | [Kai Wang](https://wangkai-tech23.github.io/) | Harbin Institute of Technology | [Link](https://scholar.google.com.hk/citations?hl=zh-CN&user=32VD4kwAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37085895922) | [Link](https://github.com/wangkai-tech23) |
 | [Jing Zhao](https://zhaojing-dlut.github.io/#) | Dalian University of Technology | - | [Link](https://ieeexplore.ieee.org/author/37086451720) | [Link](https://github.com/zhaojing-dlut) |
+| [Jiajia Liu](https://teacher.nwpu.edu.cn/liujiajia) | Northwestern Polytechnical University | [Link](https://scholar.google.com/citations?hl=en&user=eBl025kAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37715415800) | - |
 
 ### In-vehicle
 - L. Yang and A. Shami, "A Transfer Learning and Optimized CNN Based Intrusion Detection System for Internet of Vehicles," ICC 2022 - IEEE International Conference on Communications, Seoul, Korea, Republic of, 2022, pp. 2774-2779, doi: 10.1109/ICC45855.2022.9838780. [[paper]](https://ieeexplore.ieee.org/abstract/document/9838780),[[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning)
