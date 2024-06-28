@@ -68,6 +68,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Abdullahi, Abdullahi Modibbo, and Wassila Lalouani. "Distributed Misbehavior Detection System for Cooperative Driving Networks." [[paper]](https://www.researchgate.net/profile/Abdullahi-Abdullahi-7/publication/379869558_Distributed_Misbehavior_Detection_System_for_Cooperative_Driving_Networks/links/66482b50bc86444c72e82765/Distributed-Misbehavior-Detection-System-for-Cooperative-Driving-Networks.pdf)
 - H. B. Tulay and C. E. Koksal, "Sybil Attack Detection based on Signal Clustering in Vehicular Networks," in IEEE Transactions on Machine Learning in Communications and Networking, doi: 10.1109/TMLCN.2024.3410208. [[paper]](https://ieeexplore.ieee.org/abstract/document/10550012)
 - Z. Qu and Z. Cai, "FEDSA-ResnetV2: An Efficient Intrusion Detection System for Vehicle Road Cooperation Based on Federated Learning," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3410871. [[paper]](https://ieeexplore.ieee.org/document/10551406)
+- D. Ramsamooj, P. Sharma and H. Liu, "GenVRAM: Dataset Generator for Vehicle to Roadside Attacks and Misbehavior," in IEEE Access, vol. 12, pp. 86176-86193, 2024, doi: 10.1109/ACCESS.2024.3416840. [[paper]](https://ieeexplore.ieee.org/document/10562250),[[code]](https://github.com/dramsamooj2099/GenVRAM)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
@@ -153,7 +154,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ### Dataset
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
-- J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
+- J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)、
 
 ### V2X Misbehavior Simulation Platform
 - [VeReMi](https://github.com/VeReMi-dataset/veins)
