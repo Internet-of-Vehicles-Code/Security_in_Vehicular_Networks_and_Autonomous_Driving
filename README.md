@@ -69,6 +69,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - H. B. Tulay and C. E. Koksal, "Sybil Attack Detection based on Signal Clustering in Vehicular Networks," in IEEE Transactions on Machine Learning in Communications and Networking, doi: 10.1109/TMLCN.2024.3410208. [[paper]](https://ieeexplore.ieee.org/abstract/document/10550012)
 - Z. Qu and Z. Cai, "FEDSA-ResnetV2: An Efficient Intrusion Detection System for Vehicle Road Cooperation Based on Federated Learning," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3410871. [[paper]](https://ieeexplore.ieee.org/document/10551406)
 - D. Ramsamooj, P. Sharma and H. Liu, "GenVRAM: Dataset Generator for Vehicle to Roadside Attacks and Misbehavior," in IEEE Access, vol. 12, pp. 86176-86193, 2024, doi: 10.1109/ACCESS.2024.3416840. [[paper]](https://ieeexplore.ieee.org/document/10562250),[[code]](https://github.com/dramsamooj2099/GenVRAM)
+- Sultana, Rukhsar, Jyoti Grover, and Meenakshi Tripathi. "Intelligent defense strategies: Comprehensive attack detection in VANET with deep reinforcement learning." Pervasive and Mobile Computing (2024): 101962. [[paper]](https://www.sciencedirect.com/science/article/pii/S1574119224000877)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
