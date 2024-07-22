@@ -67,6 +67,7 @@
 - G. O. Anyanwu, C. I. Nwakanma, J. -M. Lee and D. -S. Kim, "Falsification Detection System for IoV Using Randomized Search Optimization Ensemble Algorithm," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 4, pp. 4158-4172, April 2023, doi: 10.1109/TITS.2022.3233536. [[paper]](https://ieeexplore.ieee.org/abstract/document/10012276)
 - A. Willecke, B. Kulke and L. C. Wolf, "A4MD: Artery for Misbehavior Detection, Reporting, and Reaction in the ETSI C-ITS," 2023 IEEE Vehicular Networking Conference (VNC), Istanbul, Turkiye, 2023, pp. 33-40, doi: 10.1109/VNC57357.2023.10136315. [[paper]](https://ieeexplore.ieee.org/abstract/document/10136315),[[code]](https://github.com/ibr-cm/a4md)
 - M. S. Ali and P. Merdrignac, "Distributed Misbehavior Detection based on Vehicle Perception Model and CPM Data Collection," 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong, Hong Kong, 2023, pp. 1-5, doi: 10.1109/VTC2023-Fall60731.2023.10333637. [[paper]](https://ieeexplore.ieee.org/abstract/document/10333637)
+- . Grimm, M. Schindewolf, D. Kraus and E. Sax, "Co-simulate no more: The CARLA V2X Sensor," 2024 IEEE Intelligent Vehicles Symposium (IV), Jeju Island, Korea, Republic of, 2024, pp. 2429-2436, doi: 10.1109/IV55156.2024.10588488. [[paper]](https://ieeexplore.ieee.org/document/10588488),[[code]](https://github.com/carla-simulator/carla/pull/7490)
 
 
 ## Cooperative Perception
