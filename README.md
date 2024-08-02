@@ -71,6 +71,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Z. Qu and Z. Cai, "FEDSA-ResnetV2: An Efficient Intrusion Detection System for Vehicle Road Cooperation Based on Federated Learning," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3410871. [[paper]](https://ieeexplore.ieee.org/document/10551406)
 - D. Ramsamooj, P. Sharma and H. Liu, "GenVRAM: Dataset Generator for Vehicle to Roadside Attacks and Misbehavior," in IEEE Access, vol. 12, pp. 86176-86193, 2024, doi: 10.1109/ACCESS.2024.3416840. [[paper]](https://ieeexplore.ieee.org/document/10562250),[[code]](https://github.com/dramsamooj2099/GenVRAM)
 - Sultana, Rukhsar, Jyoti Grover, and Meenakshi Tripathi. "Intelligent defense strategies: Comprehensive attack detection in VANET with deep reinforcement learning." Pervasive and Mobile Computing (2024): 101962. [[paper]](https://www.sciencedirect.com/science/article/pii/S1574119224000877)
+- Hamhoum, Wissal, and Soumaya Cherkaoui. "MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection." arXiv preprint arXiv:2407.18462 (2024). [[paper]](https://arxiv.org/pdf/2407.18462)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
