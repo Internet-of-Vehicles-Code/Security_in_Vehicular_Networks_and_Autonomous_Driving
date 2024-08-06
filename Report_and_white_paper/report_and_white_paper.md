@@ -24,6 +24,7 @@
 - [工信重点实验室：智能网联汽车安全渗透白皮书3.0（2023.3）](https://cstc.org.cn/info/1081/247157.htm)
 - [工信重点实验室：智能网联汽车安全渗透白皮书（2022.12）](https://www.cstc.org.cn/zhinengwanglianqicheanquanshentoubaipishu2022.pdf)
 - [工信部：车联网（智能网联汽车）密码支撑标准体系建设指南（2022.11）](https://ambchina.com/zfc/uploads/1669357047460.pdf)
+- [CACIV:V2X 车辆安全管理能力白皮书](http://www.caicv.org.cn/upload/at/file/20210802/1627882401123793F84A.pdf)
 - [中汽研-智能网联汽车信息安全发展报告（2021）](http://www.caeribeijing.com/files/20211215/f9b29fd1b6652774e287e9b36df8d4e8.pdf)
 - [中汽研-2021智能网联汽车信息安全发展报告-精华版](http://www.caeribeijing.com/files/20211210/86a9787a41e99db0d18d3cbb8475f94d.pdf)
 - [工信安全发展研究中心：自动驾驶数据安全白皮书（2020）](http://www.impcia.net/Uploads/report/2020-04-28/5ea7dba33e4e7.pdf)
