@@ -174,6 +174,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ## Privacy
 - H. Cheng, J. Yang, M. Shojafar, J. Cao, N. Jiang and Y. Liu, "VFAS: Reliable and Privacy-Preserving V2F Authentication Scheme for Road Condition Monitoring System in IoV," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7958-7972, June 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10049671),[[code]](https://github.com/PoisonousBelief/VANET_truth_discovery_simulation_platform) 
+- Y. Liang, E. Luo and Y. Liu, "Physically Secure and Conditional-Privacy Authenticated Key Agreement for VANETs," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7914-7925, June 2023, doi: 10.1109/TVT.2023.3241882. [[paper]](https://ieeexplore.ieee.org/abstract/document/10036137?signout=success),[[code]](https://github.com/AfarL/-cryptographic-operations)
 
 
 ## Federated learning
