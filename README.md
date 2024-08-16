@@ -107,6 +107,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Cheng, Pengzhou, Zongru Wu, and Gongshen Liu. "MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive." arXiv preprint arXiv:2403.04293 (2024). [[paper]](https://arxiv.org/html/2403.04293v1)
 - S. Li, Y. Cao, H. J. Hadi, F. Hao, F. B. Hussain and L. Chen, "ECF-IDS: An Enhanced Cuckoo Filter-Based Intrusion Detection System for In-Vehicle Network," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2024.3394842. [[paper]](https://ieeexplore.ieee.org/abstract/document/10520724)
 - Marfo, W., Moriano, P., Tosh, D. K., & Moore, S. V. (2024). Detecting Masquerade Attacks in Controller Area Networks Using Graph Machine Learning. arXiv preprint arXiv:2408.05427. [[paper]](https://arxiv.org/pdf/2408.05427),[[code]](https://github.com/billmj/GraphML-CONTROLLER-AREA-NETWORK-Attack-Detection)
+- J. Gao, Y. Lu, Y. He, M. Fan, D. Han and Y. Qiao, "Tokenization Representation and Deep Learning based Intrusion Detection in Internet of Vehicles," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3441763. [[paper]](https://ieeexplore.ieee.org/abstract/document/10633284)
 
 
 
