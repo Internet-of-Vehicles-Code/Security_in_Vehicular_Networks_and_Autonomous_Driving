@@ -172,6 +172,9 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [CarlaSumoArtery-CoSimulation](https://github.com/mohammedLamine/CarlaSumoArtery-CoSimulation)
 - [A4MD](https://github.com/ibr-cm/a4md)
 
+## Privacy
+- H. Cheng, J. Yang, M. Shojafar, J. Cao, N. Jiang and Y. Liu, "VFAS: Reliable and Privacy-Preserving V2F Authentication Scheme for Road Condition Monitoring System in IoV," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7958-7972, June 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10049671),[[code]](https://github.com/PoisonousBelief/VANET_truth_discovery_simulation_platform) 
+
 
 ## Federated learning
 - Drissi, Maroua. "A state-of-the-art on federated learning for vehicular communications." Vehicular Communications (2023): 100709. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623001390)
@@ -183,7 +186,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - A. Kapoor and D. Kumar, "Federated Learning for Urban Sensing Systems: A Comprehensive Survey on Attacks, Defences, Incentive Mechanisms, and Applications," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3434510. [[paper]](https://ieeexplore.ieee.org/abstract/document/10612842) 
 - [Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving),people:[[Rui Song]](https://rruisong.github.io/)
 
-### simulator
+### Simulator
 - W. Lobato, J. B. D. D. Costa, A. M. d. Souza, D. Rosário, C. Sommer and L. A. Villas, "FLEXE: Investigating Federated Learning in Connected Autonomous Vehicle Simulations," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5, doi: 10.1109/VTC2022-Fall57202.2022.10012905. [[paper]](https://ieeexplore.ieee.org/document/10012905),[[code]](https://github.com/WellingtonLobato/flexe)
 
 
