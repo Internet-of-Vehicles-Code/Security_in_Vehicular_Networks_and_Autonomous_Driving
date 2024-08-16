@@ -51,6 +51,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - A. Mehta et al., "Securing the Future: A Comprehensive Review of Security Challenges and Solutions in Advanced Driver Assistance Systems," in IEEE Access, doi: 10.1109/ACCESS.2023.3347200. [[paper]](https://ieeexplore.ieee.org/document/10373843)
 - Mwanje, M.D., Kaiwartya, O., Aljaidi, M., Cao, Y., Kumar, S., Jha, D.N., Naser, A. and Lloret, J., 2024. Cyber security analysis of connected vehicles. IET Intelligent Transport Systems. [[paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12504)
 - U. Ahmad et al., "A Comprehensive Survey and Tutorial on Smart Vehicles: Emerging Technologies, Security Issues, and Solutions Using Machine Learning," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3419988. [[paper]](https://ieeexplore.ieee.org/document/10592823)
+- Solaas, J. R. V., Tuptuk, N., & Mariconti, E. (2024). Systematic Review: Anomaly Detection in Connected and Autonomous Vehicles. arXiv preprint arXiv:2405.02731. [[paper]](https://arxiv.org/abs/2405.02731)
 
 ### Chinese
 -  况博裕,李雨泽,顾芳铭,等. 车联网安全研究综述:威胁、对策与未来展望[J]. 计算机研究与发展,2023,60(10):2304-2321. DOI:10.7544/issn1000-1239.202330464. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2p5anlmejIwMjMxMDAwORoId3A5ZXByNmQ%3D)
@@ -176,6 +177,9 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - H. Cheng, J. Yang, M. Shojafar, J. Cao, N. Jiang and Y. Liu, "VFAS: Reliable and Privacy-Preserving V2F Authentication Scheme for Road Condition Monitoring System in IoV," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7958-7972, June 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10049671),[[code]](https://github.com/PoisonousBelief/VANET_truth_discovery_simulation_platform) 
 - Y. Liang, E. Luo and Y. Liu, "Physically Secure and Conditional-Privacy Authenticated Key Agreement for VANETs," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7914-7925, June 2023, doi: 10.1109/TVT.2023.3241882. [[paper]](https://ieeexplore.ieee.org/abstract/document/10036137?signout=success),[[code]](https://github.com/AfarL/-cryptographic-operations)
 
+## Trust management
+- S. Zhang, R. He, Y. Xiao and Y. Liu, "A Three-Factor Based Trust Model for Anonymous Bacon Message in VANETs," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 11304-11317, Sept. 2023, doi: 10.1109/TVT.2023.3270333. [[paper]](https://ieeexplore.ieee.org/abstract/document/10108063),[[code]](https://github.com/zsongsong/ERCTM)
+
 
 ## Federated learning
 - Drissi, Maroua. "A state-of-the-art on federated learning for vehicular communications." Vehicular Communications (2023): 100709. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209623001390)
@@ -185,6 +189,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - H. Xiao, J. Zhao, Q. Pei, J. Feng, L. Liu and W. Shi, "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 8, pp. 11073-11087, Aug. 2022, doi: 10.1109/TITS.2021.3099597. [[paper]](https://ieeexplore.ieee.org/abstract/document/9507054),[[code]](https://github.com/zxbylll/JLARA)
 - Khalil, Ahmad, et al. "Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection." arXiv preprint arXiv:2405.01108 (2024). [[paper]](https://arxiv.org/abs/2405.01108),[[code]](https://github.com/TixXx1337/Federated-Learning-with-Heterogeneous-Data-Handling-for-Robust-Vehicular-Perception)
 - A. Kapoor and D. Kumar, "Federated Learning for Urban Sensing Systems: A Comprehensive Survey on Attacks, Defences, Incentive Mechanisms, and Applications," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3434510. [[paper]](https://ieeexplore.ieee.org/abstract/document/10612842) 
+- C. Xu, Y. Qu, T. H. Luan, P. W. Eklund, Y. Xiang and L. Gao, "An Efficient and Reliable Asynchronous Federated Learning Scheme for Smart Public Transportation," in IEEE Transactions on Vehicular Technology, vol. 72, no. 5, pp. 6584-6598, May 2023, doi: 10.1109/TVT.2022.3232603. [[paper]](https://ieeexplore.ieee.org/abstract/document/10002314),[[code]](https://github.com/xuchenhao001/AFL)
 - [Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving),people:[[Rui Song]](https://rruisong.github.io/)
 
 ### Simulator
