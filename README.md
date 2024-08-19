@@ -52,6 +52,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Mwanje, M.D., Kaiwartya, O., Aljaidi, M., Cao, Y., Kumar, S., Jha, D.N., Naser, A. and Lloret, J., 2024. Cyber security analysis of connected vehicles. IET Intelligent Transport Systems. [[paper]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12504)
 - U. Ahmad et al., "A Comprehensive Survey and Tutorial on Smart Vehicles: Emerging Technologies, Security Issues, and Solutions Using Machine Learning," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3419988. [[paper]](https://ieeexplore.ieee.org/document/10592823)
 - Solaas, J. R. V., Tuptuk, N., & Mariconti, E. (2024). Systematic Review: Anomaly Detection in Connected and Autonomous Vehicles. arXiv preprint arXiv:2405.02731. [[paper]](https://arxiv.org/abs/2405.02731)
+- Kheddar, Hamza. "Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey." arXiv preprint arXiv:2408.07583 (2024). [[paper]](https://arxiv.org/pdf/2408.07583)
 
 ### Chinese
 -  况博裕,李雨泽,顾芳铭,等. 车联网安全研究综述:威胁、对策与未来展望[J]. 计算机研究与发展,2023,60(10):2304-2321. DOI:10.7544/issn1000-1239.202330464. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2p5anlmejIwMjMxMDAwORoId3A5ZXByNmQ%3D)
@@ -80,7 +81,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | [Jing Zhao](https://zhaojing-dlut.github.io/#) | Dalian University of Technology | - | [Link](https://ieeexplore.ieee.org/author/37086451720) | [Link](https://github.com/zhaojing-dlut) |
 | [Jiajia Liu](https://teacher.nwpu.edu.cn/liujiajia) | Northwestern Polytechnical University | [Link](https://scholar.google.com/citations?hl=en&user=eBl025kAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37715415800) | - |
 
-### In-vehicle
+### In-vehicle (CAN)
 - L. Yang and A. Shami, "A Transfer Learning and Optimized CNN Based Intrusion Detection System for Internet of Vehicles," ICC 2022 - IEEE International Conference on Communications, Seoul, Korea, Republic of, 2022, pp. 2774-2779, doi: 10.1109/ICC45855.2022.9838780. [[paper]](https://ieeexplore.ieee.org/abstract/document/9838780),[[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning)
 - Intrusion-Detection-System-Using-Machine-Learning [[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)
   - L. Yang, A. Moubayed, I. Hamieh and A. Shami, "Tree-Based Intelligent Intrusion Detection System in Internet of Vehicles," 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013892. [[paper]](https://ieeexplore.ieee.org/document/9013892)
@@ -109,6 +110,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - S. Li, Y. Cao, H. J. Hadi, F. Hao, F. B. Hussain and L. Chen, "ECF-IDS: An Enhanced Cuckoo Filter-Based Intrusion Detection System for In-Vehicle Network," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2024.3394842. [[paper]](https://ieeexplore.ieee.org/abstract/document/10520724)
 - Marfo, W., Moriano, P., Tosh, D. K., & Moore, S. V. (2024). Detecting Masquerade Attacks in Controller Area Networks Using Graph Machine Learning. arXiv preprint arXiv:2408.05427. [[paper]](https://arxiv.org/pdf/2408.05427),[[code]](https://github.com/billmj/GraphML-CONTROLLER-AREA-NETWORK-Attack-Detection)
 - J. Gao, Y. Lu, Y. He, M. Fan, D. Han and Y. Qiao, "Tokenization Representation and Deep Learning based Intrusion Detection in Internet of Vehicles," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3441763. [[paper]](https://ieeexplore.ieee.org/abstract/document/10633284)
+- Wang, Kai, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, and Yulei Wu. "Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages." arXiv preprint arXiv:2311.07056 (2023). [[paper]](https://arxiv.org/pdf/2311.07056),[[code]](https://github.com/wangkai-tech23/StatGraph)
 
 
 
