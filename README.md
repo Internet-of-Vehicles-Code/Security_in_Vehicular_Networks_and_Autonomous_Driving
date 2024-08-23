@@ -113,7 +113,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - J. Gao, Y. Lu, Y. He, M. Fan, D. Han and Y. Qiao, "Tokenization Representation and Deep Learning based Intrusion Detection in Internet of Vehicles," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3441763. [[paper]](https://ieeexplore.ieee.org/abstract/document/10633284)
 - Wang, Kai, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, and Yulei Wu. "Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages." arXiv preprint arXiv:2311.07056 (2023). [[paper]](https://arxiv.org/pdf/2311.07056),[[code]](https://github.com/wangkai-tech23/StatGraph)
 - Althunayyan, Muzun, Amir Javed, and Omer Rana. "A Robust Multi-Stage Intrusion Detection System for In-Vehicle Network Security using Hierarchical Federated Learning." arXiv preprint arXiv:2408.08433 (2024). [[paper]](https://arxiv.org/pdf/2408.08433)
-
+- Wang, Shaoqiang, et al. "A Lightweight Intrusion Detection System for Vehicular Networks Based on an Improved ViT Model." IEEE Access (2024). [[paper]](https://ieeexplore.ieee.org/abstract/document/10638639)
 
 
 
