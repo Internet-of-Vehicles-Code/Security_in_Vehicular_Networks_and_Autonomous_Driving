@@ -215,7 +215,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 # Group
 | Web | Affiliation | Github |
 | :---: | :---: | :---: |
-| [Wireless and IoT Security & Privacy (WISP) research laboratory](https://www.rit.edu/wisplab/) | Rochester Institute of Technology (RIT) | people:[Geoff Twardokus](https://people.rit.edu/~gdt5762/) [Link](https://github.com/twardokus) |
+| [Wireless and IoT Security & Privacy (WISP) research laboratory](https://www.rit.edu/wisplab/) | Rochester Institute of Technology (RIT) | people:[Geoff Twardokus](https://people.rit.edu/~gdt5762/) [Link](https://github.com/twardokus),resource:[V2V Security Course](https://www.rit.edu/wisplab/v2vsecuritycourse) |
 | [AS^2Guard](https://ics.uci.edu/~alfchen/) | University of California, Irvine | [Link](https://github.com/ASGuard-UCI) |
 | [Ubiquitous System Security Lab](https://usslab.org/) | Zhejiang University | [Link](https://github.com/USSLab) |
 | [CoRE research group](https://core-researchgroup.de/about/) | Hamburg University of Applied Sciences | [Link](https://github.com/CoRE-RG) |
