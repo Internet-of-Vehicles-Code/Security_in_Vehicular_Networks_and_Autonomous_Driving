@@ -74,6 +74,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - D. Ramsamooj, P. Sharma and H. Liu, "GenVRAM: Dataset Generator for Vehicle to Roadside Attacks and Misbehavior," in IEEE Access, vol. 12, pp. 86176-86193, 2024, doi: 10.1109/ACCESS.2024.3416840. [[paper]](https://ieeexplore.ieee.org/document/10562250),[[code]](https://github.com/dramsamooj2099/GenVRAM)
 - Sultana, Rukhsar, Jyoti Grover, and Meenakshi Tripathi. "Intelligent defense strategies: Comprehensive attack detection in VANET with deep reinforcement learning." Pervasive and Mobile Computing (2024): 101962. [[paper]](https://www.sciencedirect.com/science/article/pii/S1574119224000877)
 - Hamhoum, Wissal, and Soumaya Cherkaoui. "MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection." arXiv preprint arXiv:2407.18462 (2024). [[paper]](https://arxiv.org/pdf/2407.18462)
+- Zhang, Jiahao, et al. "On Enhancing Intersection Applications With Misbehavior Detection and Mitigation." The 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall). 2024.[[paper]](https://hal.science/hal-04672473v1/file/MBDImpact_final_version.pdf)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
@@ -111,6 +112,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Marfo, W., Moriano, P., Tosh, D. K., & Moore, S. V. (2024). Detecting Masquerade Attacks in Controller Area Networks Using Graph Machine Learning. arXiv preprint arXiv:2408.05427. [[paper]](https://arxiv.org/pdf/2408.05427),[[code]](https://github.com/billmj/GraphML-CONTROLLER-AREA-NETWORK-Attack-Detection)
 - J. Gao, Y. Lu, Y. He, M. Fan, D. Han and Y. Qiao, "Tokenization Representation and Deep Learning based Intrusion Detection in Internet of Vehicles," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3441763. [[paper]](https://ieeexplore.ieee.org/abstract/document/10633284)
 - Wang, Kai, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, and Yulei Wu. "Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages." arXiv preprint arXiv:2311.07056 (2023). [[paper]](https://arxiv.org/pdf/2311.07056),[[code]](https://github.com/wangkai-tech23/StatGraph)
+- Althunayyan, Muzun, Amir Javed, and Omer Rana. "A Robust Multi-Stage Intrusion Detection System for In-Vehicle Network Security using Hierarchical Federated Learning." arXiv preprint arXiv:2408.08433 (2024). [[paper]](https://arxiv.org/pdf/2408.08433)
 
 
 
