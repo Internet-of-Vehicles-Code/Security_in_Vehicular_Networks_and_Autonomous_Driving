@@ -57,3 +57,22 @@ Guofei Gu: [Computer Security Conference Ranking and Statistic](https://people.e
 | IEEE Communications Letters (CL) |  | Q3 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=4234&isnumber=10275739) |
 
 更多会议、期刊关注CCF推荐列表（人工智能、计算机网络、网络与信息安全）、中科院分区表（电信学、机器人、交通等）
+
+
+## 投稿相关要求（页数、模板、格式要求等）
+
+### TITS
+- [Submission Information: Information for Authors](https://ieee-itss.org/pub/t-its/)
+- Authors can choose among 4 kinds of papers, each with its suggested length in IEEE style: 
+- **Regular Papers: 10 pages Short Papers: 6 pages**
+- **Practitioner Papers: 6 pages**
+- **Survey Papers: 18 pages**
+An author may submit papers that exceeds the suggested length but after the final acceptance, provided they pay an over length charge of $175.00 (US dollars) for each extra page.
+
+### TVT
+- [Instructions for Authors](https://vtsociety.org/publication/ieee-transactions-vehicular-technology/guidelines-authors/instructions)
+- All papers submitted to this journal for review through the IEEE Author Portal must be **double-columned** with fonts no smaller than 10 in the final IEEE typesetting. Starting January 20th, 2020, initial (new) submissions must have **a maximum page length of 14 pages for regular papers** and **5 pages for correspondence**, while **final submissions / revised submissions have maximum page length of 16 pages for regular papers and 6 pages for correspondence papers**! Please note that both references and biographies are included into these limits. Additionally, the title should be single-columned.
+
+### IoTJ
+- [Author Guideline](https://ieee-iotj.org/guidelines-for-authors/)
+- The author(s) or their company/institution will be billed $175 per page in excess of the first eight published pages.
