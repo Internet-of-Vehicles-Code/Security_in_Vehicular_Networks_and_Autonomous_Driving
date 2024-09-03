@@ -81,6 +81,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | [Kai Wang](https://wangkai-tech23.github.io/) | Harbin Institute of Technology | [Link](https://scholar.google.com.hk/citations?hl=zh-CN&user=32VD4kwAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37085895922) | [Link](https://github.com/wangkai-tech23) |
 | [Jing Zhao](https://zhaojing-dlut.github.io/#) | Dalian University of Technology | - | [Link](https://ieeexplore.ieee.org/author/37086451720) | [Link](https://github.com/zhaojing-dlut) |
 | [Jiajia Liu](https://teacher.nwpu.edu.cn/liujiajia) | Northwestern Polytechnical University | [Link](https://scholar.google.com/citations?hl=en&user=eBl025kAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37715415800) | - |
+| [Liang Zhao](https://yjs.sau.edu.cn/info/1009/1284.htm) | Shenyang Aerospace University | [Link](https://scholar.google.com/citations?user=Mhud0GUAAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/38275661000) | [Link](https://github.com/NetworkCommunication?tab=repositories) |
 
 ### In-vehicle (CAN)
 - L. Yang and A. Shami, "A Transfer Learning and Optimized CNN Based Intrusion Detection System for Internet of Vehicles," ICC 2022 - IEEE International Conference on Communications, Seoul, Korea, Republic of, 2022, pp. 2774-2779, doi: 10.1109/ICC45855.2022.9838780. [[paper]](https://ieeexplore.ieee.org/abstract/document/9838780),[[code]](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning)
@@ -187,6 +188,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ## Trust management
 - S. Zhang, R. He, Y. Xiao and Y. Liu, "A Three-Factor Based Trust Model for Anonymous Bacon Message in VANETs," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 11304-11317, Sept. 2023, doi: 10.1109/TVT.2023.3270333. [[paper]](https://ieeexplore.ieee.org/abstract/document/10108063),[[code]](https://github.com/zsongsong/ERCTM)
+- C. Gu, B. Ma and D. Hu, "A Dependable and Efficient Decentralized Trust Management System Based on Consortium Blockchain for Intelligent Transportation Systems," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3443909. [[paper]](https://ieeexplore.ieee.org/abstract/document/10648633),[[code]](https://github.com/Chen-Gu/OnOff-Attack-Detection)
 
 
 ## Federated learning
