@@ -17,6 +17,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - IEEE Symposium on Security and Privacy (IEEE S&P):[[2023 Accepted Papers]](https://sp2023.ieee-security.org/program-papers.html);[[2024 Accepted Papers]](https://sp2024.ieee-security.org/accepted-papers.html)
 - ACM Conference on Computer and Communications Security (CCS)
 - [Network and Distributed System Security (NDSS) Symposium](https://www.ndss-symposium.org/):[[(VehicleSec) 2023 Program]](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/);[[(VehicleSec) 2024 Accepted Papers, Demo Papers, Posters]](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/accepted-demo-papers-and-posters/)
+- [Top 20 Cyber Security Conferences](http://jianying.space/conference-ranking-history.html)
 
 
 ## Journal and Conference
@@ -75,6 +76,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Sultana, Rukhsar, Jyoti Grover, and Meenakshi Tripathi. "Intelligent defense strategies: Comprehensive attack detection in VANET with deep reinforcement learning." Pervasive and Mobile Computing (2024): 101962. [[paper]](https://www.sciencedirect.com/science/article/pii/S1574119224000877)
 - Hamhoum, Wissal, and Soumaya Cherkaoui. "MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection." arXiv preprint arXiv:2407.18462 (2024). [[paper]](https://arxiv.org/pdf/2407.18462)
 - Zhang, Jiahao, et al. "On Enhancing Intersection Applications With Misbehavior Detection and Mitigation." The 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall). 2024.[[paper]](https://hal.science/hal-04672473v1/file/MBDImpact_final_version.pdf)
+- L. Yang and A. Shami, “Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection,” in Proceedings of the Workshop on Autonomous Cybersecurity (AutonomousCyber ’24), 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS’24), 2024, pp. 1–11. doi: 10.1145/3689933.3690833. [[paper]](https://arxiv.org/pdf/2409.03141),[[code]](https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
