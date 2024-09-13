@@ -78,6 +78,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Hamhoum, Wissal, and Soumaya Cherkaoui. "MistralBSM: Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection." arXiv preprint arXiv:2407.18462 (2024). [[paper]](https://arxiv.org/pdf/2407.18462)
 - Zhang, Jiahao, et al. "On Enhancing Intersection Applications With Misbehavior Detection and Mitigation." The 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall). 2024.[[paper]](https://hal.science/hal-04672473v1/file/MBDImpact_final_version.pdf)
 - L. Yang and A. Shami, “Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection,” in Proceedings of the Workshop on Autonomous Cybersecurity (AutonomousCyber ’24), 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS’24), 2024, pp. 1–11. doi: 10.1145/3689933.3690833. [[paper]](https://arxiv.org/pdf/2409.03141),[[code]](https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System)
+- Gorine, Adam, and Christopher Agboile. "Securing V2X Communication: DDoS Attack Implementation and Mitigation via VEINS Simulation." [[paper]](https://ijmrap.com/wp-content/uploads/2024/08/IJMRAP-V7N3P60Y24.pdf),[[code]](https://github.com/Chrisagboile/ddosveins)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
