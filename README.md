@@ -170,7 +170,8 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [code: Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles](https://github.com/kushagra-2503/Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles)
   - CNN LSTM 
 
-
+## Architecture
+- Y. Yigit, L. Maglaras, W. J. Buchanan, B. Canberk, H. Shin and T. Q. Duong, "AI-Enhanced Digital Twin Framework for Cyber-Resilient 6G Internet-of-Vehicles Networks," in IEEE Internet of Things Journal [[paper]](https://ieeexplore.ieee.org/abstract/document/10673900)
 
 ## Thesis
 - Lioy, Antonio, and Erasmo Notaro. "Simulating Malicious Attacks on VANETs for Connected and Autonomous Vehicles." (2023). [[thesis]](https://webthesis.biblio.polito.it/29324/1/tesi.pdf)
