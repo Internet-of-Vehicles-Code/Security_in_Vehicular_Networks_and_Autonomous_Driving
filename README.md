@@ -120,6 +120,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Althunayyan, Muzun, Amir Javed, and Omer Rana. "A Robust Multi-Stage Intrusion Detection System for In-Vehicle Network Security using Hierarchical Federated Learning." arXiv preprint arXiv:2408.08433 (2024). [[paper]](https://arxiv.org/pdf/2408.08433)
 - Wang, Shaoqiang, et al. "A Lightweight Intrusion Detection System for Vehicular Networks Based on an Improved ViT Model." IEEE Access (2024). [[paper]](https://ieeexplore.ieee.org/abstract/document/10638639)
 - J. Zhou, S. Li, Y. Cao, H. J. Hadi and H. Lin, "Robust Intrusion Detection System in CAN Bus through Multi-Scale Feature Fusion," ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 1316-1321, doi: 10.1109/ICC51166.2024.10623113. [[paper]](https://ieeexplore.ieee.org/abstract/document/10623113)
+- J. Zhang, Z. Pan, J. Cui, H. Zhong, J. Li and D. He, "Toward Open-Set Intrusion Detection in VANETs: An Efficient Meta-Recognition Approach," in IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2024.3459087. [[paper]](https://ieeexplore.ieee.org/abstract/document/10678809)
 
 
 
