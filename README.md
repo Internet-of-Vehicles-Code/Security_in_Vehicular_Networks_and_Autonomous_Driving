@@ -209,7 +209,19 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Khalil, Ahmad, et al. "Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection." arXiv preprint arXiv:2405.01108 (2024). [[paper]](https://arxiv.org/abs/2405.01108),[[code]](https://github.com/TixXx1337/Federated-Learning-with-Heterogeneous-Data-Handling-for-Robust-Vehicular-Perception)
 - A. Kapoor and D. Kumar, "Federated Learning for Urban Sensing Systems: A Comprehensive Survey on Attacks, Defences, Incentive Mechanisms, and Applications," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3434510. [[paper]](https://ieeexplore.ieee.org/abstract/document/10612842) 
 - C. Xu, Y. Qu, T. H. Luan, P. W. Eklund, Y. Xiang and L. Gao, "An Efficient and Reliable Asynchronous Federated Learning Scheme for Smart Public Transportation," in IEEE Transactions on Vehicular Technology, vol. 72, no. 5, pp. 6584-6598, May 2023, doi: 10.1109/TVT.2022.3232603. [[paper]](https://ieeexplore.ieee.org/abstract/document/10002314),[[code]](https://github.com/xuchenhao001/AFL)
+- Z. A. E. Houda, H. Moudoud, B. Brik and M. Adil, "A Privacy-Preserving Framework for Efficient Network Intrusion Detection in Consumer Network Using Quantum Federated Learning," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3458985. [[paper]](https://ieeexplore.ieee.org/abstract/document/10679217)
 - [Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving),people:[[Rui Song]](https://rruisong.github.io/)
+
+
+### Quantum
+- 李拓. 量子保密通信技术融合车联网的应用研究[J]. 信息安全与通信保密,2024(3):77-90. DOI:10.3969/j.issn.1009-8054.2024.03.010.[paper](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjQwNzA0EhJ4eGFxeXR4Ym0yMDI0MDMwMTAaCG4zaWRpb2M1)
+- [信通院：量子保密通信技术发展及应用前沿报告(2020年)](https://www.china-cic.cn/upload/202012/05/c8f66ddd075d4b59bf51a1f80e4faa61.pdf)
+- [信通院：量子信息技术发展与应用研究报告(2022年)](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107433234479315.pdf)
+- [信通院：量子信息技术发展与应用研究报告(2023年)](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326616760506829.pdf)
+
+### Zero Trust
+- [信通院：网络安全先进技术与应用发展系列报告零信任技术(Zero Trust)2020](https://pdf.dfcfw.com/pdf/H3_AP202008141398426442_1.pdf)
+- [信通院：零信任发展研究报告2023](https://13115299.s21i.faiusr.com/61/1/ABUIABA9GAAg_-fhpwYoovjDxQU.pdf)
 
 ### Simulator
 - W. Lobato, J. B. D. D. Costa, A. M. d. Souza, D. Rosário, C. Sommer and L. A. Villas, "FLEXE: Investigating Federated Learning in Connected Autonomous Vehicle Simulations," 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), London, United Kingdom, 2022, pp. 1-5, doi: 10.1109/VTC2022-Fall57202.2022.10012905. [[paper]](https://ieeexplore.ieee.org/document/10012905),[[code]](https://github.com/WellingtonLobato/flexe)
