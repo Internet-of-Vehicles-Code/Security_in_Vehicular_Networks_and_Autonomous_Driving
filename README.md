@@ -264,6 +264,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 | [Research group COSIC](https://www.esat.kuleuven.be/cosic/people/takahito-yoshizawa/) | KU Leuven | [Google scholar: Takahito Yoshizawa](https://scholar.google.com/citations?hl=en&user=crWH4wQAAAAJ&view_op=list_works&sortby=pubdate) |
 | [The Laboratory of Cryptography and System Security (CrySyS Lab) ](https://www.crysys.hu/) | Budapest University of Technology and Economics | [Link](https://github.com/CrySyS) |
 | [The Optimized Computing and Communications (OC2) Laboratory](https://www.eng.uwo.ca/oc2/index.html) | Western University | [Link](https://github.com/Western-OC2-Lab),people:[Li Yang](https://sites.google.com/view/li-yang-phd/home?authuser=0),[github](https://github.com/LiYangHart) |
+| [Blue-Whale Sec Lab](https://security.ouc.edu.cn/) | Ocean University of China | - |
 
 
 # Others
