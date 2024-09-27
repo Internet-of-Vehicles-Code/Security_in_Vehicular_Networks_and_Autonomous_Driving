@@ -211,6 +211,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - C. Xu, Y. Qu, T. H. Luan, P. W. Eklund, Y. Xiang and L. Gao, "An Efficient and Reliable Asynchronous Federated Learning Scheme for Smart Public Transportation," in IEEE Transactions on Vehicular Technology, vol. 72, no. 5, pp. 6584-6598, May 2023, doi: 10.1109/TVT.2022.3232603. [[paper]](https://ieeexplore.ieee.org/abstract/document/10002314),[[code]](https://github.com/xuchenhao001/AFL)
 - Z. A. E. Houda, H. Moudoud, B. Brik and M. Adil, "A Privacy-Preserving Framework for Efficient Network Intrusion Detection in Consumer Network Using Quantum Federated Learning," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3458985. [[paper]](https://ieeexplore.ieee.org/abstract/document/10679217)
 - [Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving),people:[[Rui Song]](https://rruisong.github.io/)
+- M. Tang, Z. Huang and G. Deng, "FEDL: Confidential Deep Learning for Autonomous Driving in VANETs Based on Functional Encryption," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3454711. [[paper]](https://ieeexplore.ieee.org/abstract/document/10689332),[[code]](https://github.com/HuangZengyi/FEDL)
 
 
 ### Quantum
