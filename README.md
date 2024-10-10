@@ -212,6 +212,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Z. A. E. Houda, H. Moudoud, B. Brik and M. Adil, "A Privacy-Preserving Framework for Efficient Network Intrusion Detection in Consumer Network Using Quantum Federated Learning," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3458985. [[paper]](https://ieeexplore.ieee.org/abstract/document/10679217)
 - [Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving),people:[[Rui Song]](https://rruisong.github.io/)
 - M. Tang, Z. Huang and G. Deng, "FEDL: Confidential Deep Learning for Autonomous Driving in VANETs Based on Functional Encryption," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3454711. [[paper]](https://ieeexplore.ieee.org/abstract/document/10689332),[[code]](https://github.com/HuangZengyi/FEDL)
+- Federated Learning Framework for Intrusion Detection System in Internet of Vehicles with Memory-Augmented Deep Autoencoder [[paper]](https://assets-eu.researchsquare.com/files/rs-5007599/v1_covered_7c427423-d826-4a43-9265-cc6f93882ea6.pdf?c=1727928196)
 
 
 ### Quantum
