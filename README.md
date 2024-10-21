@@ -187,9 +187,16 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 ### V2X Misbehavior Simulation Platform
 - [VeReMi](https://github.com/VeReMi-dataset/veins)
 - [F2MD](https://github.com/josephkamel/F2MD)
+  - J. Kamel, M. R. Ansari, J. Petit, A. Kaiser, I. B. Jemaa and P. Urien, "Simulation Framework for Misbehavior Detection in Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 69, no. 6, pp. 6631-6643, June 2020, doi: 10.1109/TVT.2020.2984878. [[paper]](https://ieeexplore.ieee.org/document/9056489)
 - [V2X Application Spoofing Platform (VASP)](https://github.com/quic/vasp)
+  - Ansari, M.R., Petit, J., Monteuuis, J.P. and Chen, C., 2023. VASP: V2X Application Spoofing Platform. In Proceedings Inaugural International Symposium on Vehicle Security & Privacy, ndss-symposium. [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23071-paper.pdf)
 - [CarlaSumoArtery-CoSimulation](https://github.com/mohammedLamine/CarlaSumoArtery-CoSimulation)
+  - Demo: A Simulator for Cooperative and Automated Driving Security [[paper]](https://www.ndss-symposium.org/wp-content/uploads/autosec2022_23014_paper.pdf)
 - [A4MD](https://github.com/ibr-cm/a4md)
+  - A. Willecke, B. Kulke and L. C. Wolf, "A4MD: Artery for Misbehavior Detection, Reporting, and Reaction in the ETSI C-ITS," 2023 IEEE Vehicular Networking Conference (VNC), Istanbul, Turkiye, 2023, pp. 33-40, doi: 10.1109/VNC57357.2023.10136315.[[paper]](https://ieeexplore.ieee.org/abstract/document/10136315) 
+- [Platelet](https://gitlab.com/Matk3z/platelet)
+  - KAUTZ, M., HAMMI, B. and GARCIA-ALFARO, J., Platelet: Pioneering Security and Privacy Compliant Simulation for Intelligent Transportation Systems and V2X.[[paper]](https://www.researchgate.net/profile/Badis-Hammi/publication/384964158_Platelet_Pioneering_Security_and_Privacy_Compliant_Simulation_for_Intelligent_Transportation_Systems_and_V2X/links/670f89e2a8a4cc3adda0279e/Platelet-Pioneering-Security-and-Privacy-Compliant-Simulation-for-Intelligent-Transportation-Systems-and-V2X.pdf),[[video]](https://www.youtube.com/watch?v=WuIl59mwxi0)
+
 
 ## Privacy
 - H. Cheng, J. Yang, M. Shojafar, J. Cao, N. Jiang and Y. Liu, "VFAS: Reliable and Privacy-Preserving V2F Authentication Scheme for Road Condition Monitoring System in IoV," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7958-7972, June 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10049671),[[code]](https://github.com/PoisonousBelief/VANET_truth_discovery_simulation_platform) 
