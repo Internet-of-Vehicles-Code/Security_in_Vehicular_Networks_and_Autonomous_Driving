@@ -222,6 +222,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving),people:[[Rui Song]](https://rruisong.github.io/)
 - M. Tang, Z. Huang and G. Deng, "FEDL: Confidential Deep Learning for Autonomous Driving in VANETs Based on Functional Encryption," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3454711. [[paper]](https://ieeexplore.ieee.org/abstract/document/10689332),[[code]](https://github.com/HuangZengyi/FEDL)
 - Federated Learning Framework for Intrusion Detection System in Internet of Vehicles with Memory-Augmented Deep Autoencoder [[paper]](https://assets-eu.researchsquare.com/files/rs-5007599/v1_covered_7c427423-d826-4a43-9265-cc6f93882ea6.pdf?c=1727928196)
+- R. Zhang, J. Mao, H. Wang, B. Li, X. Cheng and L. Yang, "A Survey on Federated Learning in Intelligent Transportation Systems," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3446319. [[paper]](https://ieeexplore.ieee.org/abstract/document/10640239)
 
 
 ### Quantum
