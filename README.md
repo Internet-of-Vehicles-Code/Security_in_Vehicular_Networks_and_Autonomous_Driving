@@ -225,6 +225,10 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - R. Zhang, J. Mao, H. Wang, B. Li, X. Cheng and L. Yang, "A Survey on Federated Learning in Intelligent Transportation Systems," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3446319. [[paper]](https://ieeexplore.ieee.org/abstract/document/10640239)
 
 
+### LLM
+- Kheddar, Hamza. "Transformers and large language models for efficient intrusion detection systems: A comprehensive survey." arXiv preprint arXiv:2408.07583 (2024). [[paper]](https://arxiv.org/abs/2408.07583)
+
+
 ### Quantum
 - 李拓. 量子保密通信技术融合车联网的应用研究[J]. 信息安全与通信保密,2024(3):77-90. DOI:10.3969/j.issn.1009-8054.2024.03.010.[paper](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjQwNzA0EhJ4eGFxeXR4Ym0yMDI0MDMwMTAaCG4zaWRpb2M1)
 - [信通院：量子保密通信技术发展及应用前沿报告(2020年)](https://www.china-cic.cn/upload/202012/05/c8f66ddd075d4b59bf51a1f80e4faa61.pdf)
