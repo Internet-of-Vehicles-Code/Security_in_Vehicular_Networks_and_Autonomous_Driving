@@ -79,6 +79,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Zhang, Jiahao, et al. "On Enhancing Intersection Applications With Misbehavior Detection and Mitigation." The 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall). 2024.[[paper]](https://hal.science/hal-04672473v1/file/MBDImpact_final_version.pdf)
 - L. Yang and A. Shami, “Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection,” in Proceedings of the Workshop on Autonomous Cybersecurity (AutonomousCyber ’24), 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS’24), 2024, pp. 1–11. doi: 10.1145/3689933.3690833. [[paper]](https://arxiv.org/pdf/2409.03141),[[code]](https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System)
 - Gorine, Adam, and Christopher Agboile. "Securing V2X Communication: DDoS Attack Implementation and Mitigation via VEINS Simulation." [[paper]](https://ijmrap.com/wp-content/uploads/2024/08/IJMRAP-V7N3P60Y24.pdf),[[code]](https://github.com/Chrisagboile/ddosveins)
+- H. Qian, H. Chai, A. Hawbani, Y. Bi, N. Lin and L. Zhao, "A Collaborative Error Detection and Correction Scheme for Safety Message in V2X," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3494713. [[paper]](https://ieeexplore.ieee.org/abstract/document/10748398),[[code]](https://github.com/NetworkCommunication/detectCorrect)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
