@@ -35,6 +35,7 @@
 ### 车联网、车路协同、智能网联、自动驾驶
 - [中汽协会：车路云一体化应用实践白皮书（2024.11）](https://mp.weixin.qq.com/s/P-iyWoEo4my-z2ubFKg4HQ)
 - [中汽协会：车路云一体化系统建设与应用指南（2024.10）](https://mp.weixin.qq.com/s/y9kBoISCLvke_9AtUjMJPQ)
+- [移动通信及车联网国家工程研究中心:车路云一体化系统C-V2X车车-车路协同典型应用场景及实施参考（V1.0发布稿，2024.10）](https://mp.weixin.qq.com/s/Agae78N2krwZLBPQbjFk3w)
 - [赛文研究院：2023中国车路协同发展研究报告（2023.12）](http://data.7its.com/index.php?m=home&c=view&a=view_article_2l_bg&aid=20759)
 - [中国联通：基于5G+MEC+C-V2X融合的车路云一体化解决方案白皮书2.0（2023.11）](https://mp.weixin.qq.com/s/PR1sRdx48bjYYUp1txIE8Q)
 - [中国信通院：车联网白皮书（2023）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231221344824574866.pdf)
