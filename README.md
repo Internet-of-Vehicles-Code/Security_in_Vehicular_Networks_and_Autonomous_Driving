@@ -229,6 +229,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Federated Learning Framework for Intrusion Detection System in Internet of Vehicles with Memory-Augmented Deep Autoencoder [[paper]](https://assets-eu.researchsquare.com/files/rs-5007599/v1_covered_7c427423-d826-4a43-9265-cc6f93882ea6.pdf?c=1727928196)
 - R. Zhang, J. Mao, H. Wang, B. Li, X. Cheng and L. Yang, "A Survey on Federated Learning in Intelligent Transportation Systems," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3446319. [[paper]](https://ieeexplore.ieee.org/abstract/document/10640239)
 - G. Digregorio, E. Cainazzo, S. Longari, M. Carminati and S. Zanero, "Evaluating the Impact of Privacy-Preserving Federated Learning on CAN Intrusion Detection," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-7.[[paper]](https://ieeexplore.ieee.org/abstract/document/10683636)
+- J. Huang, Y. Jiang, S. Gyawali, Z. Zhou and F. Zhong, "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks," 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington, DC, USA, 2024, pp. 1-6.[[paper]](https://ieeexplore.ieee.org/abstract/document/10757542)
 
 
 ### LLM
