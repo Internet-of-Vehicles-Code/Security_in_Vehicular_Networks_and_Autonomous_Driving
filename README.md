@@ -184,6 +184,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 
 ## Thesis
 - Lioy, Antonio, and Erasmo Notaro. "Simulating Malicious Attacks on VANETs for Connected and Autonomous Vehicles." (2023). [[thesis]](https://webthesis.biblio.polito.it/29324/1/tesi.pdf)
+- Junaidi, Danial Ritzuan. "Security enhancements for autonomous vehicle communication networks." (2024). [[thesis]](https://dr.ntu.edu.sg/bitstream/10356/181389/2/Thesis_Danial%20Ritzuan%20Bin%20Junaidi%20-%20AMEND%20%28Signed%29%20-%20DR-NTU.pdf)
 
 
 ### Dataset
