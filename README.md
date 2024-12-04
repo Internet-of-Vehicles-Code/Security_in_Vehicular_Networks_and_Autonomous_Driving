@@ -55,6 +55,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Solaas, J. R. V., Tuptuk, N., & Mariconti, E. (2024). Systematic Review: Anomaly Detection in Connected and Autonomous Vehicles. arXiv preprint arXiv:2405.02731. [[paper]](https://arxiv.org/abs/2405.02731)
 - Kheddar, Hamza. "Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey." arXiv preprint arXiv:2408.07583 (2024). [[paper]](https://arxiv.org/pdf/2408.07583)
 - U. Ahmad et al., "A Comprehensive Survey and Tutorial on Smart Vehicles: Emerging Technologies, Security Issues, and Solutions Using Machine Learning," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3419988. [[paper]](https://ieeexplore.ieee.org/abstract/document/10592823)
+- J. R. V. Solaas, E. Mariconti and N. Tuptuk, "Systematic Literature Review: Anomaly Detection in Connected and Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3495031. [[paper]](https://ieeexplore.ieee.org/abstract/document/10771587)
 
 ### Chinese
 -  况博裕,李雨泽,顾芳铭,等. 车联网安全研究综述:威胁、对策与未来展望[J]. 计算机研究与发展,2023,60(10):2304-2321. DOI:10.7544/issn1000-1239.202330464. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2p5anlmejIwMjMxMDAwORoId3A5ZXByNmQ%3D)
