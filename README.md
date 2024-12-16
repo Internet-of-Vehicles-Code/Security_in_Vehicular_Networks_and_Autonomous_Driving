@@ -127,6 +127,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Auto-CIDS: An Autonomous Intrusion Detection System for Vehicular Networks [[paper]](https://www.researchgate.net/profile/Abbas-Yazdinejad/publication/385643439_Auto-CIDS_An_Autonomous_Intrusion_Detection_System_for_Vehicular_Networks/links/672e148577b63d1220e5a570/Auto-CIDS-An-Autonomous-Intrusion-Detection-System-for-Vehicular-Networks.pdf)
 - Liu, Q., Liu, Y., Li, R., Cao, C., Li, Y., Li, X., Wang, P. and Feng, R., 2024. MDHP-Net: Detecting Injection Attacks on In-vehicle Network using Multi-Dimensional Hawkes Process and Temporal Model. arXiv preprint arXiv:2411.10258. [[paper]](https://arxiv.org/pdf/2411.10258),[[code]](https://github.com/Tiara8735/MDHP-Net-Anonymous)
 - W. Aljabri, M. A. Hamid and R. Mosli, "Lightweight and Adaptive Data-Driven Intrusion Detection System for Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3509459. [[paper]](https://ieeexplore.ieee.org/abstract/document/10790922)
+- S. Li, Y. Cao, Y. Zhang, T. Liao, F. Yan and H. Lin, "A Cloud Collaborative-based Intrusion Detection and Prevention System for IVN," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2024.3516052.[[paper]](https://ieeexplore.ieee.org/abstract/document/10794682),[[dataset]](https://github.com/yuecao871441562/IVAD)
 
 
 
@@ -234,6 +235,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - R. Zhang, J. Mao, H. Wang, B. Li, X. Cheng and L. Yang, "A Survey on Federated Learning in Intelligent Transportation Systems," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3446319. [[paper]](https://ieeexplore.ieee.org/abstract/document/10640239)
 - G. Digregorio, E. Cainazzo, S. Longari, M. Carminati and S. Zanero, "Evaluating the Impact of Privacy-Preserving Federated Learning on CAN Intrusion Detection," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-7.[[paper]](https://ieeexplore.ieee.org/abstract/document/10683636)
 - J. Huang, Y. Jiang, S. Gyawali, Z. Zhou and F. Zhong, "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks," 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington, DC, USA, 2024, pp. 1-6.[[paper]](https://ieeexplore.ieee.org/abstract/document/10757542)
+- P. Liu, Q. He, Y. Chen, S. Jiang, B. Zhao and X. Wang, "A Lightweight Authentication and Privacy-Preserving Aggregation for Blockchain-Enabled Federated Learning in VANETs," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3512545. [[paper]](https://ieeexplore.ieee.org/abstract/document/10791443)
 
 
 ### LLM
