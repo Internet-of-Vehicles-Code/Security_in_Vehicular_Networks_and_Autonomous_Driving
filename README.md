@@ -126,6 +126,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - J. Zhang, Z. Pan, J. Cui, H. Zhong, J. Li and D. He, "Toward Open-Set Intrusion Detection in VANETs: An Efficient Meta-Recognition Approach," in IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2024.3459087. [[paper]](https://ieeexplore.ieee.org/abstract/document/10678809)
 - Auto-CIDS: An Autonomous Intrusion Detection System for Vehicular Networks [[paper]](https://www.researchgate.net/profile/Abbas-Yazdinejad/publication/385643439_Auto-CIDS_An_Autonomous_Intrusion_Detection_System_for_Vehicular_Networks/links/672e148577b63d1220e5a570/Auto-CIDS-An-Autonomous-Intrusion-Detection-System-for-Vehicular-Networks.pdf)
 - Liu, Q., Liu, Y., Li, R., Cao, C., Li, Y., Li, X., Wang, P. and Feng, R., 2024. MDHP-Net: Detecting Injection Attacks on In-vehicle Network using Multi-Dimensional Hawkes Process and Temporal Model. arXiv preprint arXiv:2411.10258. [[paper]](https://arxiv.org/pdf/2411.10258),[[code]](https://github.com/Tiara8735/MDHP-Net-Anonymous)
+- W. Aljabri, M. A. Hamid and R. Mosli, "Lightweight and Adaptive Data-Driven Intrusion Detection System for Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3509459. [[paper]](https://ieeexplore.ieee.org/abstract/document/10790922)
 
 
 
@@ -174,6 +175,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Nazat, S. and Abdallah, M., 2024. XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems. arXiv preprint arXiv:2410.15405. [[paper]](https://arxiv.org/pdf/2410.15405),[[code]](https://github.com/Nazat28/XAI-based-Feature-Ensemble-for-Enhanced-Anomaly-Detection-in-Autonomous-Driving-Systems) 
 - Nazat, S., Arreche, O. and Abdallah, M., 2024. On Evaluating Black-Box Explainable AI Methods for Enhancing Anomaly Detection in Autonomous Driving Systems. Sensors, 24(11), p.3515. [[paper]](https://www.mdpi.com/1424-8220/24/11/3515),[[code]](https://github.com/Nazat28/EXAI_ADS)
 - R. Sultana, J. Grover, M. Tripathi and P. Sharma, "LA-DETECTS: Local and Adaptive Data-Centric Misbehavior Detection Framework for Vehicular Technology Security," in IEEE Open Journal of Vehicular Technology, doi: 10.1109/OJVT.2024.3513152. [[paper]](https://ieeexplore.ieee.org/abstract/document/10782992)
+- Y. Huang and M. Ma, "AILL-IDS: An Automatic Incremental Lifetime Learning Intrusion Detection System for Vehicular Ad Hoc Networks," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3510584. [[paper]](https://ieeexplore.ieee.org/abstract/document/10790549)
 - [code: Veremi-dataset-classification](https://github.com/aektasharma/Veremi-dataset-classification)
 - [code: Classifying different types of attacks in VANET system using federated learning](https://github.com/mbhurtel/Federated-Learning-VANET)
 - [code: Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles](https://github.com/kushagra-2503/Artificial-Intelligence-Enabled-Security-Provisioning-for-Autonomous-Vehicles)
