@@ -60,7 +60,7 @@ Guofei Gu: [Computer Security Conference Ranking and Statistic](https://people.e
 
 
 ## 投稿相关要求（页数、模板、格式要求等）
-
+- [Potential Article Processing Charges](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Processing-Charges-List.pdf)
 ### TITS
 - [Submission Information: Information for Authors](https://ieee-itss.org/pub/t-its/)
 - Authors can choose among 4 kinds of papers, each with its suggested length in IEEE style: 
