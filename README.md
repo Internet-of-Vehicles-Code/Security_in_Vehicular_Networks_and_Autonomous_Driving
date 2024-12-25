@@ -128,6 +128,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Liu, Q., Liu, Y., Li, R., Cao, C., Li, Y., Li, X., Wang, P. and Feng, R., 2024. MDHP-Net: Detecting Injection Attacks on In-vehicle Network using Multi-Dimensional Hawkes Process and Temporal Model. arXiv preprint arXiv:2411.10258. [[paper]](https://arxiv.org/pdf/2411.10258),[[code]](https://github.com/Tiara8735/MDHP-Net-Anonymous)
 - W. Aljabri, M. A. Hamid and R. Mosli, "Lightweight and Adaptive Data-Driven Intrusion Detection System for Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3509459. [[paper]](https://ieeexplore.ieee.org/abstract/document/10790922)
 - S. Li, Y. Cao, Y. Zhang, T. Liao, F. Yan and H. Lin, "A Cloud Collaborative-based Intrusion Detection and Prevention System for IVN," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2024.3516052.[[paper]](https://ieeexplore.ieee.org/abstract/document/10794682),[[dataset]](https://github.com/yuecao871441562/IVAD)
+- T. Zhang et al., "Hybrid Transfer and Self-Supervised Learning Approaches in Neural Networks for Intelligent Vehicle Intrusion Detection and Analysis," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3518636. [[paper]](https://ieeexplore.ieee.org/abstract/document/10804111)
 
 
 

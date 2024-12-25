@@ -76,3 +76,4 @@
 - [IMT-2020(5G)推进组-成果发布合集](https://www.imt2020.org.cn/html/default/zh/chengguofabu/baipishu/index.html?index=3)
 - [IMT-2030(6G)推进组-成果发布合集](https://www.imt2030.org.cn/html/default/zhongwen/chengguofabu/index.html?index=2)
 - [全国汽车标准化技术委员会-智能网联汽车-研究报告合集](http://www.catarc.org.cn/wl_ziliaoxiazai.html)
+- [5GAA-Publications](https://5gaa.org/publications/)
