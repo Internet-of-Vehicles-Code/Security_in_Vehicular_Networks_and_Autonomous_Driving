@@ -129,6 +129,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - W. Aljabri, M. A. Hamid and R. Mosli, "Lightweight and Adaptive Data-Driven Intrusion Detection System for Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3509459. [[paper]](https://ieeexplore.ieee.org/abstract/document/10790922)
 - S. Li, Y. Cao, Y. Zhang, T. Liao, F. Yan and H. Lin, "A Cloud Collaborative-based Intrusion Detection and Prevention System for IVN," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2024.3516052.[[paper]](https://ieeexplore.ieee.org/abstract/document/10794682),[[dataset]](https://github.com/yuecao871441562/IVAD)
 - T. Zhang et al., "Hybrid Transfer and Self-Supervised Learning Approaches in Neural Networks for Intelligent Vehicle Intrusion Detection and Analysis," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3518636. [[paper]](https://ieeexplore.ieee.org/abstract/document/10804111)
+- Ye, P., Liang, Y., Bie, Y., Qin, G., Song, J., Wang, Y. and Liu, W., 2025. GDT-IDS: Graph-based Decision Tree Intrusion Detection System for Controller Area Network.[[paper]](https://assets-eu.researchsquare.com/files/rs-5729072/v1_covered_53950da2-ac5d-412a-8b20-5e8cec733f23.pdf?c=1735803888)
 
 
 
