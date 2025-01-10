@@ -91,6 +91,7 @@
 - Cooperative perception security
 - Tao, Y., Hu, S., Hu, Y., An, H., Cao, H. and Fang, Y., 2025. GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection. arXiv preprint arXiv:2501.02450. [[paper]](https://arxiv.org/pdf/2501.02450),[[code]](https://github.com/CP-Security/GCP)
 - Zhou, H., Xie, E., Shao, W., Gao, D., Dong, M. and Zhang, J., 2024. EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models. arXiv preprint arXiv:2412.09782.[[paper]](https://arxiv.org/abs/2412.09782),[[homepage]](https://ucd-dare.github.io/eidrive.github.io/),[[code]](https://github.com/ucd-dare/EI-Drive)
+- Zhang, Q., Jin, S., Zhu, R., Sun, J., Zhang, X., Chen, Q.A. and Mao, Z.M., 2024. On data fabrication in collaborative vehicular perception: Attacks and countermeasures. In 33rd USENIX Security Symposium (USENIX Security 24) (pp. 6309-6326). [[paper]](https://www.usenix.org/system/files/usenixsecurity24-zhang-qingzhao.pdf),[[homepage]](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao)
 
 ### chinese
 - 许皓玮. 蜂窝车联网场景中的协同感知技术研究[D].南京邮电大学,2023.[[paper]](https://kns.cnki.net/kcms2/article/abstract?v=VoBN4ANGQ4dfs7-C6TzmUgzS3IyEBHThkn7ANlKyi9NQ0tA3IrFVj4cOSoe_M4oITZot8Yxg-5TPJt4Ya-lG-yysi9K43n_2woRD6zY7grrqeE_Teeiu9_un2uAuQNllnXHDN3JLv4xWFcC-DNtFzw==&uniplatform=NZKPT&language=CHS)
