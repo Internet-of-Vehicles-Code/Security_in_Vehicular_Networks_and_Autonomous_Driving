@@ -250,6 +250,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - [信通院：量子保密通信技术发展及应用前沿报告(2020年)](https://www.china-cic.cn/upload/202012/05/c8f66ddd075d4b59bf51a1f80e4faa61.pdf)
 - [信通院：量子信息技术发展与应用研究报告(2022年)](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107433234479315.pdf)
 - [信通院：量子信息技术发展与应用研究报告(2023年)](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326616760506829.pdf)
+- Aslam, A.M., Bhardwaj, A. and Chaudhary, R., 2025. Quantum-Resilient Blockchain-Enabled Secure Communication Framework for Connected Autonomous Vehicles using Post-Quantum Cryptography. Vehicular Communications, p.100880. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209625000075)
 
 ### Zero Trust
 - [信通院：网络安全先进技术与应用发展系列报告零信任技术(Zero Trust)2020](https://pdf.dfcfw.com/pdf/H3_AP202008141398426442_1.pdf)

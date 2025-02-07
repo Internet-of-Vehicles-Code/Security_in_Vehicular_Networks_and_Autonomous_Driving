@@ -33,6 +33,7 @@
 - [中国信通院-车联网网络安全白皮书（2017 年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201804/P020170921430215345026.pdf)
 
 ### 车联网、车路协同、智能网联、自动驾驶
+- [信通院：车联网蓝皮书（数据赋能）（2025.01）](https://www.caict.ac.cn/kxyj/qwfb/bps/202501/P020250123581914886500.pdf)
 - [中汽协会：车路云一体化应用实践白皮书（2024.11）](https://mp.weixin.qq.com/s/P-iyWoEo4my-z2ubFKg4HQ)
 - [中汽协会：车路云一体化系统建设与应用指南（2024.10）](https://mp.weixin.qq.com/s/y9kBoISCLvke_9AtUjMJPQ)
 - [移动通信及车联网国家工程研究中心:车路云一体化系统C-V2X车车-车路协同典型应用场景及实施参考（V1.0发布稿，2024.10）](https://mp.weixin.qq.com/s/Agae78N2krwZLBPQbjFk3w)
