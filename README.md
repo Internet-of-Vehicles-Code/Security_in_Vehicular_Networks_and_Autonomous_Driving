@@ -130,6 +130,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - S. Li, Y. Cao, Y. Zhang, T. Liao, F. Yan and H. Lin, "A Cloud Collaborative-based Intrusion Detection and Prevention System for IVN," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2024.3516052.[[paper]](https://ieeexplore.ieee.org/abstract/document/10794682),[[dataset]](https://github.com/yuecao871441562/IVAD)
 - T. Zhang et al., "Hybrid Transfer and Self-Supervised Learning Approaches in Neural Networks for Intelligent Vehicle Intrusion Detection and Analysis," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3518636. [[paper]](https://ieeexplore.ieee.org/abstract/document/10804111)
 - Ye, P., Liang, Y., Bie, Y., Qin, G., Song, J., Wang, Y. and Liu, W., 2025. GDT-IDS: Graph-based Decision Tree Intrusion Detection System for Controller Area Network.[[paper]](https://assets-eu.researchsquare.com/files/rs-5729072/v1_covered_53950da2-ac5d-412a-8b20-5e8cec733f23.pdf?c=1735803888)
+- H. Xu et al., "MULSAM: Multidimensional Attention With Hardware Acceleration for Efficient Intrusion Detection on Vehicular CAN Bus," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2025.3541566. [[paper]](https://ieeexplore.ieee.org/abstract/document/10883332)
 
 
 
