@@ -240,6 +240,8 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - G. Digregorio, E. Cainazzo, S. Longari, M. Carminati and S. Zanero, "Evaluating the Impact of Privacy-Preserving Federated Learning on CAN Intrusion Detection," 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-7.[[paper]](https://ieeexplore.ieee.org/abstract/document/10683636)
 - J. Huang, Y. Jiang, S. Gyawali, Z. Zhou and F. Zhong, "Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks," 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington, DC, USA, 2024, pp. 1-6.[[paper]](https://ieeexplore.ieee.org/abstract/document/10757542)
 - P. Liu, Q. He, Y. Chen, S. Jiang, B. Zhao and X. Wang, "A Lightweight Authentication and Privacy-Preserving Aggregation for Blockchain-Enabled Federated Learning in VANETs," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3512545. [[paper]](https://ieeexplore.ieee.org/abstract/document/10791443)
+- X. Nie, C. Wang, T. Zhou, Q. Zhou, X. Zhu and J. Zhang, "Mobility-Aware Cooperative Caching in IoVs Based on Secure Asynchronous Federated and Deep Reinforcement Learning," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3544368.[[paper]](https://ieeexplore.ieee.org/abstract/document/10897791)
+- S. Lu et al., "Clustered Federated Learning With Adaptive Pruning for 6G Edge-Intelligent Transportation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3540519. [[paper]](https://ieeexplore.ieee.org/abstract/document/10899397)
 
 
 ### LLM
