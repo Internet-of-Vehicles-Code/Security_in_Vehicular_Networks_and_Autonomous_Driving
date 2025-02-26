@@ -76,7 +76,7 @@
 - [中国汽车工程学会-行业报告合集](https://zhishi.sae-china.org/report.html)
 - [IMT-2020(5G)推进组-成果发布合集](https://www.imt2020.org.cn/html/default/zh/chengguofabu/baipishu/index.html?index=3)
 - [IMT-2030(6G)推进组-成果发布合集](https://www.imt2030.org.cn/html/default/zhongwen/chengguofabu/index.html?index=2)
-- [全国汽车标准化技术委员会-智能网联汽车-研究报告合集](http://www.catarc.org.cn/wl_ziliaoxiazai.html)
+- [全国汽车标准化技术委员会-智能网联汽车-研究报告合集](https://www.catarc.org.cn/znwl/sy/index.html)
 - [5GAA-Publications](https://5gaa.org/publications/)
 - [中国移动研究院行业观察-白皮书合集](https://cmri.chinamobile.com/insight/insight_category/technology)
 - [中国联通研究院-白皮书合集](https://mp.weixin.qq.com/mp/homepage?__biz=MzU4OTU2MjgzMg==&hid=35&sn=a8f451b8b9e94629c1cdedc7acf6c05e&scene=1&devicetype=android-31&version=28003739&lang=zh_CN&nettype=3gnet&ascene=7&session_us=gh_44eb2d03be25)
