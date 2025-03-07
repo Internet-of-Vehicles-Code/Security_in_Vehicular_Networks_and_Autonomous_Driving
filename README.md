@@ -131,6 +131,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - T. Zhang et al., "Hybrid Transfer and Self-Supervised Learning Approaches in Neural Networks for Intelligent Vehicle Intrusion Detection and Analysis," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3518636. [[paper]](https://ieeexplore.ieee.org/abstract/document/10804111)
 - Ye, P., Liang, Y., Bie, Y., Qin, G., Song, J., Wang, Y. and Liu, W., 2025. GDT-IDS: Graph-based Decision Tree Intrusion Detection System for Controller Area Network.[[paper]](https://assets-eu.researchsquare.com/files/rs-5729072/v1_covered_53950da2-ac5d-412a-8b20-5e8cec733f23.pdf?c=1735803888)
 - H. Xu et al., "MULSAM: Multidimensional Attention With Hardware Acceleration for Efficient Intrusion Detection on Vehicular CAN Bus," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2025.3541566. [[paper]](https://ieeexplore.ieee.org/abstract/document/10883332)
+- W. Liu, G. Qin, Y. Liang, J. Song, Q. Liu and X. Zhou, "ETFIDS: An Entropy-Driven, Time-Frequency Analysis Framework for In-Vehicle CAN Signal Intrusion Detection," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3547575. [[paper]](https://ieeexplore.ieee.org/abstract/document/10909103)
 
 
 
@@ -217,6 +218,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 ## Privacy
 - H. Cheng, J. Yang, M. Shojafar, J. Cao, N. Jiang and Y. Liu, "VFAS: Reliable and Privacy-Preserving V2F Authentication Scheme for Road Condition Monitoring System in IoV," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7958-7972, June 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10049671),[[code]](https://github.com/PoisonousBelief/VANET_truth_discovery_simulation_platform) 
 - Y. Liang, E. Luo and Y. Liu, "Physically Secure and Conditional-Privacy Authenticated Key Agreement for VANETs," in IEEE Transactions on Vehicular Technology, vol. 72, no. 6, pp. 7914-7925, June 2023, doi: 10.1109/TVT.2023.3241882. [[paper]](https://ieeexplore.ieee.org/abstract/document/10036137?signout=success),[[code]](https://github.com/AfarL/-cryptographic-operations)
+- Islam, N. and Zulkernine, M., 2025. Privacy-preserving Machine Learning in Internet of Vehicle Applications: Fundamentals, Recent Advances, and Future Direction. arXiv preprint arXiv:2503.01089. [[paper]](https://arxiv.org/pdf/2503.01089)
 
 ## Trust management
 - S. Zhang, R. He, Y. Xiao and Y. Liu, "A Three-Factor Based Trust Model for Anonymous Bacon Message in VANETs," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 11304-11317, Sept. 2023, doi: 10.1109/TVT.2023.3270333. [[paper]](https://ieeexplore.ieee.org/abstract/document/10108063),[[code]](https://github.com/zsongsong/ERCTM)
