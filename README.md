@@ -81,6 +81,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - L. Yang and A. Shami, “Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection,” in Proceedings of the Workshop on Autonomous Cybersecurity (AutonomousCyber ’24), 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS’24), 2024, pp. 1–11. doi: 10.1145/3689933.3690833. [[paper]](https://arxiv.org/pdf/2409.03141),[[code]](https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System)
 - Gorine, Adam, and Christopher Agboile. "Securing V2X Communication: DDoS Attack Implementation and Mitigation via VEINS Simulation." [[paper]](https://ijmrap.com/wp-content/uploads/2024/08/IJMRAP-V7N3P60Y24.pdf),[[code]](https://github.com/Chrisagboile/ddosveins)
 - H. Qian, H. Chai, A. Hawbani, Y. Bi, N. Lin and L. Zhao, "A Collaborative Error Detection and Correction Scheme for Safety Message in V2X," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3494713. [[paper]](https://ieeexplore.ieee.org/abstract/document/10748398),[[code]](https://github.com/NetworkCommunication/detectCorrect)
+- I. Ullah, I. Khalil, X. Bai, S. Garg, G. Kaddoum and M. Shamim, "An Ensemble-Based Hybrid Model for the Detection of Attacks in the Internet of Vehicular Things," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3547999.[[paper]](https://ieeexplore.ieee.org/abstract/document/10931828)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
@@ -132,6 +133,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Ye, P., Liang, Y., Bie, Y., Qin, G., Song, J., Wang, Y. and Liu, W., 2025. GDT-IDS: Graph-based Decision Tree Intrusion Detection System for Controller Area Network.[[paper]](https://assets-eu.researchsquare.com/files/rs-5729072/v1_covered_53950da2-ac5d-412a-8b20-5e8cec733f23.pdf?c=1735803888)
 - H. Xu et al., "MULSAM: Multidimensional Attention With Hardware Acceleration for Efficient Intrusion Detection on Vehicular CAN Bus," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2025.3541566. [[paper]](https://ieeexplore.ieee.org/abstract/document/10883332)
 - W. Liu, G. Qin, Y. Liang, J. Song, Q. Liu and X. Zhou, "ETFIDS: An Entropy-Driven, Time-Frequency Analysis Framework for In-Vehicle CAN Signal Intrusion Detection," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3547575. [[paper]](https://ieeexplore.ieee.org/abstract/document/10909103)
+- Wang, K., Sun, Z., Wang, B., Fan, Q., Li, M. and Zhang, H., 2025. ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems. arXiv preprint arXiv:2503.17067.[[paper]](https://arxiv.org/abs/2503.17067),[[code]](https://github.com/wangkai-tech23/ATHENA),[[Wangkai]](https://wangkai-tech23.github.io/)
 
 
 
