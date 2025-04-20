@@ -134,6 +134,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - H. Xu et al., "MULSAM: Multidimensional Attention With Hardware Acceleration for Efficient Intrusion Detection on Vehicular CAN Bus," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2025.3541566. [[paper]](https://ieeexplore.ieee.org/abstract/document/10883332)
 - W. Liu, G. Qin, Y. Liang, J. Song, Q. Liu and X. Zhou, "ETFIDS: An Entropy-Driven, Time-Frequency Analysis Framework for In-Vehicle CAN Signal Intrusion Detection," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3547575. [[paper]](https://ieeexplore.ieee.org/abstract/document/10909103)
 - Wang, K., Sun, Z., Wang, B., Fan, Q., Li, M. and Zhang, H., 2025. ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems. arXiv preprint arXiv:2503.17067.[[paper]](https://arxiv.org/abs/2503.17067),[[code]](https://github.com/wangkai-tech23/ATHENA),[[Wangkai]](https://wangkai-tech23.github.io/)
+- Liu, Q., Liu, Y., Li, R., Cao, C., Li, Y., Li, X., Wang, P., Feng, R. and Bu, S., 2025. MDHP-Net: Detecting an Emerging Time-exciting Threat in IVN. arXiv preprint arXiv:2504.11867.[[paper]](https://arxiv.org/pdf/2504.11867),[[code]](https://github.com/Tiara8735/MDHP-Net-Anonymous)
 
 
 
@@ -197,11 +198,12 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 ## Thesis
 - Lioy, Antonio, and Erasmo Notaro. "Simulating Malicious Attacks on VANETs for Connected and Autonomous Vehicles." (2023). [[thesis]](https://webthesis.biblio.polito.it/29324/1/tesi.pdf)
 - Junaidi, Danial Ritzuan. "Security enhancements for autonomous vehicle communication networks." (2024). [[thesis]](https://dr.ntu.edu.sg/bitstream/10356/181389/2/Thesis_Danial%20Ritzuan%20Bin%20Junaidi%20-%20AMEND%20%28Signed%29%20-%20DR-NTU.pdf)
+- Wang, E., 2025. The Effects of Vehicular Maneuvers in Misbehavior Detection System.[[thesis]](https://www.diva-portal.org/smash/get/diva2:1948939/FULLTEXT01.pdf)
 
 
 ### Dataset
 - VeReMi: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs. [[paper]](https://browse.arxiv.org/pdf/1804.06701.pdf),[[homepage]](https://veremi-dataset.github.io/),[[github]](https://github.com/VeReMi-dataset/VeReMi)
-- J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)、
+- J. Kamel, M. Wolf, R. W. van der Hei, A. Kaiser, P. Urien and F. Kargl, "VeReMi Extension: A Dataset for Comparable Evaluation of Misbehavior Detection in VANETs," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9149132. [[paper]](https://ieeexplore.ieee.org/document/9149132),[[download]](https://mega.nz/folder/z0pnGA4a#WFEUISyS5_maabhcEI7HQA),[[github]](https://github.com/josephkamel/VeReMi-Dataset)
 
 ### V2X Misbehavior Simulation Platform
 - [VeReMi](https://github.com/VeReMi-dataset/veins)
