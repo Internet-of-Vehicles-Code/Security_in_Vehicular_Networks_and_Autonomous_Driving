@@ -36,7 +36,7 @@ Guofei Gu: [Computer Security Conference Ranking and Statistic](https://people.e
 
 [分区查询：中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Default.aspx)
 
-[中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
+[中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/6141/6141)
 | journal | Description | Rank | All issues |
 | :---: | :---: | :---: | :---: |
 | IEEE Journal on Selected Areas in Communications (JSAC) | 通信领域顶级期刊;CCF-A | Q1 | [Link](https://ieeexplore.ieee.org/xpl/issues?punumber=49&isnumber=10224761) |
