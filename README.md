@@ -135,6 +135,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - W. Liu, G. Qin, Y. Liang, J. Song, Q. Liu and X. Zhou, "ETFIDS: An Entropy-Driven, Time-Frequency Analysis Framework for In-Vehicle CAN Signal Intrusion Detection," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3547575. [[paper]](https://ieeexplore.ieee.org/abstract/document/10909103)
 - Wang, K., Sun, Z., Wang, B., Fan, Q., Li, M. and Zhang, H., 2025. ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems. arXiv preprint arXiv:2503.17067.[[paper]](https://arxiv.org/abs/2503.17067),[[code]](https://github.com/wangkai-tech23/ATHENA),[[Wangkai]](https://wangkai-tech23.github.io/)
 - Liu, Q., Liu, Y., Li, R., Cao, C., Li, Y., Li, X., Wang, P., Feng, R. and Bu, S., 2025. MDHP-Net: Detecting an Emerging Time-exciting Threat in IVN. arXiv preprint arXiv:2504.11867.[[paper]](https://arxiv.org/pdf/2504.11867),[[code]](https://github.com/Tiara8735/MDHP-Net-Anonymous)
+- L. Wei, J. Yang, H. Jin, J. Cui, J. Li and D. He, "Sustainable Learning-Based Intrusion Detection System for VANETs," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3562226.[[paper]](https://ieeexplore.ieee.org/abstract/document/10979332)
 
 
 
