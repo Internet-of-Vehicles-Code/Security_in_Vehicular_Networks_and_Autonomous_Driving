@@ -76,3 +76,13 @@ An author may submit papers that exceeds the suggested length but after the fina
 ### IoTJ
 - [Author Guideline](https://ieee-iotj.org/guidelines-for-authors/)
 - The author(s) or their company/institution will be billed $175 per page in excess of the first eight published pages.
+
+
+### TMC
+- [Submitting a Paper to IEEE Transactions on Mobile Computing](https://www.computer.org/csdl/journal/tm/write-for-us/15075?title=Author%20Information&periodical=IEEE%20Transactions%20on%20Mobile%20Computing)
+- TMC manuscript types and submission length guidelines are described below. All page limits include references and author biographies. For regular papers, pages in excess of these limits after final layout of the accepted manuscript is complete are subject to Mandatory Overlength Page Charges (MOPC). Note: All supplemental material must be submitted as separate files and must not be included within the same PDF file as the main paper submission. There is no page limit on supplemental files. 
+
+- Regular paper – 12 double column pages (**Submissions may be up to 18 pages in length**, subject to MOPC. All regular paper page limits include references and author biographies.)
+- Comments paper – 2 double column pages
+
+A double column page is defined as a 7.875″ x 10.75″ page with 9.5-point type and 11.5-point vertical spacing. These length limits are taking into account reasonably-sized figures and references.
