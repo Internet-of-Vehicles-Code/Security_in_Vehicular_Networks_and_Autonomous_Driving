@@ -63,11 +63,13 @@ Guofei Gu: [Computer Security Conference Ranking and Statistic](https://people.e
 - [Potential Article Processing Charges](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Processing-Charges-List.pdf)
 ### TITS
 - [Submission Information: Information for Authors](https://ieee-itss.org/pub/t-its/)
-- Authors can choose among 4 kinds of papers, each with its suggested length in IEEE style: 
-- **Regular Papers: 10 pages Short Papers: 6 pages**
+- Authors can choose among 4 kinds of papers, each with its suggested length in IEEE style:
+
+- **Regular Papers: 10 pages**
+- **Short Papers: 6 pages**
 - **Practitioner Papers: 6 pages**
 - **Survey Papers: 18 pages**
-An author may submit papers that exceeds the suggested length but after the final acceptance, provided they pay an over length charge of $175.00 (US dollars) for each extra page.
+**Authors may submit papers that exceed the suggested length by no more than 6 additional pages.** After the final acceptance, the authors will pay an over length charge of $175.00 (US dollars) for each extra page.
 
 ### TVT
 - [Instructions for Authors](https://vtsociety.org/publication/ieee-transactions-vehicular-technology/guidelines-authors/instructions)
