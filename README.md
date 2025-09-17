@@ -56,6 +56,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Kheddar, Hamza. "Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey." arXiv preprint arXiv:2408.07583 (2024). [[paper]](https://arxiv.org/pdf/2408.07583)
 - U. Ahmad et al., "A Comprehensive Survey and Tutorial on Smart Vehicles: Emerging Technologies, Security Issues, and Solutions Using Machine Learning," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3419988. [[paper]](https://ieeexplore.ieee.org/abstract/document/10592823)
 - J. R. V. Solaas, E. Mariconti and N. Tuptuk, "Systematic Literature Review: Anomaly Detection in Connected and Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3495031. [[paper]](https://ieeexplore.ieee.org/abstract/document/10771587)
+- G. O. Boateng et al., "A Survey on Large Language Models for Communication, Network, and Service Management: Application Insights, Challenges, and Future Directions," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2025.3564333.[[paper]](https://ieeexplore.ieee.org/document/10976701?reason=concurrency)
 
 ### Chinese
 -  况博裕,李雨泽,顾芳铭,等. 车联网安全研究综述:威胁、对策与未来展望[J]. 计算机研究与发展,2023,60(10):2304-2321. DOI:10.7544/issn1000-1239.202330464. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2p5anlmejIwMjMxMDAwORoId3A5ZXByNmQ%3D)
@@ -137,6 +138,7 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Liu, Q., Liu, Y., Li, R., Cao, C., Li, Y., Li, X., Wang, P., Feng, R. and Bu, S., 2025. MDHP-Net: Detecting an Emerging Time-exciting Threat in IVN. arXiv preprint arXiv:2504.11867.[[paper]](https://arxiv.org/pdf/2504.11867),[[code]](https://github.com/Tiara8735/MDHP-Net-Anonymous)
 - L. Wei, J. Yang, H. Jin, J. Cui, J. Li and D. He, "Sustainable Learning-Based Intrusion Detection System for VANETs," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3562226.[[paper]](https://ieeexplore.ieee.org/abstract/document/10979332)
 - J. Tan et al., "DATI-IDS: Domain Adaptation and Time-Series Imaging-Based Intrusion Detection System for Connected Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3587750. [[paper]](https://ieeexplore.ieee.org/abstract/document/11095369)
+- X. Li and H. Fu, "SecureBERT and Llama 2 Empowered Control Area Network Intrusion Detection and Classification," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3596915.[[paper]](https://ieeexplore.ieee.org/abstract/document/11124465)
 
 
 
