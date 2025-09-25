@@ -68,6 +68,9 @@
 - A. Willecke, B. Kulke and L. C. Wolf, "A4MD: Artery for Misbehavior Detection, Reporting, and Reaction in the ETSI C-ITS," 2023 IEEE Vehicular Networking Conference (VNC), Istanbul, Turkiye, 2023, pp. 33-40, doi: 10.1109/VNC57357.2023.10136315. [[paper]](https://ieeexplore.ieee.org/abstract/document/10136315),[[code]](https://github.com/ibr-cm/a4md)
 - M. S. Ali and P. Merdrignac, "Distributed Misbehavior Detection based on Vehicle Perception Model and CPM Data Collection," 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong, Hong Kong, 2023, pp. 1-5, doi: 10.1109/VTC2023-Fall60731.2023.10333637. [[paper]](https://ieeexplore.ieee.org/abstract/document/10333637)
 - . Grimm, M. Schindewolf, D. Kraus and E. Sax, "Co-simulate no more: The CARLA V2X Sensor," 2024 IEEE Intelligent Vehicles Symposium (IV), Jeju Island, Korea, Republic of, 2024, pp. 2429-2436, doi: 10.1109/IV55156.2024.10588488. [[paper]](https://ieeexplore.ieee.org/document/10588488),[[code]](https://github.com/carla-simulator/carla/pull/7490)
+- Ahmad, Minhaj Uddin, Akid Abrar, Sagar Dasgupta, and Mizanur Rahman. "OpenCAMS: An Open-Source Connected and Automated Mobility Co-Simulation Platform for Advancing Next-Generation Intelligent Transportation Systems Research." arXiv preprint arXiv:2507.09186 (2025).[[paper]](https://arxiv.org/pdf/2507.09186),[[code]](https://github.com/minhaj6/carla-sumo-omnetpp-cosim),[[video1]](https://www.youtube.com/watch?v=FmYy6aTucpQ),[[video2]](https://www.youtube.com/watch?v=E0PoBPkh720)
+- Ahmad, Minhaj Uddin, Akid Abrar, Sagar Dasgupta, and Mizanur Rahman. "End-to-End Co-Simulation Testbed for Cybersecurity Research and Development in Intelligent Transportation Systems." arXiv preprint arXiv:2509.16489 (2025).[[paper]](https://arxiv.org/pdf/2509.16489)
+
 
 
 ## Cooperative Perception
