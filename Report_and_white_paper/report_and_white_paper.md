@@ -65,6 +65,7 @@
 - [IMT-2020(5G)推进组-成果发布合集](https://www.imt2020.org.cn/html/default/zh/chengguofabu/baipishu/index.html?index=3)
 - [IMT-2020 C-V2X工作组成果展示合集](http://v2x.caict.ac.cn/index.html)
 - [IMT-2030(6G)推进组-成果发布合集](https://www.imt2030.org.cn/html/default/zhongwen/chengguofabu/index.html?index=2)
+- [全球6G技术与产业生态大会-资料下载](https://www.g6gconference.com/index/Lists/index.html?id=9)
 
 #### 其他机构
 - [北京电信技术发展产业协会：全球 5G/6G 产业发展报告（2023）](https://www.tdia.cn/Uploads/Editor/2023-03-21/64195c5ba93a5.pdf)
