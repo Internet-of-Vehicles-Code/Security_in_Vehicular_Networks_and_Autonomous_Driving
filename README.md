@@ -83,6 +83,8 @@ Top Conference [[paper]](./Security_in_Autonomous_driving/conference.md)
 - Gorine, Adam, and Christopher Agboile. "Securing V2X Communication: DDoS Attack Implementation and Mitigation via VEINS Simulation." [[paper]](https://ijmrap.com/wp-content/uploads/2024/08/IJMRAP-V7N3P60Y24.pdf),[[code]](https://github.com/Chrisagboile/ddosveins)
 - H. Qian, H. Chai, A. Hawbani, Y. Bi, N. Lin and L. Zhao, "A Collaborative Error Detection and Correction Scheme for Safety Message in V2X," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3494713. [[paper]](https://ieeexplore.ieee.org/abstract/document/10748398),[[code]](https://github.com/NetworkCommunication/detectCorrect)
 - I. Ullah, I. Khalil, X. Bai, S. Garg, G. Kaddoum and M. Shamim, "An Ensemble-Based Hybrid Model for the Detection of Attacks in the Internet of Vehicular Things," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3547999.[[paper]](https://ieeexplore.ieee.org/abstract/document/10931828)
+- Md Hasan Shahriar, Mohammad Raashid Ansari, Jean-Philippe Monteuuis, Md Shahedul Haque, Cong Chen, Jonathan Petit, Y. Thomas Hou, and Wenjing Lou. 2025. VehiGAN: Generative Adversarial Networks for Adversarially Robust V2X Misbehavior Detection Systems. ACM Trans. Cyber-Phys. Syst. 9, 3, Article 30 (July 2025), 26 pages.
+[[paper]](https://dl.acm.org/doi/full/10.1145/3745787),[[code]](https://github.com/shahriar0651/VehiGAN)
 
 | Name | Affiliation | Google scholar | IEEE | github |
 | :---: | :---: | :---: | :---: | :---: |
