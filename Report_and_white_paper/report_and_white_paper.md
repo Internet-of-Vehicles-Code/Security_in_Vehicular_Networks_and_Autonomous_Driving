@@ -19,6 +19,7 @@
 
 
 ### 车联网信息安全
+- [内生安全联盟：智能网联汽车内生安全技术蓝皮书（2025）](https://mp.weixin.qq.com/s/-ePMxvDLvL4nmKC8jIJFmA)
 - [绿盟科技：车联网安全研究报告 （2025版）](https://www.nsfocus.com.cn/html/2025/92_0821/232.html)
 - [鹏城实验室x为辰信安：智能网联汽车网络安全年度报告（2023）](https://mp.weixin.qq.com/s/UOv4G5V4qn8odOyPNh4f2Q)
 - [中国通信标准化协会：车联网安全标准化白皮书（2023.11）](https://www.ccsa.org.cn/detail/?id=54205&title=%E8%BD%A6%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%8C%96%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%882023%E5%B9%B4%EF%BC%89)【下载联系我】
